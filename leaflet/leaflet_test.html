@@ -1,32 +1,34 @@
 <!DOCTYPE html>
 <html>
 <head>
+	
 	<title>Photos by Location</title>
 	<meta charset="utf-8" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<!--<script src="./js/leaflet.ajax.min.js"></script> 
-	<script src="./leaflet_test.geojson" type="text/javascript"></script>-->
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
 	<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
-	<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
 	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-	<!--<link rel="point" type="application/json" href="./leaflet_json.geojson"-->
-	<!--<script src="./leaflet_json.geojson"></script>-->
+
+	<style>
+		body {
+			padding: 0;
+			margin: 0;
+		}
+		html, body #map {
+			height: 100%;
+			width: 100%;
+		}
+	</style>
 
 </head>
+
 <body>
-	<div id="map" style="width: 800px; height: 700px"></div>
+	<div id="map"</div>
 
 	<script type="text/javascript">
 		// start the map with a defined point and zoom level
-		var map = L.map('map').setView([53.0444, -58.5429], 3);
-	
-		// load Watercolors OpenStreetMap from maps.stamen.com
-		//L.tileLayer('http://tile.stamen.com/watercolor/{z}/{x}/{y}.jpg',{
-		//	maxZoom: 18,
-		//	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.',
-		//	}).addTo(map);
+		var map = L.map('map').setView([53.0444, -58.5429], 3);	
 
 		// load OSM basemap
 		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {

@@ -7,7 +7,7 @@
       "name": "Rink Isbr&#230; terminus",
 			"loc": "<b>Rink Isbr&#230;, GL</b>",
 			"date": "July-August 2014",
-			"url": "https://goo.gl/photos/JNo1QjuDjZentLEg6"		
+			"url": "https://lh3.googleusercontent.com/D3Z3LzL0xiQ2X-h8trhAdovPJn4FjiMxUPcufKPJqWs3s-Tlol-NHVwVDWj9eRu0_xePw1px0m92UD5yzmZPfxwiyfMsZLyP4sQ8W73Ibu3FeoN-EdpiZEqtQUtEMGIgY2FgV8c9fukn6VkKP_Onm1i_CYvilUc50eUfP3a3Y9gLHbnEWhE34jQaCLZCArpFX_DoBNPwjU9u4mA0tZj7DubVPLsYts_FAtpPyjFNF2wHhQWHtGWE2IG8cA8wHlw5L1shSyO0OB3fzoUOFMCkSEoqvecN0E_au3f56xQJ8e2OC5ZVHbb5LT3X__g8RpMAFLyk5cZeo6juys0uUaOA6eJKbwNWoIe7fnb86yd3HDEjzybyCAE3JsbJs0UNLMNNekMOkQxWxIyxhuC-eLJXfFKkpPhTrefUonK11ziFK_8uBm0UT4Vn_e1riOPpvQCaKvNbypxGPe6zLxmsLbb0kP6-3-62Fx-WAPnVsb9RcES4xEz5-U4Oo2nvMRuQc5TeId_NGz1JVk5HPos6cP2MF-ju7xY1BH-Hre7e8918jUTRKqGKmzRj-KMG1SYxcrvax2s4GSpOh3JZxbFi4i8u3yM9cHVHwkA=w958-h211-no"		
 			},
 			"geometry": {
 				"type": "Point",
@@ -19,12 +19,14 @@
 		{
 			"type": "Feature",
 			"properties": {
+			"name": "Falls Park",
 			"loc": "<b>Sioux Falls, SD</b>",
-			"date": "Current Location"
+			"date": "August 2014",
+			"url": "https://lh3.googleusercontent.com/547U2s27skFeUvHDnRFE46DnjyAu7qWdmTZzzf7aEnU2xBvs-oJoXkGmPd4GMJHIz5pDF3khMHMh5asYNBr29DcbRRaWiM2mwjCV-1oMvbYc7SjuXSJ3GwFcbytSbb-sifh4qORP--2F3YkbGs0udBOvrrb6wLq2A96EykgV0YKhICGZcmMTD1Sbf1rWGILPkp29jXlxJcU-c2HI_DFOcWlOsRX8hjBBb_-RuqTDkAjviMjlGp3i0BQ9SnflUCu1FKNA9RKeAgPcVSfO21z5xDYeWSSoDJtlCLMlbkYi7fsbc5G6SSZ8oFeHZLeguQHk2ZBjJm3nHza675-9UEdr1vzKoBJuJXIdEruJlNuPoLhpviwaA8viZTOzEj4YMJlqsDbONdhahtlrtxRgRgE-IrydzYac1l9X7LEkYuo8yqfWe9_d469Fnm2Oo_3WIPVN0ozqwUAMzdzJDqRglNDdhoWkqsTeli9IxrEo19wW2ViSpSh7dlXljozPQqXsE0pX2d4D3tQOhMA9_t6bMsc2Bt8_nnls51TWvXa36pltA4pRusGMDoo8f_aUavqQT-FE1fWKu9V8sJg3dz2qvm384oWvfldd4Mo=w958-h296-no"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-96.731949,43.542030]
+				"coordinates": [-96.722513,43.558163]
 			},
 			"id": 0
 		},
@@ -35,7 +37,7 @@
 			"name": "Central Park",
 			"loc": "<b>New York, NY</b>",
 			"date": "July 2013",
-			"url": "https://goo.gl/photos/AgV7rnFKuMRGzsU76"	
+			"url": "https://lh3.googleusercontent.com/hvwZ8CE5y2zwL-6IDOUO59rNCmZVsxWflu1OP3p0YezfSogNnqh_5TzRc_JUE2LSUZgsjdD9jxn-pdNeg3XwC-AodkC7dnBuV_ZpVQBGFl8J0o95HJqgroCLKDA7gwWOOURQ9TiRovdoNjED_7Ve1aF4D-lWY7czcqJwUHjnjNsVuPk3x7CAVPAaaN-yXUr2wE-XNeHizP0qXazcUJ43qfrJgNrJrWB8Px4sdCpsbjDRATV8kfy-MlfeGPaycnflgj6gIKWg5dU__Xv_U-YQY_JrZBV8N8XjkDLls4eWJOSoX97VfbAa10rsMGFn1Hg6irBHf8nZtRs4dPHP5WYYIqdn6-QD3HcmqzJTaH04T0D9F7_gerk6A1SMNOi-JJYMZaskFJvTd1N-p7kDuyLaSvYqmFRUSLLKyE2sILUrXTGX6uE-SbbpmMZRtgKi6NUiUg_iWNRPBug-K_9Gbd4wQxBNBQlRuYjTSpuQ8MvKM0Xl4iulV7_iPD46kYP2Zaw6U8x9-ay3kRigdC4zatsL81Qhfzw5CtuWU6N9vlTE-THxbdx0-_ZdhNJyPyPzuLjTIYe36jnfZbgLkNMZPeuXxtYngNrmGfk=w958-h153-no"	
 			},
 			"geometry": {
 				"type": "Point",
@@ -92,7 +94,7 @@
 			"loc": "<b>Myrtle Beach, SC</b>",
 			"date": "January 2016",
 			"image": "Lizards",
-			"url": "https://goo.gl/photos/2PiEzaRq7WWARRwc9" 
+			"url": "https://lh3.googleusercontent.com/k-ns2XirpO0yv6KUotnrUsKd2gPsBR7k34XpoFgcvJeLtnMz2Y2Ve98ZEhomop_kVmAmTJ3ESywPnSoVzXCDna4H9j7UzhqwOeeAnI9qjXXCKe7QCaUDViKy8FqMXkH6TkNddCWrn8yLZ0rXW879XYYiYSVsBe5-JWKLw2W7F6Pxq0gHRsbHH_vwumlFml1bKZpP9M8x738B4YUOWAqyGBw54a6OxrJvAJudWJA7Ap9GV3OYabCoA28U6tbPNnCzXdoqhO6J0kazrEOjDN_FEgU1QLiEKU1KntYO11x3IjUrT66wYqujFacJvZUx8-Nv3TYhHj2C8oXfslqF80fKq1OVx9ONSJW1fZxBs234fiSAZj9peNh4ezynpw3-SydxSGdanMwgpJMuC5P79tQI32HEQlPlrTgKbxvKI5Pn2S4dYvJmljP6SP0eyJ_nBC14ERKU1h7JPF5_y22y5R5yEe6cGQudGz5W-g6hCxax7Mfku5cXyW_T--BqNW-LhoabqsOY1bUgthvO9ksgtIt43Fwh0iq3-XsbdxTUpyUbT9VCS8nt6-jrcWZL78IcOm8i8mJZn7wXKT7lTXlNnkMXEQQ7dRGC7-c=w681-h907-no" 
 			},
 			"geometry": {
 				"type": "Point",
@@ -107,7 +109,7 @@
 			"name": "Ilulissat Bay",
 			"loc": "<b>Illulissat, GL</b>",
 			"date": "July 2013",
-			"url": "https://goo.gl/photos/DcLq2Qss5syV4kEq6"
+			"url": "https://lh3.googleusercontent.com/bkUc868CYOumZ8ryVcUhB18PW7gbf9vnW7K7jIrk7LVZi0mH_ZBE6H8wPs3lqGdzdD3JyrjnawWvexmtW2GWb7gS2xkVAujz4Q6TaWkaFZLcGFieb_EZQAbQ6mZDLJbVpXzIqMc6FVHWVtX88AFn9d1UsTdeiwMOCq6GHbzq14I4M7y94hRj-iIzR6hynYuS1pHx80b49bGI7gQwLA1hrHiZ2jfK7wNnWzN_TvR0Q7WeY1F_LhhHxvQQsvY8RjvZVkdbFyrTSrTtkqoVbK0hxZyDXJuGN4ACvrmzCTtue1i7StMsPsuoRQ0NZuHQNy8A4I0XGwAKQZmg0ocS_KQsk629toaF7CCNTYsMC1H_oqttEJzghQbq3ME_YvHlvPSzTFIcNBaUOfy1_G1-P1DLodNjKhQAyxKzEPZvBPwFf9jH4GbI68ib35mypVp_XicHB9b_k35EqgEy6UDfOvr-62Z8nTNzlQvu18iOcOWlP9jFf0LQML9eptFVyhlmr3m2NfvC50BHPBqSm2BZXlaAAFDZkoLvwBAmJmar-tNWTrSsJCOGky1b9QMNYtGcybpxODwDKUvjbmtMjkDfhRSSFI6opMPVPmU=w958-h199-no"
 		},
 		"geometry": {
 			"type": "Point",
@@ -144,6 +146,89 @@
 			"coordinates": [-78.908698, 33.665884]
 		},
 		"id": 9
-		}		
+		},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Seabird",
+		"loc": "Galveston, TX",
+		"date": "January 2015",
+		"url": "https://lh3.googleusercontent.com/VP9pBkNpITeJANV3MQKg_G7UqFiwMejjVoPU721tGs8GnBiTPBkEaff0c9HCgvaXjP6gFsGoB7kzA3aK_06ErDwYsu4L-a6ZR5azd437Qm7Tz5jyZprCzcLu1jkiuzE8gAJb2td-OwCQNzrau_MGFH9PVZSESq6D0KmS54D4YIRa3C-Lk1UN8np3tZUhDRVigZ9JX14r0rV7njm8xklIExqAc0I_zX5ZbNjeqs7q7T6p4cE28vLU0VwO7Ep7pJA83ZYSJSHs7M07H-9NO8XhTYz0rK_c4-6b2sT7I_5RvyC2cps3sJD5bLgI38i54V08LT2fd23gxJB5nJYpfz5gejv9P7srTPGU6rRzPbAtMX7ss7uPLm9LBy6T3Ynzu3umXYXl0pXsrE4_tkO612oVPDoadsvUIKsU3QbsTW9o165IjLuedgTm2_yBI9looVHgDO8piWTWCyQgecuDGJ99Kzxigw5UMP2OytDuFPRvyQTAd_B9kzyxf0b7LkqvU9Y2YUn-B7TFgSHdFyndYEH2xRMexTNc5wxhFZCT18j9omFW5nuAPo3M9jUVTYeCFAQQqI07EOtVrrY04pGxdzrJBXQgCYDHQrs=w958-h719-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-94.777698, 29.348381]
+	},
+	"id": 10
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Myrtle Beach SkyWheel",
+		"loc": "Myrtle Beach, SC",
+		"date": "December 2015",
+		"url": "https://lh3.googleusercontent.com/dHmZ_Ll_-3r7VzcG-L4Bwv1X8DdN_REJ_JKrr3YGsGyoMlZobXt79DpkZhxo6HOFGBtKTquEtXR9mCv6Dnn1Kx8Isq2BpvMFOQtG_BRgoS7g7Hw0HpH34laLNqfcsZzb322-hTFMMQ8lBgtkYQIFGe0-VL2lV6AUKERI9_YQQTXN6_-k9w_ZYSynRG6S4mWhNzluaTjsKKJBOZCopc2FUgcHJcN92jTSghYHN6153DvhCNZ5ywWBQ66j9LFiYx1xToRiQVhXr08CDMAXSiNpPG4GpY8q0FvICWb0lfI_HW8VJOHhMt-z-kay8_qT17Y_zteRQ4aXMoY6QPQctFELCI-_3JsqBd4i_e1yC_oRlP3qZB5Ph2yNcSVJhkhIVA5BxzA4VMdgCx22bqnOioGNXXsFED-74-ka-rGQ1uRQcAjPqDz9WVUakmieKCEht4zsR3WUaCMoITcxqlaczQnA4fdIqmLF0ioXkSW5ens7gKTjceQasLRBwLWLgUbg_xt91W7ybFSvRHUJyvcebgEE9u-YsTuh8rlMX_BJjDOTUcGLQQfvJJSSit3CAhXbAa--cJyidEgw3a2ZexsAOLZxUkkNJpMHxO8=w958-h719-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-78.877129, 33.693890]
+	},
+	"id": 11
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Galveston Pleasure Pier",
+		"loc": "Galveston, TX",
+		"date": "December 2014",
+		"url": "https://lh3.googleusercontent.com/qkGWrjG6GDdhauAk6cneLdzIZ2sPXfdrxXqY3IAGIx2SnTPaIMorN-aJ-YWLF22K-H6md60IbovRwD6AANScLp2-1reaUxARK4L3AKR0x6TGyD8xGyMwiHJ25mqizqcY4WxiDgknSQxxzPUCcftWk4mkF53bp_KMyEhVhop17dGDQiQFLQ90JPEDc1vhdjsoRG4LQXkxz4dh_zXDOsVTRbXUbCY7NQY7k8TU9K7G2dzyXflHiQGZB5nX9yNIWY0EWRMlqh4dDvHBpyD84pWejiVcaUeUHWT9IO-M5lai8QlMRZI4d_YtAYw7MA1Qmd_BGDdmSMRs9KoKtC6hYQ-dcPXswxGydx8YvZ_-u11ZGj1eG-eO-tjTsXGtsNNjz1HGh9fV9EVkLSmK-b9L0JIgqBEXrPeFXRLB-b0lIm8MRt8kWg7Q7C8uIdiYzTzj1QoT0vappzMRoS6hNljQKx-5A8RDrDqPr8UasJ8aWtn5kg1LvrrXeHIWj9u3MVZb1zDkx3CZN5pQeW-FMxHmbR5HlaBzII6MEKDhRwQa25D3jLMfRLlsmKOBtY8gWKFd_liE15dDsDcRiRqElmlGpMn5fcko3IYHy58=w958-h318-no"		
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-94.791943, 29.287188]
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Galveston Seawall",
+		"loc": "Galveston, TX",
+		"date": "December 2014",
+		"url": "https://lh3.googleusercontent.com/J69S3wJC_AXpCk4D3-i4dK8conpa98P8m37nJCoUpP-XlALYvjAIUnpGaW-jR2qk9YZoQ5qYDtvlHunACrrmQTE4TCeS8pGt84oWwJ-vA10aOzn3Hef7BltZ6mRKIwJdFGFRWeoBXIJhkiAjyp3mKsAlDSdpXiRl8W-CqO5KgxegLyq_1koWMDgid2c0FM737vcKqW_J069lzWapyuydmR2wL_H02Nj9UobbMqEQBLDeZ4wvxChXTC3nbQ2J9wx4OX-cXv7VQyFW_ewhu-9Q0_6PvaMUCng_TQ14iRGLx2as1eY56qI75VdM61zwgIYbkYIS5SgFo6Q--nO2g44dKPaP72y61u6-Lb_1A7yJtWzIEniwbCH4pBVjPw-poWvqBJRbaaAf-qwOvg4GRMzmCcotFL6hDo_aZ-c879qUhPRE7-wcP0K7OnW4PyWbv1-Y9rm-pDOYsrn5l4iPDfAuOZIndjUap7mICQvtoznMNdJVI5Os-D9ySyqrJ6_XDZmmr-14uG43zdO2yN4ymZnYyb3o2j5EAVYSniyTPGEM9kF6PM8hPsOI3aFMK5Z5pPPyl4VWX5O1zd_g4ba63XQ_dL2Ay1PuCQo=w958-h719-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-94.859836, 29.247093]
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "University of Kansas",
+		"loc": "Lawrence, KS",
+		"date": "May 2014",
+		"url": "https://lh3.googleusercontent.com/lO8qjlnZwn2frBd9q6yENPSw_YKnCc2zDX9pjMvyFDyR1CEQYPcy3-OD5UGeRioWVBjBnw8Tl_4yqNBdKx9snfCIQzq3ZF2u0UxFYZrjxxKC9d0rzy8gnef4EPXvuzXA-vBcvnRWIuESl6L5tttApC0yHzLbR70xd09o6dDu9sLHS60tA3z8hP-5P8E58n5puSL9bhvfcnyjwAsiNF201LMagdywnIfjElXWVOE_pXabj9ZUsFID2QVNTLRh1PP82XeuCwrkgJXVYwf6ZCvHifwYpGPt6cB1F0KMfitY4WSOM4F_Lj_9x0GluPFCW22sNS84HrSbgOApjB_AEhD7AfhoSAIUs6KN3eFktryQ_O3SO3R8KfJ0mzO6Ax03KnJw3VX1wj58gygAkE6UiUq9Gzmujhsw3LMVI6JCfvmMN7NjGpYFbmyP6w4b46ymkxn0CMqJl6VggcHkb_8uBsmOYSEjRqfY56oVc2u4IiPOqcyV9zp0I3Ku-NI5QNm32Rqh2pyl1BRJrDHFXtPSi-tc1GLx4GCMw2awfAWxU-7zfns7mYKTCCQXKTm0Owh9o3hV7bDt74hT6tJ2IE3h3lAuBW8PEF9HFr0=w958-h542-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-95.249305, 38.956688]
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Shoreline at Endicott College",
+		"loc": "Beverly, MA",
+		"date": "June 2013",
+		"url": "https://lh3.googleusercontent.com/Wl4AH6HF3cu3xbLhLVa9nDfPwbZYhbSp8hG6HRWWzpAtsj0iVf70v1VFAIrV_d5xRjThGH-dnMAaR-ax6QqcpcoxhpvIj27dcS2rJu7lWwYrQWLWMuw6FvQmDt5uH3S_f-6NgTosevGsE5Jmt4pWDL5KbClVlN4UTCGL0Ilfwl6bRfrygssUZldVzuDDPRqYTB6QADkTQ3is_--gyC4vklo7Si2Pe2Pr546PZuYcT5jMQUpVCRDVWPp03sOSm8qKdTZgExCcW9FEhN7ZG5TFjUR-pSsZlg0kHSiAP7zgF2WMFdxfuqXYCSH4Izs685xkzTFsb6kb8Y7MAhbwXO4v22PTG8-s6gQ64HeYo4Xjo8jg8d4IO3Hon4bGL2aZhkpxgPtFYvm12E0Y7z1FrFiocxAM5BWDqvht7cgFyXFoy_lAa4sdhdQXOESe98rRBk77oriuDyOcfq-Ig-dWMnOODTAr52dGaoM8YlU7U5mU98PKZIPy0dSy8sM95i3GWkuWv4wV3PtgtRuA7f_OOrChyVgGqDpxMBhZ6_RzeNQyHV40lGOqZhm43dDMDMdbfNlP5FwWnL2MNZ8828NEDIr4mtjS5m_230o=w958-h719-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-70.849267, 42.551023]
+	
+	}
 	]
 }
