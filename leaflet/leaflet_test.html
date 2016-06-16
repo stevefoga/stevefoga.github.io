@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Photos by Location</title>
+	<meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!--<script src="./js/leaflet.ajax.min.js"></script> 
+	<script src="./leaflet_test.geojson" type="text/javascript"></script>-->
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+	<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+	<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<!--<link rel="point" type="application/json" href="./leaflet_json.geojson"-->
+	<!--<script src="./leaflet_json.geojson"></script>-->
+
+</head>
+<body>
+	<div id="map" style="width: 800px; height: 700px"></div>
+
+	<script type="text/javascript">
+		// start the map with a defined point and zoom level
+		var map = L.map('map').setView([53.0444, -58.5429], 3);
+	
+		// load Watercolors OpenStreetMap from maps.stamen.com
+		//L.tileLayer('http://tile.stamen.com/watercolor/{z}/{x}/{y}.jpg',{
+		//	maxZoom: 18,
+		//	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.',
+		//	}).addTo(map);
+
+		// load OSM basemap
+		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    	maxZoom: 18,
+			attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+		// function to load points from geoJson file
+		function addDataToMap(data, map) {
+			var dataLayer = L.geoJson(data, {
+				onEachFeature: function(feature, layer) {
+					var popupText = "Place: " + feature.properties.name + 
+						"<br/>Location: " + feature.properties.loc +
+						"<br/><a href='" + feature.properties.url + "'><img src='" + feature.properties.url + "' width='300px'/></a>";
+					layer.bindPopup(popupText); }
+			});
+			dataLayer.addTo(map);
+		}
+
+		$.getJSON("./leaflet_json.geojson", function(data) { addDataToMap(data, map); });
+		//$.getJSON($('link[rel="point"]').attr("href"), function(data){
+		//	var geojson = L.geoJson(data);
+		//	addDataToMap(geojson); })
+
+
+	</script>
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,149 @@
+{	
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+      "name": "Rink Isbr&#230; terminus",
+			"loc": "<b>Rink Isbr&#230;, GL</b>",
+			"date": "July-August 2014",
+			"url": "https://goo.gl/photos/JNo1QjuDjZentLEg6"		
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-51.731001,71.745573]
+			},
+			"id": 1
+		},
+
+		{
+			"type": "Feature",
+			"properties": {
+			"loc": "<b>Sioux Falls, SD</b>",
+			"date": "Current Location"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-96.731949,43.542030]
+			},
+			"id": 0
+		},
+
+		{
+			"type": "Feature",
+			"properties": {
+			"name": "Central Park",
+			"loc": "<b>New York, NY</b>",
+			"date": "July 2013",
+			"url": "https://goo.gl/photos/AgV7rnFKuMRGzsU76"	
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-73.958168,40.789010]
+			},
+			"id": 2
+		},
+
+		{
+			"type": "Feature",
+			"properties": {
+			"name": "Reykjavik from Hallgrimskirkja Cathedral",
+			"loc": "<b>Reykjavik, IS</b>",
+			"date": "August 2013",
+			"url": "https://lh3.googleusercontent.com/X9qzf0iNFz83TFITB3mYWUoESrvKA63SjvHiFl6P_tG3mNc2sA0LQ-F5x5gODvHkbshxfhbTe8yzxeJESqbQxFrzLKXGSDB0aZ_PDyuZGKHyOj6eLdu3zNRpyD_XqkeWt-WSsot8KIXuvBCNEyzNjx42FOLvRZZF3-DptkbHjReRjK7akWtrROCWnVGnlBXAtVfMfVgNEY1sAkxvVJ08fCj_Vw6XHqeDIZkwU3II5DXB0faxq99mIT0f3Iwe-T29OSTjB3HlEtQJN4cLWfPluTiGyQ_bDaKo9GBbjxcMJlTPIyCyYy7Ju-Jp3T8Xse9AaUDwtLt8Ybn9bwrVa4a9xKXRx1nzSgyOAfSqXEUGg-Qtfk9KzTCLF9SZ4vR6PRvJgOVHe0kERy6uhtCWkyBe55tjAAyZS6ehqzRXUTv2DMhMwQEp4_falMtEULJFvCHBaHYIMa1MFTo84NKLskbmQyyuIgiSdXSEm8LcDZBtAVgv5gigoHtWwzxBOxMj4dgSD0t20LS4EZqaFW3L_StQms1ecg_qXbDAtt4JozL1u44iIxyBOplr8hDBg0Mo1PbOZlMcO3qwxoiH1EV0V1b_srXoSOeVtus=w958-h147-no"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-21.837721, 64.126409]
+			},
+			"id": 3
+		},
+
+		{
+			"type": "Feature",
+			"properties": {
+			"loc": "<b>Washington, DC</b>",
+			"date": "July 2010"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.038318, 38.897684]
+			},
+			"id": 4
+		},
+
+		{
+			"type": "Feature",
+			"properties": {
+			"loc": "<b>Uummannaq, GL </b>",
+			"date": "July-August 2014"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-52.126389, 70.674722]
+			},
+			"id": 5
+		},
+
+		{
+			"type": "Feature",
+			"properties": {
+			"name": "Ripley's Aquarium of Myrtle Beach",
+			"loc": "<b>Myrtle Beach, SC</b>",
+			"date": "January 2016",
+			"image": "Lizards",
+			"url": "https://goo.gl/photos/2PiEzaRq7WWARRwc9" 
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-78.877893, 33.715890]
+			},
+			"id": 6
+		},
+
+		{
+			"type": "Feature",
+			"properties": {
+			"name": "Ilulissat Bay",
+			"loc": "<b>Illulissat, GL</b>",
+			"date": "July 2013",
+			"url": "https://goo.gl/photos/DcLq2Qss5syV4kEq6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-51.094188, 69.219922]
+		},
+		"id": 7
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Kangerlugssuaq Fjord",
+		"loc": "<b>Kangerlugssuaq, GL</b>",
+		"date": "JUly 2013",
+		"url": "https://1drv.ms/i/s!Aq1tLEwGtKm7ukwD0LNV2kwUL2Qt"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-50.687450,67.005514]
+		},
+		"id": 8
+		},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Beach Bird",
+		"loc": "<b>Myrtle Beach, SC</b>",
+		"date": "December 2015",
+		"url": "https://lh3.googleusercontent.com/ZXv-4U3OnJXrckHAgHtEDV7qo9siaEEgkJEKxZWvAEFLDAu5i1-0on8YdqGXJCqMT4GSMqK3SnDapwxJseEpL98psObtCzc-xhJHlaDaADUXb2LdNGiWO5h2ioy_7-5j-bB27cCNufRSz6A0Qb8r1RiS-aWlto3inrZsAWxla12bynaaK1PTMqtZfkRaCt9QO3ZnRZZ_sQDhFhb7y4eOMgqCMkuqEl4RKrayc6v_HTc60uwXzXui8KR9cKz0pGebzH8Iiz9IWNJ-hVW93cIGjtDs29DoGFiS31lvEIBFTtwdwZi6M8L9BMgDQGhadOo3gXo73T8LgfKjO10RmEQM1VrbyhnxqnJVxkwNL8FTO0wPdhyZIHC_6LYcxcteDTddH1gUOLdoEmAijaxTxDYmPff_WzAFENn3biN7wsuLh19krgcuOxjGOx_dErMCUSDOAV5iapnqA8CAcZfrXDK-Z_qdxdWdF0Z6IEWAfxRtPT7k6EAZkhk4jgYXV-_Ej9DZe5HuQabzZX3uKU4UwFQh0Hy_JVJ0QpicBubu-eU6LS9YWM1qCIPSXkaKCSOhUJa4MRs93LvMH7SdWwpXhvcQdR9iSaKu4I4=w681-h907-no"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-78.908698, 33.665884]
+		},
+		"id": 9
+		}		
+	]
+}
