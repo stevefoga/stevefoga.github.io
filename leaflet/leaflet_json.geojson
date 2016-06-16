@@ -203,6 +203,8 @@
 		"type": "Point",
 		"coordinates": [-94.859836, 29.247093]
 	},
+	"id": 12
+	},
 
 	{
 		"type": "Feature",
@@ -216,6 +218,8 @@
 		"type": "Point",
 		"coordinates": [-95.249305, 38.956688]
 	},
+	"id": 13
+	},
 
 	{
 		"type": "Feature",
@@ -228,7 +232,8 @@
 	"geometry": {
 		"type": "Point",
 		"coordinates": [-70.849267, 42.551023]
-	
+	},
+	"id": 14
 	}
 	]
 }
