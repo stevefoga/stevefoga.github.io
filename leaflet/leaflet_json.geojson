@@ -64,12 +64,14 @@
 		{
 			"type": "Feature",
 			"properties": {
+			"name": "World War I Memorial":
 			"loc": "<b>Washington, DC</b>",
-			"date": "July 2010"
+			"date": "July 2010",
+			"url": "https://lh3.googleusercontent.com/df9MgLaFAe935MZw8A6Z2Ug1tNXSa8vy-uWz6MOW_coOFpj_fuAIcL15RydcAs-o5v0FIat_Ds4L1wgT7-csvMa2KYn0XtA009y3BhmbQhhjgeEUQLxWfXgIpIeuOPsiiaBCsVQNKLjFg7I-aXiX4NSgVdkM4dM1W9tJxf8RNTI8tbU6c5d9wVBD86fLniwcLRAp2GGMUDFldriasSyM2m9wqoPRR9keiQeco6k5740eTNV2G6nb-CW3TMDK-vsvYuPiWEGweV_SIS2sioOj7Si4SWEXAAeOEprMuUuqlHEzylDWk0hEoGhUGTfLf1QKYDlOw4mUOvZdg6bU6HK8HUHeoLO8cbz-EOaJ3LmSLBDQREpYmHOyFh-ggCX-J7Hks1ubw5C2QZQm-nKb3isnxgE9eR5nRM1aInU__3oyyQAp7zwc1WoVFISUvlQisBQky-Y3bluI7xWm2gR40Q8kPnkeiuaM63mBdo7peLmepod6XEwHxiledyF7eyG9dEsnlAU1HsJyFIPG2r6pk6dK5JQd-b5lvqXY4POOO28xkjaMK-T6VIkzSdeq-KAtkN8O1jM28bic5yHvhhw6R_qMIZlP8iNke_Q=w958-h719-no"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-77.038318, 38.897684]
+				"coordinates": [-77.043432, 38.887918]
 			},
 			"id": 4
 		},
@@ -77,12 +79,14 @@
 		{
 			"type": "Feature",
 			"properties": {
+			"name": "Uummannaq entrance sign",
 			"loc": "<b>Uummannaq, GL </b>",
-			"date": "July-August 2014"
+			"date": "August 2013",
+			"url": "https://lh3.googleusercontent.com/5XAtkZas8RKnLUxBzRiycS9yBROWvlKdGVAo3OF-WyKy0wajf-0kUj4SQg9opE6VXH1XCgYjtyD1xJo2FoCOE7Op3gzSfXbxgaranERIm8DCsx7Zvatvc5zohLJGJFCHJ74qV3Qxa2AmzmK5KxaR1lgQS9BcKVUtxQmtJxZWFkJPfvXx7-e7-U7OqoGx0K34YfMgqGnKQjgF94u8WTzeX7IbUx3IB98fopNTSGHL0KKvu1NnoPJKCtu20yDtyymRHCGzol6Z155HNc6MBIAsBwdeOuL4mJwRXsmIFEHchtMwbh6EAFYWjr0tmycXBGcQnhOoDtuUkuco7_Lm4LXF8W8SPfUyksd6Ph4Bxy1gffOIbjFNHFR5uV1m3bZ28dIRr_MJ2mSc9nWDP5C2BZPADRm4ZC4B5cmhsoHv9tV8Sd1Z2Pro8PlEPN7535yVVXY4qBo1jjkpCMAPKTbRX1vKrHKLph__zW3clyJ6SD6mDlYKQFGBVzzMyXeTI9ydUDQJ-XWM51rwmkSGwkPX168A-FVFg7xuIi5D5DQvRmS32wvdOfxJ-viYbTD5LSusqy102489L56nFFIM3mOZ7zFLTalS9QnZbus=w958-h719-no"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-52.126389, 70.674722]
+				"coordinates": [-52.112698, 70.680573]
 			},
 			"id": 5
 		},
@@ -124,7 +128,7 @@
 		"name": "Kangerlugssuaq Fjord",
 		"loc": "<b>Kangerlugssuaq, GL</b>",
 		"date": "JUly 2013",
-		"url": "https://1drv.ms/i/s!Aq1tLEwGtKm7ukwD0LNV2kwUL2Qt"
+		"url": "https://lh3.googleusercontent.com/7Vy87LI-M0rxqi2hU7wk22Mcq9cwEvSwFrRvuI61iDlwcKXULrfzYq_XTR7b-yjTOtj9sFGdNRAQ2xQu4f9SkMZEeaue4R9WIloPOWoj3M9ieOCIUSvQkLL_BOgNFNubmZwqSwE424coQ-M5oTYkCi1tX-coSAJ0GHW3lNi1bWrtD1_RBQwiF0vJ4w7Es0KkMjbQhk9XkEupdqaJe7IBNIQv6RMFhI9El5VR4nUwHY7FinWywyOa2D8m3ppJVO6yZqATAcpTzJMXxx2lI2A6llw7V1m7oasFatCCdqOLhdtsEBGZh5iF5XlSCp1z0ZPoFZ3jbkxZbpUn1FVJjRYLle8z9WmQ_cRMtrgMw77KsnOUqYAl5smh8i0MMPaGxtxq5Oqw6Lsn8giWl2hO9cMC4C4k5O6ZjascpwRrnYnTM_G65UVBoOgW7pWKq3WXYPNpcWjKtvh0I5JAbcBVgR58H0mIIpDUhP_WLtWQCGrwk-TUjcAashJkFBlbSxyuIEP19VUc_XlaTOZyG951AsqnJVfu90BcW2JSvDmT_7V4-xSFu4FiNx5zKoR_I_jA8UMHb5iXVtWsoK-zQdEVIsIBDInjk9Znv1I=w958-h719-no"
 		},
 		"geometry": {
 			"type": "Point",
@@ -190,6 +194,8 @@
 		"type": "Point",
 		"coordinates": [-94.791943, 29.287188]
 	},
+	"id": 12
+	},
 
 	{
 		"type": "Feature",
@@ -203,7 +209,7 @@
 		"type": "Point",
 		"coordinates": [-94.859836, 29.247093]
 	},
-	"id": 12
+	"id": 13
 	},
 
 	{
@@ -218,7 +224,7 @@
 		"type": "Point",
 		"coordinates": [-95.249305, 38.956688]
 	},
-	"id": 13
+	"id": 14
 	},
 
 	{
@@ -233,7 +239,7 @@
 		"type": "Point",
 		"coordinates": [-70.849267, 42.551023]
 	},
-	"id": 14
+	"id": 15
 	}
 	]
 }
