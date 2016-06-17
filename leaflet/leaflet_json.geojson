@@ -64,7 +64,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-			"name": "World War I Memorial":
+			"name": "World War I Memorial",
 			"loc": "<b>Washington, DC</b>",
 			"date": "July 2010",
 			"url": "https://lh3.googleusercontent.com/df9MgLaFAe935MZw8A6Z2Ug1tNXSa8vy-uWz6MOW_coOFpj_fuAIcL15RydcAs-o5v0FIat_Ds4L1wgT7-csvMa2KYn0XtA009y3BhmbQhhjgeEUQLxWfXgIpIeuOPsiiaBCsVQNKLjFg7I-aXiX4NSgVdkM4dM1W9tJxf8RNTI8tbU6c5d9wVBD86fLniwcLRAp2GGMUDFldriasSyM2m9wqoPRR9keiQeco6k5740eTNV2G6nb-CW3TMDK-vsvYuPiWEGweV_SIS2sioOj7Si4SWEXAAeOEprMuUuqlHEzylDWk0hEoGhUGTfLf1QKYDlOw4mUOvZdg6bU6HK8HUHeoLO8cbz-EOaJ3LmSLBDQREpYmHOyFh-ggCX-J7Hks1ubw5C2QZQm-nKb3isnxgE9eR5nRM1aInU__3oyyQAp7zwc1WoVFISUvlQisBQky-Y3bluI7xWm2gR40Q8kPnkeiuaM63mBdo7peLmepod6XEwHxiledyF7eyG9dEsnlAU1HsJyFIPG2r6pk6dK5JQd-b5lvqXY4POOO28xkjaMK-T6VIkzSdeq-KAtkN8O1jM28bic5yHvhhw6R_qMIZlP8iNke_Q=w958-h719-no"
@@ -127,15 +127,15 @@
 		"properties": {
 		"name": "Kangerlugssuaq Fjord",
 		"loc": "<b>Kangerlugssuaq, GL</b>",
-		"date": "JUly 2013",
+		"date": "July 2013",
 		"url": "https://lh3.googleusercontent.com/7Vy87LI-M0rxqi2hU7wk22Mcq9cwEvSwFrRvuI61iDlwcKXULrfzYq_XTR7b-yjTOtj9sFGdNRAQ2xQu4f9SkMZEeaue4R9WIloPOWoj3M9ieOCIUSvQkLL_BOgNFNubmZwqSwE424coQ-M5oTYkCi1tX-coSAJ0GHW3lNi1bWrtD1_RBQwiF0vJ4w7Es0KkMjbQhk9XkEupdqaJe7IBNIQv6RMFhI9El5VR4nUwHY7FinWywyOa2D8m3ppJVO6yZqATAcpTzJMXxx2lI2A6llw7V1m7oasFatCCdqOLhdtsEBGZh5iF5XlSCp1z0ZPoFZ3jbkxZbpUn1FVJjRYLle8z9WmQ_cRMtrgMw77KsnOUqYAl5smh8i0MMPaGxtxq5Oqw6Lsn8giWl2hO9cMC4C4k5O6ZjascpwRrnYnTM_G65UVBoOgW7pWKq3WXYPNpcWjKtvh0I5JAbcBVgR58H0mIIpDUhP_WLtWQCGrwk-TUjcAashJkFBlbSxyuIEP19VUc_XlaTOZyG951AsqnJVfu90BcW2JSvDmT_7V4-xSFu4FiNx5zKoR_I_jA8UMHb5iXVtWsoK-zQdEVIsIBDInjk9Znv1I=w958-h719-no"
 		},
 		"geometry": {
 			"type": "Point",
-			"coordinates": [-50.687450,67.005514]
+			"coordinates": [-50.687450, 67.005514]
 		},
 		"id": 8
-		},
+	},
 
 	{
 		"type": "Feature",
@@ -150,7 +150,7 @@
 			"coordinates": [-78.908698, 33.665884]
 		},
 		"id": 9
-		},
+	},
 
 	{
 		"type": "Feature",
@@ -163,8 +163,8 @@
 	"geometry": {
 		"type": "Point",
 		"coordinates": [-94.777698, 29.348381]
-	},
-	"id": 10
+		},
+		"id": 10
 	},
 
 	{
@@ -178,8 +178,8 @@
 	"geometry": {
 		"type": "Point",
 		"coordinates": [-78.877129, 33.693890]
-	},
-	"id": 11
+		},
+		"id": 11
 	},
 
 	{
@@ -193,8 +193,8 @@
 	"geometry": {
 		"type": "Point",
 		"coordinates": [-94.791943, 29.287188]
-	},
-	"id": 12
+		},
+		"id": 12
 	},
 
 	{
@@ -208,8 +208,8 @@
 	"geometry": {
 		"type": "Point",
 		"coordinates": [-94.859836, 29.247093]
-	},
-	"id": 13
+		},
+		"id": 13
 	},
 
 	{
@@ -223,8 +223,8 @@
 	"geometry": {
 		"type": "Point",
 		"coordinates": [-95.249305, 38.956688]
-	},
-	"id": 14
+		},
+		"id": 14
 	},
 
 	{
@@ -238,8 +238,8 @@
 	"geometry": {
 		"type": "Point",
 		"coordinates": [-70.849267, 42.551023]
-	},
-	"id": 15
-	}
+		},
+		"id": 15
+		}
 	]
 }
