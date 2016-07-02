@@ -56,7 +56,7 @@
 	},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-21.837721, 64.126409]
+				"coordinates": [-21.926627, 64.141711]
 			},
 			"id": 3
 		},
@@ -555,7 +555,98 @@
 		"coordinates": [-52.142041, 70.692361]
 	},
 	"id": 36
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Mark it zero",
+		"loc": "<b>Reykjavik, IS</b>",
+		"date": "August 2013",
+		"url": "https://lh3.googleusercontent.com/M7d0rH3W8U2zIM9sE3TZW5Z13XzFpNVJVS01s0JUeswWeFTSYIgOfeKGYfAa-MO_E8VzGYxUyrJE047RZDqP50kBttr19NeEB7ah-YpbAhLAXdyRTIujzfN5gw6Xws0S0nIP5bgvUj2WV0cNO6FuXb_sBqLEm-GKBkouNdvEixT8APvlrlQZLvsPfj038elo7xr9EzE40zyXSo_xVBObD2cf0fTsyzAx_XVD4IVba9V8od0jgp5DkTJbzHn3uS2ztGzctI0XeMv19hFBm7wPY7ogNsNlpL1RpBqR_EzWQkDpHHhdArD-SmkBAmXNaqkXq00_8Bhxnpfo2K0SArU0nLWJ-FeonIciChWi-9f0mg-nWHvezcRibGUvN4WKJWtoh41R2Fne-dUbe1_lqUD74WrnvssVcYKA5uH5Hj1JNB0angv07yxRA7ZCglgH5_BX1Q0ghSFzULZVoH1rgqdva_MsiXv_EQBvbS4QNcKKr2QKAbnL6zS3pZLraQqgjnibTm9KqniXnfjQxJz8TaKYkzFCETcttAA4WYQlT_VCaQKJxZOvRvVAaVkPz1MIBjRwsg3lzOJW5sb1d4LQxiz97eO5COWlD9c=w1248-h936-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-21.929535, 64.145702]
+	},
+	"id": 37
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Sculpture",
+		"loc": "<b>Reykjavik, IS</b>",
+		"date": "August 2013",
+		"url": "https://lh3.googleusercontent.com/y4gHj__srjJk_E-g2y1N84JZhgtOMiHjD3IJ74GBxYc2SHhWkm2y6h0bGKg3J7CUP5yDvZRK6LNbuMmK-M502-zCEKfdxEugihtpUarMTYXfqSPUsv89gWDzOEgZqoYfVw0HkvK0YMbGBGqKF7OkjpKtGgjz01GDFSpRAmrOg64F5frLokvpB5jYQSB_flfRpgn73dLj7wh6vTvQrnCwjh-Vf2Mojy7CA__FqY1mclAF2qTy6lRDjheCvlCBkOwqDqb3GYt-KcxbwX1-jxOT3ucbq-_7kIaTh57q8BNFn51Oc3432q4IWnzrB4d7YZptCj5lc9_Ep_48CSMNzXDUhF12M5DTzhFT4uiTycjSQvvgnb0OQVcwKIkgoKXL-x6eEjtBhbHVfq9UGgeRoj7LJMmzwmIqjtbA5GspdTSN5A47eqS0CngwJHgst7yEgkQ5bsWp8KQsyoAjr1SCVCqnf3REJR9kVY_m1YJx7FeFi-TtipPPglmYSBvfb_xb9JnAi8_Xgr_0cvh4xlzAfXnRN3Iy8aGTTb9uNInEbnNm2PidlcRtkOUzbh542VqzcbGsuMBhc6JJsOphAMO1Ss5R4STPyaiQYhM=w702-h935-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-21.941767, 64.145990]
+	},
+	"id": 38
+	},
+	
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Island of birds",
+		"loc": "<b>Reykjavik, IS</b>",
+		"date": "August 2013",
+		"url": "https://lh3.googleusercontent.com/TUjd2vskaxWkiSQLboVmiRD6WehiYMYr6jE8L90_PsZcghLsUeUpTDiMO3ronapk2dRGqOO7Nx_Pov0d1nmwzm-77acc_l-y5BhtDabZ2Jz3-I7KcE_kBImMciNJre5vNsJhU_2d3T815qBxCb8hfJkQtAzsE1fZqLQc55TcpItCDtkyyo7iGtBuUz2fn065y6jhlDlhgrYowb9PtyDpeIXaE4UzuSnTpp5ftlNt9uajGmGCZz8tzN8GR3QZKb85E0VJh4WDwizxV-WehwRVTLK3nTZxQZJUnH330ezQuSAWFvp4xPWl5gCoVpRGIdqIjB63OtIcp6cWO3ac3w-Zinv4T26AKD1i8Rh5SjGk_b_CG1rlvUsq700X9FtE2IKIMgcdj4wRXuzzg3gT8x4e4JvXdreXt7gPpDlYjI_-bWIYYwGxKf3BeW7T5e7BQiuWggaDWbKvvaI5S9oUkP5jrMpQDr5dMUX2Ak-wwQUxX08-poLWku6UtTc3_5KGUHZTdiCQo8AWXCAl75pJoYYYXuSc1vf7YSX90VjvC2NMKH5qxdFPauxHHx3iHixFOKB_s5m_469lxE4TuxLsH6Bg_AhOKO-tXKQ=w1247-h935-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-21.939597, 64.144759]
+	},
+	"id": 39
+	},
+
+	{	
+		"type": "Feature",
+		"properties": {
+		"name": "Do not pet",
+		"loc": "<b>Ilulissat, GL</b>",
+		"date": "July 2013",
+		"url": "https://lh3.googleusercontent.com/tkLwfVxnRTRPbsTQtXsNLIS_h5LDQRm0lkI_M1MG7uAoo63xlhapxbagGBceaJvCktDsel4BwrhAcPgdKyvTguclE_9jJh54BSXvLc7evOrIhbntoH5FjzcZ1zC69K1Tio2E7VpW4i648eeCHl8wsnJD_fybqllGxps3hlXgrDKiL4C7ZzdB_JeBQCzl_pCz6cVg5a0A7bGfCjvtlrgV35DO_72NlVQedNnpzYvUtj83mgbW9zS7mqVxdvkUpXkuCE0JTu1bO-RZT7Bvobod3ckS1GZ-KXhipinP_uT97l2K8A9j7vFQLamr4q1e7aCY5IKKQJKE2Lzdvp_yX4UeGdic9dkP3SQqegJ4BRL3X45QmlqTQ6XVGCFk37bWEGp2zZIz2YNiYQ8PnnP26r61RMuG1wkTc3SDqyyNQ_JM_Qqs-yUOyrlKkg2WRS9EZPRil1uccmEunT3ZqTXJEqmEbSueSWQ0S-6x6VC667t2PBE1z7wCmB3_K9r_o2UAPx-lUiX0xHJljDavE7cVSWoZlArFvHvBIETA1hJ0ZH9z6rsUb5P2LoYgazydaHOVZzNtMlAZebBTo_yGmdIgRPNx03AvIxI3F0Q=w1247-h935-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-51.105960, 69.211349]
+	},
+	"id": 40
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Ice melange",
+		"loc": "<b>Ilulissat, IS</b>",
+		"date": "July 2013",
+		"url": "https://lh3.googleusercontent.com/5wxuGOQQw6DgcjMTdAhX3iHINfjt6wD42bJbqnwLGA5hj2PPBfsSRrHG1jMJzgpmpGFDZ95h2h5F4Jj3dCZ_3eZw79jehhi23np53sjCTMb3rJLBrA3E48S2ugyMnU_Ni2q1n8rz48W5ZWcVB9Q6bBUdNRaa-cqPx-d0yhOv1FhBOUGyYV5ZOHB3bwr4DUUOODEiFXREnDjfUGtPBokIySqLe51sCec37xl50uGXwxWzDLW4EnZmt9PUacaQRyMsWQ-y3pSnlWSDC23qsCfq_FdgJBvcgVuiMk5ZtmAv6Fl6uwc3u2y78UdY-0RDBBe0WCdw5ZheoUL_LR_FsBQ0TJwIzPFek5nKJeKVIQCdOk9oxJKrkzn3Kge9oecuOjG17jues71v-xMYS_LlD5TUKHQgwppglYUjAGFrDa6pZChxBwqfEiaifrUUOBirMFKz4Bj8XkunZFfqKYOwmAJMuXYhacDTSlZOSFMjO0MABBayB0gOhDtMNIY0xuI_QUono6fldC4S217nrBH6K20TR66zdVCqFD6vCQqp1GHlcZN8NXB0cKHQQ3l_n2VAaIlWuAFjC-HRoRQxoo0dyFq86QOKDxtWDtA=w1247-h935-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-51.145546, 69.206479]
+	},
+	"id": 41
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Glacier terminus",
+		"loc": "<b>Kangerdlugssup sermerssua, GL</b>",
+		"date": "July 2013",
+		"url": "https://lh3.googleusercontent.com/t-oM8H1BEbcbZStEZTF-z3QtPe4kRDnt9btH0ogRV-vfwQ5-UgnIzuMLX0Spmv3QJpl9KS4Xgzwog3NKOEEQ6cuGTWP4iK9QlBxa01EFRPKEcfCzGHFk1Ahi2VQNk3hjmBi6-wSV237Bwim8VbyXskMn1NvKH_cQwlcEdC0nsxenE4Gom91f5lydnCWeGYpGsloI6yE_KBhc1s25hdiv1OMpH3eyG1KrUuD9fXdG10be3hX3qXzY5GGSN8bXhJud4dMeQguaCewUe83sOBb1qm8lIi73tiBNlMc6Fb72WsQzm8AIyPeosXupVqVf-oksjW8Pp64akwHqe139isZP1A7KcLuX_YKN41vWCososhoRF77TxkFpbM5fodO9tNnDbms2WuohauCTNr5CjIUFGGLiC90_8mEba8PhVkdshXRl3zKnpjhD46-4H5eU-L2JPnNDrii5uupGSxoW0HhdfrmCdc7AA5tI-qcGMKXC-TfGs9VoRMUT35gdg90CFPQ-QiyiO52u4TGDgvMcOSTbLgnRdhw9oU63SOMqjLxCB1A0Cjs1NUuGdPCkWd6V33X0Uk-8uESbvozU50AYXtrPKSVIT-8xpq4=w942-h707-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-51.434078, 71.501695]
+	},
+	"id": 42
 	}
+
 
 	]
 }
