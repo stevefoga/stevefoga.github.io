@@ -618,7 +618,7 @@
 	},
 
 	{
-		"type": "Feature",
+		"type": "Feature",		
 		"properties": {
 		"name": "Ice melange",
 		"loc": "<b>Ilulissat, GL</b>",
@@ -645,8 +645,52 @@
 		"coordinates": [-51.434078, 71.501695]
 	},
 	"id": 42
-	}
+	},
 
+{
+		"type": "Feature",
+		"properties": {
+		"name": "Beak 'Em",
+		"loc": "<b>Topeka, KS</b>",
+		"date": "May 2016",
+		"url": "https://lh3.googleusercontent.com/DiX_JnvfpNIUx__8OhHLU81QUSwN67azTwi58UEDL3Vsgz2Wj7UZ_uFQVUGcJsv_KEgsNUtM7KHIAB643xGBr00Lx0d95E_LuHPMIDMnIO7yceivfJRCBf39l-1GQNPD6SjXTCr4pyHi2IpcMt9jElstO9kdypRi9dg9IXmNLTeOp1wTMpo4LyYYqtmiLQcUglfvgfV_E-GMkfnz_YQnk-lOxrmqXSyVJiaGDkwBQkq0LvVKnP3xdSSmSymD1hLgQn8XJ_4BJFNjoahWSoppYc0p566zMtt0hpK6rGU2_uEzr0RAaPejJqH38sJymx0v2oDn9rrU-gr2WqBKTK_EkgzcL00QVwvtGgsSh6dhMc1sERabNp66PxtH01s67zjOSeYWy_KC2RWFI4twRl7CImu3ew34iL37bGOtpMOgDeQouOrBo78f9USIjWknsZKd-V14HhhRzUGKlRhpLPO5WjFfUL2RUj6TyC4EVYhbdUc21B4agjspGluFPFsuCNMH8VQ4S1PiwWjY2VVanZLlgftom5vIqPVI9utehWGBn_0chfav3OXetvPhgRzfSJE2wd1F9nfCFdOZHUg9uTIYeYzsQIcG6Dk=w702-h935-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-95.666248, 39.067910]
+	},
+	"id": 43
+	},
+
+{
+		"type": "Feature",
+		"properties": {
+		"name": "Bench Guards",
+		"loc": "<b>San Francisco, CA</b>",
+		"date": "March 2016",
+		"url": "https://lh3.googleusercontent.com/dwu8wg-5RbtNrEPJrSzWINdacq0HGz0E-qI_CPNllunCF9uADKV4pacB2Ss-k_FXupWEg9Kf7FATiGpMzHhbn9xGC8QFtfboN9R3mYR0oa7iovasvdG9RbQFNXpscaHtUnmpxTIVP5FFpWIoR1Jjvmz7teSNPNkWoONwx4jnxsdy6z3bBpIjUnY5sZ-8rTTt1nmjBuSzS87UtZH3qrIKm4Oc3yff3RxsjZKTiVm0cAbCJq_Guk2LfiCEPla6Ft095Z74IlRQwSxT7qk1t7A-whjVf6_OHAx8tbmKsyuPZCjpuAttKa2HZWXLcZjq1Llsal9rQvb5dSNlSCXOK_4qDlW1gdSBfqI6BZrT-268nD75zeVVmYHak_gpbhoCboFw9RUERtK7XVeWU-yyFZFRPRr-LhlEi0QEES6TVPRqbxukcJR7tujw3sixdA33XWg1YVDlrS795c_qSdihRRbGTBcPtnqtCQVMELj-pm4roAtCBe93ZjpbXL6unV6tnZEhWA8xR5HEy6fcLN7k31iU5iHh6GP8ljASJZszIu2loOlno3rKJnE-9FTx2BIJp-n6XqBb9cke3YOlx9NOPTYzVIck-ZfTLPY=w702-h935-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-122.389229, 37.791243]
+	},
+	"id": 44
+	},
+
+{
+		"type": "Feature",
+		"properties": {
+		"name": "Dino @ Sculpture Walk 2015",
+		"loc": "<b>Sioux Falls, SD</b>",
+		"date": "June 2015",
+		"url": "https://lh3.googleusercontent.com/dagyZtp260GfZW0E3GUkwVhs6QkFfFiPbPKNEHPgRcqo_m-d_llcVyC0wnARkzis_00nVDHA11TrvCBQIanAG8-RLG5o_2mlZrhzm3sQgyfCtOVzdpqXxGQ_q2RjcEKiDVmYWvMDDrUAj8Sf8k2WW5823K9sHYK_bVSP5eKA_73I9VV5249Lis37CLLXzQdpXKTlGqNWbJeLT29QX5m_icMFmaGs2Dz98wxCz-UJAvA6E531bk-yAE4_2ZQjxvSlQxCVs6H8gS-LF5C6zxtDzEezkm65s6LCPsNjRJu9ylMe1tlJoZVTk5IzZLpaorC9OR8Yo1AKvo-_Pk9PiQ2xYpZByOdm4KFsv6wE2FMr_aAC5iT3OdElp_tcoE_NBkrKgz1MPqE7s6RusfC8aMK5jDrHArVNjHhmcQ9BC0GvHoLZuIbmLIIGhsfxYB-wHeQGF0QWyTthX3pfkdkmHWWAj7i6PFeqpTj1HBVkqNGv6oOOz7i3oGL8HqBfxqgnsB97aCKuRQVgqnX0pWFBhdFqz0SjzThaS9i8XvBsL0fSe8qJ2I3-vGA9cW0tIaiuoioBKssZ0ztgle3T2K-3PUfIMMhqjBGE3Xs=w529-h935-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-96.726887, 43.548714]
+	},
+	"id": 45
+	}
 
 	]
 }
