@@ -42,6 +42,7 @@
 				onEachFeature: function(feature, layer) {
 					var popupText = "Place: " + feature.properties.name + 
 						"<br/>Location: " + feature.properties.loc +
+						"<br/>Date: " + feature.properties.date +
 						"<br/><a href='" + feature.properties.url + "'><img src='" + feature.properties.url + "' width='300px'/></a>";
 					layer.bindPopup(popupText); }
 			});
