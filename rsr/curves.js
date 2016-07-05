@@ -1,3 +1,28 @@
+//
+// curves.js
+// Author:	Steve Foga
+// Contact: steve.foga@gmail.com
+// Created: 4 July 2016
+//
+// Purpose: Plot optical/thermal satellite instrument spectral response 
+//					curves with ground target spectral responses. Eventually allow
+//					users to interact with and define plot options, colors, and
+//					output data formats. 
+//
+// TODO
+//
+// 1) add legend
+// 2) make legend interactive
+// 3) add Landsat 4/5 TM, Landsat 7 ETM+, Sentinel 2a MSI, MODIS, etc..
+// 4) find and add spectral response for ground targets
+// 5) add export features -- graphical (png/jpg) and raw (csv)
+// 6) default to colorblind-safe mode -- either by color or texture
+// 7) offer alternative rainbow or d3 color palettes
+// 8) write README on github page outlining this project
+// 9) zoom, highlight, subplot features ?
+// 
+
+
 var csv_file = ["https://raw.githubusercontent.com/stevefoga/stevefoga.github.io/master/rsr/l8_rsr.csv"];
 //console.log(csv_file);
 
