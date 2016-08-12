@@ -677,7 +677,7 @@
 	"id": 44
 	},
 
-{
+	{
 		"type": "Feature",
 		"properties": {
 		"name": "Dino @ Sculpture Walk 2015",
@@ -690,6 +690,36 @@
 		"coordinates": [-96.726887, 43.548714]
 	},
 	"id": 45
+	},
+
+{
+		"type": "Feature",
+		"properties": {
+		"name": "Government Canyon outlook",
+		"loc": "<b>Helotes, TX</b>",
+		"date": "August 2016",
+		"url": "https://lh3.googleusercontent.com/1dwWRVM-d5H2ORlQ7ERNOag99bV2MhK5ulYR8htK5y3VC099Veci3AeHGu24q5dEi9eP-4XsVmDnGA35Nv9m53Q6yKFSur5OiloIVjRFm8psjzdfD6KXonOdAqjz8DJVOQZDCwrr51A4L1uBihCLc0pFQ1Ll9g8DNFIxutkUOtkQJvw_1CuYQB1TvtZYS-_-wru5nU9wGQM4hqlC0Hacn9MACPDzsmTYrQ1IPikSogjA5kdEUsf5ONG4fdpfSbw-0avZsaWFNEfFJ-6rYd8_QXxq-J3X8a0GTBhuB2eOSZt8UPkNCEVlEGikd1M9AJIodJMNFFB6BrlZDZBaNkLlfgNZ2gvnjW2_iX_utT3fOWCW7XJs-qWo6A1cazGlGqCkIe85M_LGvf3bybPU1C0IjXD3rYL8kahHPk5Suh_S4g2_iq_YmoHaFEwr_eakFlZ43jDeczgKocaP65pfTNMNyTv4RdDv4lUoP_UxI1uTa2uoqVUswYs7VkZra64U2iIEePTpKtCOAwSpgwK9iaP8geOos9mAWl6n5I2vlXyYqHFZlSBLQ5V7d_XavUV5_evaHZuGb-3u0Td6phqEilhWLujVaK9yDSs=w1175-h881-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-98.761757, 29.552878]
+	},
+	"id": 46
+	},
+
+{
+		"type": "Feature",
+		"properties": {
+		"name": "Sioux Falls at night, from the air",
+		"loc": "<b>Sioux Falls, SD</b>",
+		"date": "February 2016",
+		"url": "https://lh3.googleusercontent.com/6A196fgaQkNziTlnJy75zLASgs6cmruH23nzeBF6t_IMZpn-dgfaLnojaiTyHcJvrXQyBFGS1BMfnJi2KFGz_CzAfxsUQARCWfYkOaHZYcfQ4KxFhqrsy9flFd9rwgPdbsffAgSRA2WCjg7H_5OaMpmtp_oc3HnSk4braOyHLjZW-CFU59u-0JfqpM4MO-WLfQ_1DR6muQbE7AhG7KoJ-fOCnr9FsyicGa2wmOwT_00dXUzWuh4Rsx5U58LSnB-6yAoOtcqJ_PgCRdexfBxaMAScRIMLYTwMdq9atvedxCOcMtmGBQbs-Sx4vu4j19QRgOVrYGSMSeF_a_0QaoerAHUw4HOOVomqFlrEwQi-vkqBJ1dluGFzLXIZIBQ8C0LEO2criZ58e6SPuAxv39EpUNT_1YCZe30T-pQc4r3jyhJxVcQzfHYlw1ea4PdcAhAjoJGOtvVc5uJJLUOsrnFHghRSIi78f8wO-wENmYX2sXuy272Ce3N69Hsu3WUPRHLe7qNsY-NTRMWGXIAu1eOsGLtqKGm8NerWJjzaTFgfTBisqeFkBYFVZeBFBTRU_pzik0edsfQj_tX-NMkIzZpAMRRKX90K5E8=w1176-h882-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-96.540200, 43.531034]
+	},
+	"id": 47
 	}
 
 	]
