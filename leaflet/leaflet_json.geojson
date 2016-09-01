@@ -6,7 +6,8 @@
 			"properties": {
       "name": "Rink Isbr&#230; terminus",
 			"loc": "<b>Rink Isbr&#230;, GL</b>",
-			"date": "July-August 2014",
+			"date": "August 2014",
+			"dtstr": "2014-08-01 00:00:00+00",
 			"url": "https://lh3.googleusercontent.com/t9eMvDn-TxHdQkvhQyZDqWawmlb8l5SdGsGdfNWjgZR0PFzhZWys8gp04HiS6c9z60EAfo0JvAlHeo7SjRvqdWxVYNF372H7GPRSPCqDXPJMX5NtIgLVp1BjBKPZZFJWazZMQGF7z31h8Q_neYbg_4oYMBJF-smQi6fvkhzWcGJLyioCHVHkVbEAftpAhiz5vE87HX3enuBACiSJOCAPZ_3RU98ZBpiW3tZ9kNyv6f96IAxFDVXVFMD8xte-OhqCVBL398A5S5vIzjl09a2fHDxx8hanPMHiuirkc1h8PTwO8HnTLrXe6NnXXtgD6nQg3xzFhP5TjEDk0ZjeO_4zf-VyV5RcWHw8sMj0k30TNjhEltK_0nDvSCjhKTAhy-MBpBd4eNge821Vzy2a2O9jFLrG0JjKx9lPGH_oifCdD23i7mu2y4Pv1zfy4qMllWp_WWSxNgzyuYlM1yDaiMXUTAcWg-rZCEiObJLYw8VFUEPmM6jjkvwomweAnxLtbmBkfd_2GawdY6yNVhu-7mYG3CNS5BGW0KFIxhMcAh8UNQlcS5NEn6dgRQv4RFE4jr-gIGaECNYH4HmyQ3blx0onEjO2iC7vpUA=w958-h211-no"		
 	},
 			"geometry": {
@@ -22,6 +23,7 @@
 			"name": "Falls Park",
 			"loc": "<b>Sioux Falls, SD</b>",
 			"date": "August 2014",
+			"dtstr": "2014-08-01 00:00:00+00",
 			"url": "https://lh3.googleusercontent.com/fB2WmiH8euJ23yIvMm9xQ9YkZyfMYByAsY_jW8-EdFzGmK6_IUfJxOuNdoLFiUIN70TYQFxKMh_r_NAhjIVUH6vHTAX654-mJS7W109MkwhjOsIFGI8Odib22UmmZ1jTLiMAIHIvxP1pyQefRNzP0bamqsK-w_qbrqrlqqxdbFeGcJwBmT0DKJ9vlQzn803bO41Ih0QWpwTMG3LFxHr22ZUsaS-v-xs-rJfXWSWfMcr3pO87f0ScCldVepGT0CnneHCHs-kbaSsxyqQp2i_cG3O8IvWZQBrE-BYe3OYXWreVRyeBwI4wrLO7EOfX_9A33HrePuhVR9jpswFHZ--dpFbiEq4Dt7r9wTwVYs8oJoBZmqmNm9F6Qip828E57FR8zm_bnSdiCW6zubriZqMpnRjC7kmhsTksQ6gsBEX01_c4gJL7uxruMrfj9Wd93Gu1Cy0E4pymorpGzOMg-1swvnJFj0sd9yZkUBUyK0NRsgm6sDBilD8WQBbLCMlS4oXxH6bW35H-XHfSPE926te6lGYq_tDeAF1wSyidj1tyxmXEk2EjPaPTSRw2PbO-7R1KUQvZnKEXYbmAaEARON4MYJabRkO2P4o=w958-h296-no"		
 	},
 			"geometry": {
@@ -37,6 +39,7 @@
 			"name": "Central Park",
 			"loc": "<b>New York, NY</b>",
 			"date": "July 2013",
+			"dtstr": "2013-07-01 00:00:00+00",
 			"url": "https://lh3.googleusercontent.com/l9YnG3eBct-soOV9qrFNvHyyOIzs-jKHWuBeXNqt2aciVqdoYRgFAbEjmTtl0R_QjARC4jdNic5WOhplaVrMMnGkajprh_A-Mo4i0FEzW4Kd_S8B9axaIhl-5QAusNkKCEehIn_wa5tUDWG5r5VxEAHnw0LAMi7SwuQseGv---bCd2MKmSfNNQFf2MxeyF5-Vlj9TOT4oCYNnJ2CGsCSdgnfUeaOLEgRaa0hK1DO_4Sl-3HkGZyQbHOEoo7VVKob0RjUCs-yUCFTBzJtq47DtEjfxyWF5JHmBzk5UX_AW1uDFa9U-2D7--Tf_Ebn7UaG7VWV5xLgCmwm7dYi13T4vtjRK6Rb9QrMGXkbGp6h3WKim2BhQwp9PBkQ8Gl1awgBAiIKfMzl1kZPnW1iuUPvuZX0rEYS7ZIdlusoL-Gy86FdL69H2dfnTINs1cCGFgC5epgGvew9gcp14MmCAcFs6PByO-Ynvtq6Mx5PJV1M87WoVu6lDBohdtckkphSa7qyu2W3eZxuLjHekXQRK4yW5y_DQBUKfd1O0NcdmU6Y5KkcOJP90adBlbvveA9Tjv1WwNfip3c4HL_rq_qjmixiHkOC-4NzvLI=w958-h153-no"		
 	},
 			"geometry": {
@@ -52,6 +55,7 @@
 			"name": "Reykjavik from Hallgrimskirkja Cathedral",
 			"loc": "<b>Reykjavik, IS</b>",
 			"date": "August 2013",
+			"dtstr": "2013-08-01 00:00:00+00",
 			"url": "https://lh3.googleusercontent.com/lFbgpdYb1yWHOSZ1eHPxwDQCHk-kWmCcFSQDn1ZSZbxCVDO6p3kAEesUYM6vI_vf7PIHn3-JV_i_q_Cyk7IuvfBr70nHHx3yeBLG9OQlLpaST2M0VYNJC4w3ODPN6fiIEG0UIAzucPfZsuCvlvuFMnuhDx6CiwM0FQeueaxroml6FyasFJja5zTka6Ws3IamQkL0ZjDzMY-4O4cproMP3QXeEi12oclTNlmhPaxHjw3NPWyYcXCbRTPLFRQugJCDLhtpyLaGca45YgrDBMxIX-005n5xEmizTa6P7_TpFwZztK24kf_S_1mgoBGLzS5MmiaoDG3YCPQO9B0gE2Woo_eiSmMDAsU80F_EWHrqUUvG4GjpMEwG9U6RhQVQWeQDEkoRtu7huTNwW_UZ4z0nYJfJjCXkL12igT2UmeSjjYc4Q9Pr-PFqo44FUnSVu3zQbZv-6qcRSMfcp4ZmXIAR5pNjUMLmN_i-ziZzK8h8VZR-yjKqOY2fyI5DcFDKy81GUhvxbHRJMxBdIOr23Vf9A5hiZb8UTnROzZT5qD0hhKEEpCJB29MeJ9vX1bpXLt0sF85qZKqcogJ29B_osFemexqXldevM-I=w958-h147-no"		
 	},
 			"geometry": {
@@ -67,6 +71,7 @@
 			"name": "World War I Memorial",
 			"loc": "<b>Washington, DC</b>",
 			"date": "July 2010",
+			"dtstr": "2010-07-01 00:00:00+00",
 			"url": "https://lh3.googleusercontent.com/Z_jKa-Wb0NuZQEPhGj8u0VJBtUCkzewTtm2bYhqiNjpmZ7Ew7K99XHcQK7g1eI1RzLxkWmcQwQ7yCRX1P_I_-FGFm_kcCGwzK7O3xcHMCJZzv-3g9lENjWFQt1PM3zYPg1_L8Aehe6WhTu2jwRadE5CFhbOiPr8VRxRLBg6esHgTtMSgpxm8INo_lSfTJkwQcbzaNt_aHZwgYzbw41ZDSh1dXvgx_uF8W-Wo1YdVTaKfnyoyUOOjt5OLWDxk_gcxi3L26nnIle9i1m8QoNBfB7z9plrIddQdqePgFZd-qiFwrpKQlNZp4hRJaF6xaDa8-IwW_YjoR56ml58immD_CgEvTR9R0enLHGz17_9ie-QY0srls7i7ZJvp--atGfOEjl9a5JGhPriUdmBRrZO_R55WzwEOkLiusm6WOKJyL6v_D1HxU6hApKNCgAxvb2VvvSAWpXunG6fvpfyamcSrkPlnmzUzyROa0Ff-F3vH_aOB__0Mbu2vtRSpOBHO76dad9BFKIdQl8OYlmBtEJduOrMOd8pKVmUVVQ4GESp7KGh91vsH0SysAI-WPOGRfroaUZGm1WpzSBzQZbUzRMyjFzF2H83hlLw=w958-h719-no"	
 	},
 			"geometry": {
@@ -82,6 +87,7 @@
 			"name": "Uummannaq entrance sign",
 			"loc": "<b>Uummannaq, GL </b>",
 			"date": "August 2013",
+			"dtstr": "2013-08-01 00:00:00+00",
 			"url": "https://lh3.googleusercontent.com/jtij7DZ00IYstj6ONF5dSsNRUKmtf-RBZ4ctgnOgwLvaUaxyZ40Sh7RJUboTX3E2KPYFacBfvYMHEy8ILrqUtmCx_8-49JoBRIlR_8SC5sN4_2K_CaSawKKAyYcJOL3lPboqwzpKf5N_5fjUNg1kP4e5Z6xKK6WoNvODxScZkOHgk_Zk0ixik2FlwQjERLiqe4fPkPIKVMicpANLm4lYPPkR5k1eagRFf5JhBdQyci6h5uMy8s2Ab7Skmv04GMtHEwLNGpABzS9WLoi-rCgCQlnI4-O81UBOQyyT2exrvKYbokewJ8A9kEcGIgcEJ_2kPyUYTUIdoEGiYSMKS74KzIBDaCRPcekrqKpIwVx12gvlVr09NPEJZefQnCBnBZcbhGmz2rauqmyZ8CWXzfDf3SXczEqw9K6c8ZUphmQR9lfbekFZk5bnE-5-sdkfkJbWbpAeO5X8tunFHXPyO3sWvoxIdZdj4qN5TLuR86TLLSY-uoLI-eh3CYyLIsFeDNyTzzPs7wHsM6ER9KlELzl5BlotOzHAkxzJkyMAFeXRLBh5v62oDoEVNL_dBdw5Y_5IOm3ETbiorPnTZ0OY6umBmG0fKYQIQLM=w958-h719-no"		
 	},
 			"geometry": {
@@ -97,7 +103,7 @@
 			"name": "Ripley's Aquarium of Myrtle Beach",
 			"loc": "<b>Myrtle Beach, SC</b>",
 			"date": "January 2016",
-			"image": "Lizards",
+			"dtstr": "2016-01-01 00:00:00+00",
 			"url": "https://lh3.googleusercontent.com/Djngj9GFeo7C2jgTELU8tVvDHLTERYfvIN-DHJ5aQBL58foNncADLFm2Cw8brSkWl_kYL4RfMHVcm4L09uE4MY-iCOcx1UyDHUpuvtHuSBfuv6o0-QI7WaJepYi1pIgBeyh8wuCMv0Npa_QxFW7ismi8OefBbNVrJkeMyQNCgJxFT3pqZLEp7R1d2j3X6QA22nS5cf96N1GOLzCyAVWd8D7bswqJCv2twMQidEWTZQEL2hrIbzbZPTxrXvYGnAi8TXeRvG73Dr-0q69CW0oeiuMhD6ScEG-hMW0r5dWUYX-dnMVGDb3JO6sKn4XBjE1dD1YIkEL6tZKmPt7n5gk0JtFDkm0sx1p1KYjijcttBsjd3gSH1X-FyjXbZFOoMUTRaBukg9VshMrgekCzVczTJRjAnkRQFlGmLU4ENanQLoEgH0xVgBSYcm6B5VUBsNyu0O0cFw9kFvm0PiiXnXAcah6tRAp0aY7_aUDoN4wldyEdZtFv0xBTq6cQxRGy9uacHpJHjDt9tcpbljI7yP3JcpGRIYXLyNzmujUYGG4_ZXp98gEM-aVfOT4yUn2naHyboTGmc4CweWKFO8EzPyDUhsdcGaboeVc=w702-h935-no"			
 		},
 			"geometry": {
@@ -113,6 +119,7 @@
 			"name": "Ilulissat Bay",
 			"loc": "<b>Illulissat, GL</b>",
 			"date": "July 2013",
+			"dtstr": "2013-07-01 00:00:00+00",
 			"url": "https://lh3.googleusercontent.com/_97VYcqw91-NBcAVvRAByLzjlYMmaXxdgKSSReDqpJyJug6qh_bykmnpSiGKv4Mfu4fuG8ouYB8Tjpi53k9ED7ANuiVihamG-bn-ZlOzkmnD1ihM8stFDVKQUaPAO-yvMe2mDQ1lszlX1IMI6dizjNgJWr0L7hyA38fHF9OXeSE3yU-Y71Lg2cqx9G0W7wlJezpSvMEpssVJyFqf62o2kpgP5S2CvGHsQU46DLyberu3eeWgpCjXlXVeLtVAcOy6SSoxWkGuDtRd7Wr3GM61heH6-yxnbE9QFEpdX07xZi4dTPEJ2pctD1AgXGjeKLLkR-iMxQjAxVs_dR1jw_YNMB3naGGtH29W7QziVRneAGCrO_0epa_jtaZgbsQYzl1B7wnC5WFOkpaC1TT6wJgbMWqp5PqM5dfg4SsNT_yOM3bARLuSrA71C_a3EiCyva-eh2TAjP8Eh0VIR5SDWcpwzKSsRr-WjMXjf2AAfZ8cPL9XXxHQ2KT0zRkNCnqyW7JG4UIGW3GIZaPp7YKu_JzA3foAQpj8WjLJrRdcS-qC5SiYLZmEh4rJUaobi5WJQe80Kga-Hp5H7VilNr3lJmvZcmIk3luV7K4=w958-h199-no"		
 	},
 		"geometry": {
@@ -128,6 +135,7 @@
 		"name": "Kangerlugssuaq Fjord",
 		"loc": "<b>Kangerlugssuaq, GL</b>",
 		"date": "July 2013",
+		"dtstr": "2013-07-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/tZmdaDTMhdD3gIdI8ip8cN-vtxeyWNMnXcdLoDlcTuE11RiS7GWvBU3rZKf5HLUk7EP0CAQPPZGCFdJoGgeuA2aWa2KzmqgS4nxZM8VJsZu5j86JgpNNHEoiWvEdDuX0FcmmemuDzHcWbB1iKDKJ9-RMkMP4CvlUdf3fSIrTIV8ri9c5peALdig5AhB49Xe1bfu5uXWEBQXcWxsrYGzkzTl6_0oEr5K2Pl3t9jTXeR0NRVjN4MMicHYi4dJIj-uCpFtLNxn5ZfQIMu3ftpgPws0-n77rmWbODzNhvcn_S2_bnjH9BHnbXJ7zLVptD6SS29jU-x9cZJPhfqqjYAyyTSs39VBYp7Dxy-lvyTwfuVc_KTqNQSOGs5sVo1mfpz1cfgrOAAN4yH0SOoMEjpMPQsUxLmLGLfL7ckfQsMAA4oygBifgjiw331lVvTjztfnqcky5ppQXmZWUxg8nnZVJIDrgtc79Cw67WKOU8nkKvAOE35KFErlIfThZAb9HG2urGkG_XSN_bCxdpWHbuLSk940I3e6ZaWB-bHKzLMqS5J_r3KBuqeFUAHIA2Gr0mTUwb-EGYvrIflx-6YCqXkM7JU_ckuQgeCc=w958-h719-no"
 	},
 		"geometry": {
@@ -143,6 +151,7 @@
 		"name": "Beach Bird",
 		"loc": "<b>Myrtle Beach, SC</b>",
 		"date": "December 2015",
+		"dtstr": "2015-12-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/mCagGmv-MBKm8u_yhTtk38mNFn_kDmXZHX6G8VW5L1wg1AjNroI76oMZMV1Y8NeFamWEzHgBArQ4_MwRzTY-_aT3O301c6W6JAUd8Ilgsg-Q3xfRI_9sskA26fJucru-dJONHKDg859y8Wfzj6UqHDqPRz2SXc3bj6TkQP2bJN-f0Ov4380LtaRpanJ3pU1SiDTFyyzw0zt3yaXgEVgUU0eQvMGYMNuk95-WepcbBV8h8eOSdPISZweXxMhTy5paxuoq8HfruBla6pDVpapZRYJO4si58KuVXGQPlsmWO_VWJfH21W-wRz32s_hLeh8dNKeVK4cgFJppVEC6QlWKce3c-58G4xDmpWgvt2W1OdPU24EW5udgNEmNGQIpZM15U3dw9ooTmGBbMx_4RAV3ZRqq-2dZqwy98Lx4HMFQNDFwbfrstLSPwyctMkXPjjOYDr7nGp9UeBve7C9wqkWntqTnuVMbqRH9FtD_bVZ694EghQac4eB0wHXPF-WkQaHbmQfV-A949HbfHBbpS3usHCmXEEusxZzk6rubeea2E_tcPT1qA5_DGb-HpqK0Subj8aPRI8f-HMBtOmB0L-URL4CzA3nRcuc=w702-h935-no"
 	},
 		"geometry": {
@@ -158,6 +167,7 @@
 		"name": "Seabird",
 		"loc": "<b>Galveston, TX</b>",
 		"date": "January 2015",
+		"dtstr": "2015-01",
 		"url": "https://lh3.googleusercontent.com/bOs4cHEY83rpzN8BJxoscAPgj8TE4U0QV99x2bQ7Dh8YEYRCDI4onoU2iUbIbZ7M_IL0cEpO9cmQ1Dkg_SP8pwjgTFiEsS2RJFwHevOdRVDr1FoFNjViZmpTa7afOh1e7qnsTtYHPbUjwbGExF6U0jEocPuCnQoBsh0HJEV6YogYlRnmJIAdLtpRGqhVI2j5PUXR-HjhxdbfiR2AuyV6_afwYd2AtY0ZNCMfgL6h0yL68SQgvDr0YEDLQcotkXfSKZVc7mzddIt5jhOZKPu7tDyxxX-DKEWILx8uKN8uTA1Lpde6SGcic0p3VWK5tWsL5VsPerKXryUCSzTvYZWbIhoPwOcJltvYvelXzdX4VeJiUHgONfWdGMLqUPZJw-r_7iUdGjVN4lXubh_jJ9f1ofcwUqD2djtjv5lPKiX96F5CN1ZubX1-OiLq7tQ3I5aJtqFWxeRvkYwA4mwPC-Ie-Ry94Z_G6IJ648BELX9W6i81pCmcjO7ERlsJKV5JxVhfThcocaTtIf1P7l1QckJOzTXMTipRKITXFVx94CkgOpULlAfbpc55LIAaktOVToERBWXNslmVGHTNSfFw3sMT0hpDNW-bf-E=w958-h719-no"
   },
 	"geometry": {
@@ -173,6 +183,7 @@
 		"name": "At the top of the Myrtle Beach SkyWheel",
 		"loc": "<b>Myrtle Beach, SC</b>",
 		"date": "December 2015",
+		"dtstr": "2015-12-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/eQf5-5unqxvaPtnoCCVbHBvI9op2Tkcolfxv7l84-Jq5ZUtEuKRznKFKiG6Kt_KWPDs90wuoj54TKreA7SskesDfEtoZynXwFmPGVLqmtpcbDKALm8LVmKFNsxdw-j0yWlzu3RFdMfORvqQ-drVmhrP4kMX9D6txcarSrFQUzw2JVvIvXTHKM5eK2BpJB0YgrWI6MLjZ86Dl2ntGV0Eym1peknHmbFKnLrRrxbyQ4uchetsOfNjxrx0QGmakcPejFitPJjiiFlvnLhvWnCVGyg7rnjSY-i7aysNpYktmYXltcSEa3GoN-tGMBjpo7NZQrik6dg4UKW0whHJGskUy70J6STYiJX3126Mj_MyIYeV59KB7bjiU740BZcI8j0AOYwC6ywu9BSH02wHwZar8v5NKecsRmn9rokuTzzBUI4IKnMKb2hmx2b3yViVG9vTzSfmDG3HvwxeUJn_YKL04cqtBl3hnVXPdtfKER5UX7afLaHljsfPda3GTFk-KA8lehIFC7WyL_1orvQUbqL3NQlBdJSWuuEehcyWarzVnFDUttrWjlztJuY6jCtXHw7oeyYmCTiDQgGf_TFLPtC4SzI5cwdhD_hE=w958-h719-no"
   },
 	"geometry": {
@@ -188,6 +199,7 @@
 		"name": "Galveston Pleasure Pier",
 		"loc": "<b>Galveston, TX</b>",
 		"date": "December 2014",
+		"dtstr": "2014-12-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/TGcp9oO6DubRrnKXJFApbMoImdh3e919XbhDgSMHkhpz6RFY13_O4PCPKPcGvwc9tNk0UjDLZEwL7kGO-lN91swoW2s2dkYc4pq4j-ObnYCI3bM0wbjd3PjJuEEeYIa7SAQ027NHPBEIImmGtzifh5JgIYBYNJDJKWzWZN-V4UymLfdiYdf5Vub6Gp_ABxR7vv4js6yem7Hcx55qN3kRZONurdpciMB-MrZSPAKmfobJUqbFVqFgi9tzcNG7JxrFOy4_Bl8SVJNME0KVx3i23ZBZzhh84NgJbyS6v0zHPm1CyBE_N-Q4SF0bCl8I5Fu0FiUigl0_kxDIve8WIBq5EFANlXkQwSAA8l-M-NBE8PiY_BN65bS7NI-STsR1B40dJAcqKSXyQRFeUWUOmx6VoABRWdobIidy8KPJwHsSwqo9piwFGMf4JzSgmoHACMBYx9OD6zamTNId7T2T7gkx7s_bNTvGqkFiCnD5NPmPlJ7tgtLZacX8gBwNfKCVVmfEPBxVV2SobA31cN6sHaYu0fBkSYRrmPulWIEHtp25nhtASnqG6yst3VCHcluMJVon4d_2ePdPGdjekG4rsK1iWEy3YvZfHLI=w958-h318-no"  
 	},
 	"geometry": {
@@ -203,6 +215,7 @@
 		"name": "Galveston Seawall",
 		"loc": "<b>Galveston, TX</b>",
 		"date": "December 2014",
+		"dtstr": "2014-12-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/lDRKLTBwzJremujbT0TmexxANQFdN5yjv4AJiWSIvbxWkHaa544ScUdQ1CRhjork7Z63BjmpgKg9-MoX3415PE728xe1f2q0eYAaU0hFGOCygQbZ8I8LtxRexk6ADltWgLWdycvmcOs6a0MUGFGGjaLAmW0gQobcwMFA4gKjM33jWN56hH5MDvhHOk1Bv3rgSf-LEHnPQEgWKJpoBXOeLUSYQTaDv0K4G-MbEXN-miKMlfL4n7cFINHEtxScQw0N5VDER8wzGXp0gQVcg9fDc1TUaYUJmFwi_K-OiCLg_wHcapHPiQsmUlOupHN-pdIiFWrwbYyHNhvst1BsOMhUXCFhIuzTeE-rNoE5Lei2byFaMnLtn3YCyqo287IXkSgw3R_FC_9-bKgYvWhhBCNwkFQZVE2pwJoc6ws2udVV9P4cqvjAH_ygZ_oUSdaazIevYyJBPWIXJwf1R0MxfH7iQGtnWshOYxwWkHC4DjL8lgz12dSRhcbY15L1rgLJWQO4qY03eMnQ-TECH1jCrIapaTqJw7Oggj3tzJWB1xWolZjIJwn0rLHGAfBSQJaNmQ1b8UQnVIFLmg01qkl6KtGgsJz-XhFj3cs=w958-h719-no"
   },
 	"geometry": {
@@ -218,6 +231,7 @@
 		"name": "University of Kansas",
 		"loc": "<b>Lawrence, KS</b>",
 		"date": "May 2014",
+		"dtstr": "2014-05-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/XGkwOH_tEwrGxfq0ucSPAnOz5pLMbJuM-jUg3PyghG-LQ7_zE_BCb67ctlRBXL28AzpZlljYW8pKuiLzKnlNCVcf5zC_x87HCj9LFKPHlYWulL88skoKTWA0kXHjfFJ6GmT6UPdxnF2PyzF3RATIfGmLAAzINTjWclGTTPJR-5zZAuK2pWoY9tiF7ShApviIBwMzdMAWQvtYWAmsjfzK_rHWLO9IuMZb_oA_UZYSxeEtdHsqiGeI07u0r0UQFlbqLap0C4_cDIi-B7g3Hh1fIT7zefSJjesKAydfAXvhUkPP0Ri0jjmw4XtLUe_CKF2mDPMUwUSo87hkEkiSErNigTD0r4YxE_7ldrhEPBcJuDh8OBhvj2Y8BVmVQVKm2pf_RwI8nwuWeH4TLqqufoIEhUzNzSXssjYudLyU7zs92oYa1s9Baryybb7gNlSblW6Zmvf_81K4ZByju83d3wa8eDDYH3NFGyUejaLgD360SYsqO4Uq6daL9aZhkg5UHwhQfH0ZX3LDm1MmkAaK7RcjyLtKbn5x7hpHlmUPVW7BOUzUbReX3mv0LXiFUsPUQUuH40g3Clw3rHxZPApcN5Xz8KHp4zE5NMU=w958-h542-no"
   },
 	"geometry": {
@@ -233,6 +247,7 @@
 		"name": "Shoreline at Endicott College",
 		"loc": "<b>Beverly, MA</b>",
 		"date": "June 2013",
+		"dtstr": "2013-06-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/-KSLLOPRf-qM0dVlORa32sA_72VnlbFIntsQnmcyblOeGRFxM-u1x5Q2hacUE7DqZGcfbdBKHg4tsPG211vCJ6P2WCw0eIy4Oxu8tVnTw6IH1KvVCyyLPgedTKjejhu0p2vzCgdJzxNaCwEIix3YmdCudAS4rhbdTOzRoge3kAAPG0-1riZE5BhS5h6CAVMPhq6P9hGMQZR-iIRZoFQnM1IVP9EtamJBSIU01CrC0O124y9l4usOI0VlweG64rejwMEyL55TqDu92NRHGv453DJAgggeXplpKyVzxqt-IfsTB3TOgmhRWhvGAz8BklqgDK3QyXiA2hOmVBaYqXdz_mWEipUFgFa9-6phv4lsnTXlgAMmKQtluslyemKMtBj3RcW2GIuvZ_tmUTMkrhKh-Z5UkhSCuHmuVXu0O80B9LPzH_Ie9pn_3d5W_5knCHdyHHM4ztHLJtR5ZCdR9NgmwFO4FPtaB1Z8fSbc8jUnDE8QfKFz4l-btg_ECKkaXkKucFuOI-R5jml-T8oN_U-1Bwya3utOxjB2mYxxMMVOYvQdwhIfRrCAxnd3sltCuIQN1RgVIAIQ-xcZgjdLzDGvImsyuU0kLQQ=w958-h719-no"
   },
 	"geometry": {
@@ -248,6 +263,7 @@
 		"name": "Kangerlugssuaq Airport tarmac",
 		"loc": "<b>Kangerlugssuaq, GL</b>",
 		"date": "July 2013",
+		"dtstr": "2013-07-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/zB_IrQJQhZM0AAtme8Iaev827PGfRREvvzOm7Qf4uScWTo_FQaV4fN1P9ATkoOVCwy21l3fP5veFJ3l6T1WVNkw-U9hD1FPAQRe1ulyZxwDwL-OPqxxWErAY-6Ngk1VfcspsVPuOH7ARcCqN_K3HQUlwvjtTPo8c9rKQpVA4EUtjbF80XauaHYEefhyvrwRW9_ke2tPvu98o2NxpAJiFxI39Rajts4uwgZ9Bthv-LJSnvClpZPH1OF7PUaumSMmWI1bVWr7JMEnD6IDup2Fp3UFQ4Q-2-IH4M0ekWpHxWxp6M8eAXzQ23nPeiF2TAgHXr2KObMFrfmvlIoNPNJvz9i3II6LE8nofONq2jCboM2NEKfMuoO2fJtUkD4Vdxxyn-VfgCxHWaF6_DvcyDShCkBDuDhUjNBU-CTVCd6OnYN4LZkbrssoxrzOo83i7gWDJc1KDEn90balLXCQY6bNHRONAkWMrnjXKCc3G9H28gu2Rxe5x0YIXU4vOzK5YBBdt1QbEpwI3wsOG3YglbqlokrpXFpgWqBOyqjAuZ8iTiREO8Sd965ddSsbjH9iXDz8yP_-qo8leOf5LlojBqT6CHafgFGtq72g=w958-h719-no"
   },
 	"geometry": {
@@ -263,6 +279,7 @@
 		"name": "Roadside geology",
 		"loc": "<b>Kangerlugssuaq, GL</b>",
 		"date": "July 2013",
+		"dtstr": "2013-07-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/ALNej-Fv4F8BQgdDo5i43MMq-oaEkduC49dimsUMA_ZMg6DkOeKmFDrwaWtUpaIsSr1ggnqefT-7_8HDkGYVUAEm9LePbAuJpPkk-9u75PU3YYBZi1LVOgM3zeeAICrKDKousctPIaYqqUQU-Eh32zI-B1ujUT0UK9dS06fm7etu-QlW5Hcizzqp8Grq8Jt9gy44JqSVNVAX1jJxzZutW7UfKebhYQsfYDgUa3fmI-x0r4uKWnsinInS9WV00XoKQzsTStX2BPI70P4zj_KxvQdBj7WojL4VCfBLB6DYRuhaGa_KR-XGZTVuHSky0J4S_nhlfw71g5Da0PzmA3aIz4kzfE58PhvMy2XIFNz5hUf_E0pz88gjwocpbph99JBbfKigt3VfktPyDFWW1w8Bc50LNWiaprK59kQNgl8_TUUEhU20KQhooh9SeNVS7F_ko_r7h-g1BVhvlvHvam9LcmuuUhChWer0S5Jimdt8TAfHPBw5EFG8V0NHvo9Ts_R2487J_mHnx-GSBXVIZHsGQ5PyXeYQk-LYLoN81Nd3MgnbN28Cz-RndH9afY7LrHfbNp6Ob_ol7uFHolnyqkh_H8dOd1FthU0=w958-h719-no"
   },
 	"geometry": {
@@ -278,6 +295,7 @@
 		"name": "Greenland has some green",
 		"loc": "<b>Kangerlugssuaq, GL</b>",
 		"date": "July 2013",
+		"dtstr": "2013-07-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/4So_tTKU6u1pnrt5WIHKekIZyAuuAQAGUJfWirWLUxY95_CctWSnS56Uu6BTnZGA2CUA8ki-5Qlu6j9XDj6uyplDOSVyz5CXu7iSVpIh4zUh_CYFD54hKK9alWVLP24Oyf_-zD6qnBKE4N0e4n-gaLacdjmwVhRX8JSQw3zKuUfY10N_z0A0C5RViATv-jwvI0fF-ln0FWMtnKM_kduKXwCS2vgu0YX7-Zawarb9KhMLdt5S7l0dj74t-i5c141kmQeZNBz7Lr-IdO1ClSaxyeWB4apMffUwLCzwv0s3HcTXc7RssdePH9jmG4jVLkRVq0RrGnxbDxQDGtlwELJ1-TfrWeqOYH94bnYT4aaiw5ddz8-X79J2tUrA4VlJnz97J2CcS7ZnVfMy_qz0tcuZM3P32Vu3tHS24gDETxSy38YxGLv4MBrGGfww9yGOwbJtoI0LWPyeUtcTMLYbpgrh4E6hOMWmNnuY100gl0fOSAn-7s0xK3lPEocg5kdxMVLPJQwi9zcZgnYB5SwKgLLsvQ2Nw7GS5-WawtWwA2d6fsyVoFIwM9Ky2yGSPGFZNWqcKyf0jF5TB47PTN4bW5wzldg6hTvdWtg=w958-h719-no"
   },
 	"geometry": {
@@ -293,6 +311,7 @@
 		"name": "Tortuga at Central Park",
 		"loc": "<b>New York, NY</b>",
 		"date": "July 2013",
+		"dtstr": "2013-07-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/zWY09IbQaFBOF04T_vgZ2zpZiABDTGlUZ61P0KOLkg89di7mePF19mYctzTW2Ro101wTj96UZei04Dulk4p1l7WlTX2oL6DmbJ0GfTrR27dTAqY9dHYsXVtnECSgCIX4RA4nrhPnnn5aZI1SJR6-Ie3u2fEBDPLXc-GhvOfVMocEfjbJsfOTXnaFtQUFBBQd9EzVJsKc0qPAS-xT9I4lvn-Co7ZWwr97FIMRIZfUbnhCeARWQqawoTTYcMfQqTKkKaIPJxfrHssrBs8q47yVQUAI5KmWaeH1bOD2HvBmCOR5nlyxFLNtqTJirDoVqg-qWb4f5yFeRTPEAP0BdXJO9fB3wTejKunKUlHjef8kLZoe7w3zT_7pRHDyZJDboCpo-0VvfsUHShgxZ8WRorJ3rrIQZUKo4NocF_uM1JRyEjlnYIcBXix1fGdrx0Iq8huVmXSB7vYK_a_0e4wdU40PvKgI3BUPaZlj2smYPzXlnfFUAfuEPZCvKCHgXJPKkxSzF2kbuluvyBX0VNfer_97HgmeTwQ4nYfN314jXl0mRudxxJwvav79OVUOcCokiUCDmKSNaLkJZa4K8w4iOMYni1-f4VBSETU=w958-h719-no"
   },
 	"geometry": {
@@ -308,6 +327,7 @@
 		"name": "World's largest archive of civilian-grade aerial and satellite imagery",
 		"loc": "<b>Sioux Falls, SD</b>",
 		"date": "April 2013",
+		"dtstr": "2013-04-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/7QAaLCeI_Gt89kNdHEZCnP25Flwm66l0EbufqyjMMG1OnY8enb-q3fq9nAXd0F43ANH8BMacqEEzvDDFOqhkhMaT4GmLLfDJykCDCRugjIlPuf6HVsK1ye3Ej_LWpI5ssGiD51Ndc4JYMxmCjy6eTaAkGqRfx6_zNajzN4PTTGIS6VCWJrcacvJoSewKFDtT6aXcNr6u1MtRKypW_71d8pn6Wdq5h68LfWOYtoJOP1uzMSVQVwXVJjMYuASiXvWWnbQWkej0FMmI2kwvMsUSf2F6xFsujNN68y2NaKd2dIEDqVLlKIy9IXbHL-jQ7Q0dbnW3XdC6fptG2a1wCXEpcvVn5CkYz29B5cPwYzwTAznB3TSD9XQqyoQBvi3RLvZh6w0aDvIMwBM7AZCSBC5FG2t8U3uleq69sTTe-OTFrmHc-mukla1fSuSphw66DyrdKjpc7U19sgnnrvU9m7k5Px1diiOKnU6b0UN02UJ4jbN4m-UyIiAaz0NiXDA47OMOkxfgKgphrA85Sn7F9NjVFMr-bHr3ciuZ8Sb4eRedTu314OJOqekO1kcaJ9aQN8wSs_7WFGyikDfgFbOiiJaoE9nny6VrVkw=w958-h719-no"
   },
 	"geometry": {
@@ -323,6 +343,7 @@
 		"name": "Hippo at Topeka Zoo",
 		"loc": "<b>Topeka, KS</b>",
 		"date": "July 2012",
+		"dtstr": "2012-07-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/pV_e-cikgVxb_20c6Z3Ho-voZWWjW3skNcEmbGJ6BtyPdrXu46GW4Hhy2HIwtVpIeYwRQG9aJXvARTJk2B1Wz_QFHkwbxJB4nMAFH7_4PgvYjV35Xd-GpFu0Ht2KG4p_f91UqTPXXo9Czfr7E6FJU7XTUk89Grwa7domdQxPOa2Zd03425uLcF9_kmzz9-xN-yU3bKh8akhOPPUyVsHj2ijUM4vtBrukp6V3JWgqKnsglzPGI6NdYIjLxqTN1A5He0__vLt-PkG0P_YyrRMNYLvNsdMKGqzBGpKTVrBoQ9fOHeS8XwEWd6HPT_IqdPwO9kISKvu8MCb4k5gCClgkHOI-F6ptw6Cznj9CGUYOgnVc79GhobLmuVR8Zf7xOrDtxWMytcKa_TAxKXYVp0or-IElhQS8SE0AGL-UlqLqS3It-Ds8tBxtma7j28aVS6c3IdikpxUhtXvZtQWGKLZs0KFoSeUxXaSrbathub7-5SN6lUFG9F4ThReGJs0DWMUn2JXGMkH_oFpXFP03LsZdQ0UBsi_n44K3dZu8eM3-GEOH365AVoYaBS0aTsa33EIGw0XOIe52Y3zGUFUKDRIfMgd1U-DQduM=w702-h935-no"
   },
 	"geometry": {
@@ -338,6 +359,7 @@
 		"name": "View from Lindley Hall roof",
 		"loc": "<b>Lawrence, KS</b>",
 		"date": "March 2013",
+		"dtstr": "2013-03-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/r9t_8g1RJW_vIEQ7aUL4PdfH8ilFLWKX5GzfCE4ESm39b1E1mg8mAHHFFeVhNXkh74iuuIqd4BOfJcohO1x5rmQQaUQl2D7zuWjZmxh134IePCE1Cko1p5kSnZ9fpI-eOGsInmhasfaHzuj2KOoDbodeuNr3JocsjNGdy72VCMxpWhU7dU66CFiFQN0R_J9R771tNe_raWvdYntnnY6ycRqoU6pN7cqCrb2wg9Mzws_6il763X49MV_SL7KizhYJ5mT8BY4w-DF422aiJ41aiKWQ-W378ygrmXFtPXlsrsJZUpKqRAt_JFABwvtmun77cyB9lLy34fVSOgZdKhUu8GJ9WLMrhCohlLyivJcdgGBRYlWXaT0Eaf_gHpVHJgux2XFng7NM2BuM23N-NSbKX08B56VfHXWqpyQImCK-kJk1Xm8YoPukfIJ_MTR54c1L4W3pEcfJlWMLDxs3Q0R5AssULNH1UEA3WZcfVCZAI1-Irem7aRgTjqMkPCbicgZOl7MHJipFw5oN4R_E932gRpsgpWuimj6yYsAjBu2fNmnokM8k-unzLeUySWuiNoUdTpcj7l5T2ikMua-yXde3uLUb825qHdI=w958-h719-no"
   },
 	"geometry": {
@@ -353,6 +375,7 @@
 		"name": "Lake near Wheeler Peak",
 		"loc": "<b>Taos County, NM</b>",
 		"date": "May 2012",
+		"dtstr": "2012-05-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/3LjJDDdk6kypSjuVqsSL7GypFoDBDJp6Z2hXjyAYSAYc2HkdqZtS5Ti32Fc6VSlpfTG_HvJsJXNDPkUZHmReOyI8r9wGkedm5sqgG0jO0RvFHKUnjLJ6whCn-rsoF-tA01pWr1_frgRP1L5lFk3e3r1pkV0IKxmOGobGTwMiF0SvQDZk6M_AL4ZoGU48uB3DiLqwk2sBIKrWc4fMDAhzet0KQ-ybBi6LZPcv9vfI0PjnXsEJO66bHhaGuKbp7A97Fzl1bmFUqBlefzuedtQuuKrF1LRoAuA6-Q5JGgc2hUNuxn5X78LUlFpvcl6aK2lGQhk2t0fud1AH0oiVs7feOtE3kz3NnHxoWNssRt3KwiiNnkwWerGo0GujaOa8oSythrRoaURgYL9PPDRUECxi_RIGMO50LzbHu4_RxeSqtfPJpSvX4Nr797pUUT1mF769aNmZ9vuXwugdBE1BBSBMQKizKR1_-FgTuACEnoX1dHf9wRE0sUJy2mmS6PEzCTG0EdvoccIFD568NmUA4fepGX5vxHMwy2s4RhcGERrEP19MKjEXWyMoNA4rKIxnG3s74Pj8w2vyEJXa_8xysJBJjM5429jQsUs=w958-h719-no"
   },
 	"geometry": {
@@ -368,6 +391,7 @@
 		"name": "Nice marmot",
 		"loc": "<b>Taos County, NM</b>",
 		"date": "May 2012",
+		"dtstr": "2012-05-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/WILbnAopw1LVpkTElsmZ-0445uqnPz7V7k-pzsiba2NgWyNbdhjLS2C9iKJLyGJ6fsWSrDN4dI-8YFKbmgr7-iVpEkO5YW-N4WWtdIgBXgQmTFyKohitCbsa63dC7O6FHbzUrUspo_vawZMnD_3WjVQ6wix0_wQVcR8cbAmnKyFAcpvWSpNL_WAIXrh7x9vqG4eWsmBmaTu6S4-xDh8h7h_AN_CqtwBCCvNk9ihIR_ZZnP8ubwpt8FJhVekre1edZM-uIAm_lsEMtslyN7rSDteD3b1rnPcVAIMH1uv6083kJt3KvQVsR3aIL5kzTja7KQ0KYrnoSAFZ8d2bPEhwhDkBNDaBZQHoJ4yU6l3Hgn3DpKkviObPspbP8hFgT8g57xDnkg0TAZusGwpNOLX0gXifgBeYqKCMRwqYqxtFXLxAqkW-ibkR02kAO1UtHWoCuaHGZHDYGHjJg-O87w9RxXfqcjLgj_HrktegrU49PFWiS-m8aHiP3pOwzYpAySi5E0fg200ywz6dSKmppQb1ct6F2AwV4Y9qDwluRyJ5v5DIlMI76YeefYuBYanBYtRGwpuPQRwtoW4tVnJtD_5mu4BpqBixTjI=w958-h719-no"
   },
 	"geometry": {
@@ -383,6 +407,7 @@
 		"name": "Vendors",
 		"loc": "<b>El Prado, NM</b>",
 		"date": "May 2012",
+		"dtstr": "2012-05-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/WbxM14prbNL4yBxC5DE_B8qjnG9qcNlIY67DE4qTJtMTM_8jPiEtHNJBXkZil9FscRoyTTuwtBLU8Y5jg-2zD0LtlAi8kp0ktxtKgOkWL0no52HiPAIIcxVRtgOPcjEGBFqhMwtfij8kAFJRQx0Nm3dEQUfkqsN1JHaWa7F5MQPOUu0Q1xvTtE9NqHIQNqUCWaegn7x0N3zjo9iATPX-J6GM7LRgXgLur-JN8YcOiL08XFyRakVrU1wo-gLHq1jjwLRSoHF0fcevDEsg5yxBxszPSfKcA-Hu9Nb2oA2y9Yj8v8vihk3F1QmeGGqHoWN7lhxg7wwLq6VkV5bHkcBx_rhJiepuoRL7HNDweA0puIPxLiVoi9rP4vuZdtDVsTeEIF54AnYhtHQYZ1uVsImccQg01o5ayWXjnWeDfp9Glme6gXSrf1Rz7zFcYygTnK8DSsZbhZcgNLBjv8WkSgO5oNtLNUxPb9t65AqbtGeiznf4-hg3yF-tWBxAY9gK4aIvaUssKUXxkXER78TucO9Fj9OQqIdNybYlmy1sdd_noL8N47TTQwYhvIFvwOuZLXZ_mDy-2DiYjx7ozKKhCozlX0UtPI3GAr4=w958-h719-no"
   },
 	"geometry": {
@@ -398,6 +423,7 @@
 		"name": "Rio Grande Gorge Bridge",
 		"loc": "<b>El Prado, NM</b>",
 		"date": "May 2012",
+		"dtstr": "2012-05-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/CKcnItaEGPMDFbyKfkqeeqikkB901PeGUunZZq7eIPyFhtVvwBWLY5XPB-J1VPlFamLUT8mJFJvBUvxvqoZ9iALKnWe2xS8iYBx0jhlQte_q5SJxDPwWcPI6sffd-D8A8TrISE0vsP6miDz5kBl2UpXbvmQFKPumrZmRVyR_jFYohALxFBmFIq54K1Ats41gTW0BBcT13YTLZJqbU-Tlw2bAi7xxJdx5XFTVswN3yCNdfs8ToojcXwSkU6x8aqyC1Ve8nruthukxl1pgEMnmd9DTzvfXK-vfH2oFh6FctIL76gXqaQ-r5wYb3z0UtF8vLIlUJiKbeJWK2GYz5Hzt_biO-JQxrWhsXEM04ZR3HYIxM5OMrPwO7KBEMeD2dmOltUgmbdogBBr1kh_2jsx1zL6ooOicioyh8tO7Dbr4o0LIdbibM2zP8_h1ivZd47d0CSx-ItX89OgJWthyhlLaQIItnI8CARblhp3CuPG1M-pV0Va8w_lMMsHkpgOc3KglP3lQKN-Mo6-HtF_QeLuy26c4lTuQVEcjhcn7V-1qvPGipS3DfBT5718e_ZTSRJQR4RrSOZ1jJRGJSUGiKofKk5AoPOMPkDQ=w958-h719-no"
   },
 	"geometry": {
@@ -413,6 +439,7 @@
 		"name": "Vietnam Veterans Memorial State Park",
 		"loc": "<b>Angel Fire, NM</b>",
 		"date": "May 2012",
+		"dtstr": "2012-05-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/RIGcjT_k6Befr0tTB4EAS5pEnsW2pLFcpgImwtBLxI7ZomgKl3CwZUcCCmJudIq7U38fc0fYb6yljue77xCY4f0dJiP9-WN_XtFpbS7xe1nwmAzcPprYOdDXmRHp4XeZ4mB-_8oj4TeNf79IAdbouGYnRFlcIWKAMbrCdDMDDAXtmMJlVTBnDciC3wPThWNuRgKsc-iHqD5Oz5a7x4JbkfQedsD89NFXH6pJE-JhvzTww7F14ScQMzzH-DG_jFEGqi9WzOa0nwXrCL1Tbgu_2zY7cnnHPYqnU9Q-ybbH7by8jQIeLq7WYTLshrbS3VtJ8sxsmRPu4IrjyCXQLJfZ8FnT9XxNTQIH3uP_tVNm9ugV9jdII_qNu8uaTYxgg08s19aegzD-rLMZgqqPKpLzpLtnKvYCVB5n1xyfrJz4lhhRBwXYy2gz_t-r1YlA4AEBTZcANV0ZFYNz2n3d2QHQCliin2RQJeXdPLV8B3FmqdYjp1SSsrbkUOB4nKW3vSuPjjXtUQpCfLdQpQCeXdSANj5Lakfe_PLiSReRACALVxa4QxAW7Q-0_GX9stCd2jEU5_8qq6iGTSjKTHo-UBpYLCp4LWFNAOU=w702-h935-no"
   },
 	"geometry": {
@@ -428,6 +455,7 @@
 		"name": "Huey at Vietnam Veterans Memorial State Park",
 		"loc": "<b>Angel Fire, NM</b>",
 		"date": "May 2012",
+		"dtstr": "2012-05-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/A6XSA6shi6MXBt7LQmsU94XwxkYTVzofnCUcqJhX2vlQt6meOTrBiLeURf7ulLdVcHIyq--tEYoP1OJcJ9Y_KrMDt9DfR1HJjaQJ--ZczzhKZQ1eZqJa5lCg0xRGURfv386usboJeXJLn3CdJH-0J4zGzrR5a3wwvg4YwUGDfLQGQd93OFf1PJlEZiGXNxhV3DgKwqUli8JNcJGgLd2DokEmNBeNcDKxFsTXr9KsBUEkDnx8nqU0mXkLGqh5-6HNnwYatfNHkn99b0EvIH4zmLxd7L6PA1VP8AGIMkJfyjVkFZPHpVG9xqpXKPSqwVa5Vi_EOU2GApdpvkK_THrqDX76bdIsKifnj6IBBc4PUhoRDeKAkiveldE0-gc82tkbTbP_GcTxauawnPT_JscdAVjiP4pWaCyhTum0qqgYASuI8SHZOZg9y38ZsVWKJKsolvj13lIhIUyrEyOEVZjBX_dq7uiFsS9QIO8O_GP-eWVp5gCKbsDfJLJWCOMltfnmRcmuJYOO62txOtrOftQ_lutX7K88eo8fta1yoTktEzg1nhoB9wX-5kOxfemMUm0w9Nis6o0vNfU_bRGz880DzXOFBUVPgCI=w702-h935-no"
   },
 	"geometry": {
@@ -443,6 +471,7 @@
 		"name": "Backwoods tent site at Great Sand Dunes Nat'l Park",
 		"loc": "<b>Saguache County, CO</b>",
 		"date": "July 2011",
+		"dtstr": "2011-07-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/PE132_xl06J7-7hSJWoylC2a85aCEScpZFmOHmabJt3iHcgdvcZEBsjaRQPrZMukBwWxB5bDDp3mV-FuHRUvYYj-_Nx0CPQiHf3xxcByteRH7gBNuB3ovcXTAZX8V0_uboUN-eJKnUWxWk9M__cTcT2V5J1m5yKEzVpSP7ILbWmKuRkykbCUCEFOStz2bS9oifHso5KM9Qd0uy4eh8jQOpHKJOEAq-I5854ZGpUJC5AbtmRnoljK777x-ZU57RjbuRyqV_DPSBOElwUo5qN3NCzLyNf5g7sAjIcyPbLEr4nyAllbU86FzPA1rYz1hFEqhwbRnv9d437GCHjYrquaNV2TYl-2ORJe68Uuuk47UZ-vVFF0A0e63S8mnRHb1JEyOMBGq7ygalSR3A0LNe0zyC4eXj-k6_CQyGraA8ea0Lz2KWZCm8e5BledsarnpQJLGsCqtkeyiD-Xe8ltxgikYydFYLGyofE45hX05gdg1vv9VT0NHgLR7Jszl1Q9jB3EjNtISxTAnnyp8-ftxWQPinIST0-9LvQaC3fa0fqVhAwuQiIATCJe-XkUvcStj9ulK1z3Z5Zmyf7lyz8HUl_P6Hb-lFuTnSc=w958-h717-no"
   },
 	"geometry": {
@@ -458,6 +487,7 @@
 		"name": "Bishop's Castle",
 		"loc": "<b>Rye, CO</b>",
 		"date": "July 2011",
+		"dtstr": "2011-07-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/FovRHs4aS8KmigcrY4ahM-QR06JJ0waEi5wN_hPfD2XdEi_wBNfKhW6tBwdbXT4GeVAMHceuuZm-Z38LB3GwcRtveQ6uaT5RGdCEsHZavGsyWvAP-LM8TvejmAapkh_ZCWMJ_Vxs2j9S_OQ3zFYGzbXj4rlniwulqpbltZpVxs0rwowg0bW759pvkp4Rs8DLuqvUFrMbzU-cRbhr0AzLGcIcd3VQEb4fT-rlJurUF31Vaw31LV6sLqWatbjCd5ak6EzoopdYF-NMr5gKo3RLILRQMQFvVLeEx8aPfmzL0aMB1fIImVx0SSpW4V1ClQa6IFfKUxnT-QKKpmCq9yu3GNxnLyuUq7SY7AVq9uacNmPsMo5GJVdO0JU_O8FLGWsvq3NPRuvKDmkfHHBkEI-aygt2X8oMIogSvY88gJgJqYd5f5godT3OIBT_QKLbYaJZsFn0vjHlHSencPHtcU2-iqVf8r42HXLW7oh24aiI6zSjtfEWoM96JqvqWq28OIpKNKCDodUQKFhVS9rjIrcYp_zlwEWag6D5uJ0QoAMiu8ZNRcSaNFAwkrL98JKktB0FtbAhOJyauKN5UC7tJIFleEtStLMUKQg=w700-h935-no"
   },
 	"geometry": {
@@ -473,6 +503,7 @@
 		"name": "Roman Soldier",
 		"loc": "<b>Ca&#241;on City, CO</b>",
 		"date": "August 2011",
+		"dtstr": "2011-08-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/zFdBL0HELBc9AczQTTwUmO_Lx4P5UyR0SNs6AHyIKAAyEGXkuiwwxvwnO1bP_GRIMYkeJaC6q2Xdu3B2BkN45OVqiBo72s4jLUB9MVHGQhAScVYoTkJNf6h3NRaJ60muOR4EQktTgV7n1sKYHAKTzuUAtn7TiqxPCNfd6sPEf3ttchO66YdWJCte7g0W9OgSBIv5gyfiBCIJ_-J9N4KHwNJ57tuv4V80-pZ6Z5PzAfTdbiaB5pjXQIERMqm7-6MO3SyDBqcP2hu_D7BHOvw4wA5UKyjSqHsHe965D05savfpx3-1RSgJnDBci3SGCEF2yrV-UnVdIU7hGeTe4yPljVf3nnvsAvMFZ5wrei7-RkDF5t3__PGalFYABjew5EzCouTjxv9JBxlUgPAgDn6bkEYfLkGCCOVdqpErU4Vq5LLz7BdVIiLAnfHCqxEI_SvXLweD7dFCjIAzdDYYpH8LKCXmvhJHO3BKF8PPZh0DhCrXefyuUbFGeLmKPnCSgszhHmL2vLhS0_q8b9f7G6OHES2RlO4HK1YB6vmiiHmR8ac1o7JzTAQnlEJHv_qOuR0XSc7feFdT2f-crdPI35RXC4_6uJ21hmE=w689-h920-no"
   },
 	"geometry": {
@@ -488,6 +519,7 @@
 		"name": "Roman Soldier",
 		"loc": "<b>Washington, DC</b>",
 		"date": "July 2010",
+		"dtstr": "2010-07-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/n5-gQyQBaSH7gKtvtq7HeXEXCwq7-2gDthyoBlLxh3p_bFC9GMMN5RTbKTu5TDGGQRwaP8sCAWtsqyoZvV8z2ogvf8Fs7Ge8IgFMVebvYvnWlHdPSGiZx-wq3soISw28zc2og14IPPhaV_fIF3BvNU1K7oCIlg67WGhKZjQSKYyCLr1CF4wSBvKoBuqPKh2aRUS2CVs_YVfrsMom2-1WZ9oLiDa3iKDVJzEavX8vlopFPbdIIU1sRDeYxQGVOGT_PdIxGKnv3yNKKwONPWZde9Igq7iwje8ddASM9ApwzLd9GjmFwLtJJbJEc5J0a8llZ3RS4mJH8MI34qJk7ALwfw8hPRY8xmkQ5hTZXx7qnd07RUnycj5JZz0OQ-xg6Rh-w-P8nmboTniijlUW_BDLx3pC-j7yIS_P2ChO6FAQlGhcCuujOcBwoQi7YbLZj1I7eN-SUoPUa3KCPkjPo2eK7WA3w4lGfMneISJzxdh-pmDR1KcnplU-WFoLeOejJCHpykkk10SR7zT-qSDDIElOvLmSwBGjG-vPsu6AnOqrjd5MRllGqZQ_alGxy9pfqDpn9g6WL4RseGcdAHgl1fhlEvy8UYplTNc=w958-h719-no"
   },
 	"geometry": {
@@ -503,6 +535,7 @@
 		"name": "Cathedral",
 		"loc": "<b>Uummannaq, GL</b>",
 		"date": "August 2013",
+		"dtstr": "2013-08-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/Hy20u2okz7SYPTPPwJwpVokOox9LP81fYZHci7GZ2SWuy6a01Y5ZZQPBtEmxpjFrqfA2564V_gnwn5ezkSKaDZfP-FFVCxIa7LU_FgSYQU5EYwH9pW9UVrghbMqHxr-NYJapi3rZWRuKTm6DzmFK6QsX9Nj_6pSXTJulplNJ3ZjHwBpi5L7mKOFvqu-H63w_KB-RwGnPDzTSKcex5rEYA0-hp0CRhflRYgEW4YwpBSlFsoZqz9Kjyw0SdZABq39EdLqI3vAKxj03LaUTGkT72wr6e9l2Z-sfpS_ycUK6gPGCIk9lihj0x24VHNwzVnEtGhbnOtk0ZwV04Awq5nE5MlBxHoP-D-NolCkyW9DJChh_kh_eo4A3KDROq4FlJC0Xhi7y5-O9XOmRhSfMF0pjejR4252lyyCOj8-AEGUZSDF4HsczpwxIMWJhnLzFEWhZba1ieBfhviqQUkPQ7Q-j66M2YL3mXRDkq9xJM-APiy3G_QmhsiD-0Mhedu-4bSneku5a6PekAdJVpHgfG47EknngQzrrRnFS1-0ye16m4BI2GE_gBl3jNEqV-hma6XTU1Y_9ohw4nBuyIJ57tyTHh6s1y1CTL8Y=w958-h719-no"
   },
 	"geometry": {
@@ -518,6 +551,7 @@
 		"name": "Rental Toyota Hilux",
 		"loc": "<b>Uummannaq, GL</b>",
 		"date": "August 2013",
+		"dtstr": "2013-08-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/k1wTAIsTrEt8jWOIozTufGNOpwJ5zEkHQ1DejDH6fAst6QA6Tq1hoNpsNcQIkTLWe8CJ6X0mrfpNqau8Vy7ED-jJTd22fig1qZOG7NXxvKmC3IC6MaeQuU3Az9qGhSTHbEHdCDq2s2nqG_220uIujTXiWCpWXmfhLGgkKZpmxw_CSJ9xHPBBnVf6pVXFdUcDadpbgTJu9oalrjSuByvqCMXEfKl-gP2SZLw9vlLawANB8AUtOoK6EPhhs0IXeWoTLplU_srfo6wX4WqZWiDZx1_qqkE6Hw2hEHmQmB9KyqaAp16O7yYH-SM6g6X0Yq7qdG3NNe5c7TQpIQojch0ODjxQSQnijwx8ZEq8tzOMZOWJ1-R4c_Qms-vG4Ioz_WibRkOlkFRyH01WEkj_p2zH38W6Me3CS2Mv3vqT-a0L2Npw51wqUj_iK0fMhDyVvtiNZkn2jN8lZrF1EliJnFb102iNgHNCI8fxwodl7lB3mvlrHq_1mTdOtiYAQTMTEi9PU0Xb1Jqwj5DsDTc9sL98IdYOZ_yQhL_S9iJC3m33rwNFuE790djwbUggWO_BVmbo_uv-MCZc4ksQMpPO_dsmWZVbZVaKpDY=w958-h719-no"
   },
 	"geometry": {
@@ -533,6 +567,7 @@
 		"name": "Down Fjord",
 		"loc": "<b>Rink Isbr&#230;, GL</b>",
 		"date": "August 2011",
+		"dtstr": "2011-08-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/_QXQ47eWdYH5bA3If4AZ_A-8zl4D1lTQt2kGDmbSmihKYfup0-5hB22ICLLc4gT40Q-Ey_E4uTQIRDfvudhI_JnxwUXMtFwcC9QdtNgCx-Ym7B5y2s_n62wqvJCLArX2SGfs50ngl7VXJTJ5rRs-B0yzq20rnzlCuQEvaiGXJmrNqWaN6G35H3je_6NR4kwoz66aWAKCHNKbOAyEIATQo9z5nciEiZaWRDl4gNHjSBdKVraKyXWD4l237tik8ODIQaPGtJWLepbaPnwNuMO6XEFYfKYRxFMhhPoU4XI8FyK5qU6-GE_vcDqNOQulvmK2GtrFVjekRZsSRkCYYwIOz7IN1XFtjIW78AqpZcdmqizMrEIQp_JIbbFmvZllqcQWoOtoWmRf4t2CACeqBs4OKUp9awnaodr0VhO898Px7sRBqflktRZpyxGn3CLjGA1gPkVVpLzmRULfrn1G3G5EA5ymcH7BfmAtIU9-ohneUUQElKvHMqWjC6S8scNzXJs7x7k1P9jYR-lva2kpdKgM0OCc5kMZ5BRk117R1Dr22sC-z3EqZFjytctzKEUIC8fNTPoEY7DagSWesOg0UhLhp2F0ZwmIdkQ=w958-h719-no"
   },
 	"geometry": {
@@ -548,6 +583,7 @@
 		"name": "Santa's Village",
 		"loc": "<b>Uummannaq, GL</b>",
 		"date": "August 2013",
+		"dtstr": "2013-08-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/njVv046f9pHEc5I9sZtc97oLUva7nzBt1f3XwBJMDDYg9-VVE5M1RAi5WY_5UsU_X8PNh5y134u2spq41C_6794cKmv5bbhKzFkVHH73HgmyQcSO5t-Fci8AtddSEOplFAuwHZORg0uvpLBywjHlLITgHAZpI58YcnfQKlB9Pku2737BYfOqpOPdDZ2rA5pV82Wzi3bAOHgTqKi_wW2VE1iXEqItMZCQ0Kna6SIlVz64Yo2iEg0WU6K1skEYJD902tRu7NjWvwZehQqIHQJZhpxBpfFPAYh1kefZmwtJ2yhCGu9PFpACC0p34YGcZAAoF86WLQWztAqutO9URJTJN-SJiIswsocAg3nLB7NUYJ1LpnaGAMUJxr0mk4i8vtnzRODDHvUyyox-gWCAOkK-XvayyQTSBchgCR_Zr37azkg1AZZ_xU-VJhej7rn_WySiN7AYU8r8e6It8Bo4DUdFzJk9UYQerUDuiKFQWUUuo2yu8Eyl9arz2G3y6ZjJO_pLHBK0MgDUJL6SZecxFPsJikYoFJdQWZsnNBtCM4o6Vqc7oDJsR9CGn-PI8Q3mUgIES43P9KFgkz8FlFVpsyqCfEX60EuaBDQ=w958-h719-no"
   },
 	"geometry": {
@@ -563,6 +599,7 @@
 		"name": "Mark it zero",
 		"loc": "<b>Reykjavik, IS</b>",
 		"date": "August 2013",
+		"dtstr": "2013-08-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/M7d0rH3W8U2zIM9sE3TZW5Z13XzFpNVJVS01s0JUeswWeFTSYIgOfeKGYfAa-MO_E8VzGYxUyrJE047RZDqP50kBttr19NeEB7ah-YpbAhLAXdyRTIujzfN5gw6Xws0S0nIP5bgvUj2WV0cNO6FuXb_sBqLEm-GKBkouNdvEixT8APvlrlQZLvsPfj038elo7xr9EzE40zyXSo_xVBObD2cf0fTsyzAx_XVD4IVba9V8od0jgp5DkTJbzHn3uS2ztGzctI0XeMv19hFBm7wPY7ogNsNlpL1RpBqR_EzWQkDpHHhdArD-SmkBAmXNaqkXq00_8Bhxnpfo2K0SArU0nLWJ-FeonIciChWi-9f0mg-nWHvezcRibGUvN4WKJWtoh41R2Fne-dUbe1_lqUD74WrnvssVcYKA5uH5Hj1JNB0angv07yxRA7ZCglgH5_BX1Q0ghSFzULZVoH1rgqdva_MsiXv_EQBvbS4QNcKKr2QKAbnL6zS3pZLraQqgjnibTm9KqniXnfjQxJz8TaKYkzFCETcttAA4WYQlT_VCaQKJxZOvRvVAaVkPz1MIBjRwsg3lzOJW5sb1d4LQxiz97eO5COWlD9c=w1248-h936-no"
 	},
 	"geometry": {
@@ -578,6 +615,7 @@
 		"name": "Sculpture",
 		"loc": "<b>Reykjavik, IS</b>",
 		"date": "August 2013",
+		"dtstr": "2013-08-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/y4gHj__srjJk_E-g2y1N84JZhgtOMiHjD3IJ74GBxYc2SHhWkm2y6h0bGKg3J7CUP5yDvZRK6LNbuMmK-M502-zCEKfdxEugihtpUarMTYXfqSPUsv89gWDzOEgZqoYfVw0HkvK0YMbGBGqKF7OkjpKtGgjz01GDFSpRAmrOg64F5frLokvpB5jYQSB_flfRpgn73dLj7wh6vTvQrnCwjh-Vf2Mojy7CA__FqY1mclAF2qTy6lRDjheCvlCBkOwqDqb3GYt-KcxbwX1-jxOT3ucbq-_7kIaTh57q8BNFn51Oc3432q4IWnzrB4d7YZptCj5lc9_Ep_48CSMNzXDUhF12M5DTzhFT4uiTycjSQvvgnb0OQVcwKIkgoKXL-x6eEjtBhbHVfq9UGgeRoj7LJMmzwmIqjtbA5GspdTSN5A47eqS0CngwJHgst7yEgkQ5bsWp8KQsyoAjr1SCVCqnf3REJR9kVY_m1YJx7FeFi-TtipPPglmYSBvfb_xb9JnAi8_Xgr_0cvh4xlzAfXnRN3Iy8aGTTb9uNInEbnNm2PidlcRtkOUzbh542VqzcbGsuMBhc6JJsOphAMO1Ss5R4STPyaiQYhM=w702-h935-no"
 	},
 	"geometry": {
@@ -593,6 +631,7 @@
 		"name": "Island of birds",
 		"loc": "<b>Reykjavik, IS</b>",
 		"date": "August 2013",
+		"dtstr": "2013-08-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/TUjd2vskaxWkiSQLboVmiRD6WehiYMYr6jE8L90_PsZcghLsUeUpTDiMO3ronapk2dRGqOO7Nx_Pov0d1nmwzm-77acc_l-y5BhtDabZ2Jz3-I7KcE_kBImMciNJre5vNsJhU_2d3T815qBxCb8hfJkQtAzsE1fZqLQc55TcpItCDtkyyo7iGtBuUz2fn065y6jhlDlhgrYowb9PtyDpeIXaE4UzuSnTpp5ftlNt9uajGmGCZz8tzN8GR3QZKb85E0VJh4WDwizxV-WehwRVTLK3nTZxQZJUnH330ezQuSAWFvp4xPWl5gCoVpRGIdqIjB63OtIcp6cWO3ac3w-Zinv4T26AKD1i8Rh5SjGk_b_CG1rlvUsq700X9FtE2IKIMgcdj4wRXuzzg3gT8x4e4JvXdreXt7gPpDlYjI_-bWIYYwGxKf3BeW7T5e7BQiuWggaDWbKvvaI5S9oUkP5jrMpQDr5dMUX2Ak-wwQUxX08-poLWku6UtTc3_5KGUHZTdiCQo8AWXCAl75pJoYYYXuSc1vf7YSX90VjvC2NMKH5qxdFPauxHHx3iHixFOKB_s5m_469lxE4TuxLsH6Bg_AhOKO-tXKQ=w1247-h935-no"
 	},
 	"geometry": {
@@ -608,6 +647,7 @@
 		"name": "Do not pet",
 		"loc": "<b>Ilulissat, GL</b>",
 		"date": "July 2013",
+		"dtstr": "2013-07-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/tkLwfVxnRTRPbsTQtXsNLIS_h5LDQRm0lkI_M1MG7uAoo63xlhapxbagGBceaJvCktDsel4BwrhAcPgdKyvTguclE_9jJh54BSXvLc7evOrIhbntoH5FjzcZ1zC69K1Tio2E7VpW4i648eeCHl8wsnJD_fybqllGxps3hlXgrDKiL4C7ZzdB_JeBQCzl_pCz6cVg5a0A7bGfCjvtlrgV35DO_72NlVQedNnpzYvUtj83mgbW9zS7mqVxdvkUpXkuCE0JTu1bO-RZT7Bvobod3ckS1GZ-KXhipinP_uT97l2K8A9j7vFQLamr4q1e7aCY5IKKQJKE2Lzdvp_yX4UeGdic9dkP3SQqegJ4BRL3X45QmlqTQ6XVGCFk37bWEGp2zZIz2YNiYQ8PnnP26r61RMuG1wkTc3SDqyyNQ_JM_Qqs-yUOyrlKkg2WRS9EZPRil1uccmEunT3ZqTXJEqmEbSueSWQ0S-6x6VC667t2PBE1z7wCmB3_K9r_o2UAPx-lUiX0xHJljDavE7cVSWoZlArFvHvBIETA1hJ0ZH9z6rsUb5P2LoYgazydaHOVZzNtMlAZebBTo_yGmdIgRPNx03AvIxI3F0Q=w1247-h935-no"
 	},
 	"geometry": {
@@ -623,6 +663,7 @@
 		"name": "Ice melange",
 		"loc": "<b>Ilulissat, GL</b>",
 		"date": "July 2013",
+		"dtstr": "2013-07-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/5wxuGOQQw6DgcjMTdAhX3iHINfjt6wD42bJbqnwLGA5hj2PPBfsSRrHG1jMJzgpmpGFDZ95h2h5F4Jj3dCZ_3eZw79jehhi23np53sjCTMb3rJLBrA3E48S2ugyMnU_Ni2q1n8rz48W5ZWcVB9Q6bBUdNRaa-cqPx-d0yhOv1FhBOUGyYV5ZOHB3bwr4DUUOODEiFXREnDjfUGtPBokIySqLe51sCec37xl50uGXwxWzDLW4EnZmt9PUacaQRyMsWQ-y3pSnlWSDC23qsCfq_FdgJBvcgVuiMk5ZtmAv6Fl6uwc3u2y78UdY-0RDBBe0WCdw5ZheoUL_LR_FsBQ0TJwIzPFek5nKJeKVIQCdOk9oxJKrkzn3Kge9oecuOjG17jues71v-xMYS_LlD5TUKHQgwppglYUjAGFrDa6pZChxBwqfEiaifrUUOBirMFKz4Bj8XkunZFfqKYOwmAJMuXYhacDTSlZOSFMjO0MABBayB0gOhDtMNIY0xuI_QUono6fldC4S217nrBH6K20TR66zdVCqFD6vCQqp1GHlcZN8NXB0cKHQQ3l_n2VAaIlWuAFjC-HRoRQxoo0dyFq86QOKDxtWDtA=w1247-h935-no"
 	},
 	"geometry": {
@@ -638,6 +679,7 @@
 		"name": "Glacier terminus",
 		"loc": "<b>Kangerdlugssup sermerssua, GL</b>",
 		"date": "July 2013",
+		"dtstr": "2013-07-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/t-oM8H1BEbcbZStEZTF-z3QtPe4kRDnt9btH0ogRV-vfwQ5-UgnIzuMLX0Spmv3QJpl9KS4Xgzwog3NKOEEQ6cuGTWP4iK9QlBxa01EFRPKEcfCzGHFk1Ahi2VQNk3hjmBi6-wSV237Bwim8VbyXskMn1NvKH_cQwlcEdC0nsxenE4Gom91f5lydnCWeGYpGsloI6yE_KBhc1s25hdiv1OMpH3eyG1KrUuD9fXdG10be3hX3qXzY5GGSN8bXhJud4dMeQguaCewUe83sOBb1qm8lIi73tiBNlMc6Fb72WsQzm8AIyPeosXupVqVf-oksjW8Pp64akwHqe139isZP1A7KcLuX_YKN41vWCososhoRF77TxkFpbM5fodO9tNnDbms2WuohauCTNr5CjIUFGGLiC90_8mEba8PhVkdshXRl3zKnpjhD46-4H5eU-L2JPnNDrii5uupGSxoW0HhdfrmCdc7AA5tI-qcGMKXC-TfGs9VoRMUT35gdg90CFPQ-QiyiO52u4TGDgvMcOSTbLgnRdhw9oU63SOMqjLxCB1A0Cjs1NUuGdPCkWd6V33X0Uk-8uESbvozU50AYXtrPKSVIT-8xpq4=w942-h707-no"
 	},
 	"geometry": {
@@ -653,6 +695,7 @@
 		"name": "Beak 'Em",
 		"loc": "<b>Topeka, KS</b>",
 		"date": "May 2016",
+		"dtstr": "2016-05-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/DiX_JnvfpNIUx__8OhHLU81QUSwN67azTwi58UEDL3Vsgz2Wj7UZ_uFQVUGcJsv_KEgsNUtM7KHIAB643xGBr00Lx0d95E_LuHPMIDMnIO7yceivfJRCBf39l-1GQNPD6SjXTCr4pyHi2IpcMt9jElstO9kdypRi9dg9IXmNLTeOp1wTMpo4LyYYqtmiLQcUglfvgfV_E-GMkfnz_YQnk-lOxrmqXSyVJiaGDkwBQkq0LvVKnP3xdSSmSymD1hLgQn8XJ_4BJFNjoahWSoppYc0p566zMtt0hpK6rGU2_uEzr0RAaPejJqH38sJymx0v2oDn9rrU-gr2WqBKTK_EkgzcL00QVwvtGgsSh6dhMc1sERabNp66PxtH01s67zjOSeYWy_KC2RWFI4twRl7CImu3ew34iL37bGOtpMOgDeQouOrBo78f9USIjWknsZKd-V14HhhRzUGKlRhpLPO5WjFfUL2RUj6TyC4EVYhbdUc21B4agjspGluFPFsuCNMH8VQ4S1PiwWjY2VVanZLlgftom5vIqPVI9utehWGBn_0chfav3OXetvPhgRzfSJE2wd1F9nfCFdOZHUg9uTIYeYzsQIcG6Dk=w702-h935-no"
 	},
 	"geometry": {
@@ -668,6 +711,7 @@
 		"name": "Bench Guards",
 		"loc": "<b>San Francisco, CA</b>",
 		"date": "March 2016",
+		"dtstr": "2016-03-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/dwu8wg-5RbtNrEPJrSzWINdacq0HGz0E-qI_CPNllunCF9uADKV4pacB2Ss-k_FXupWEg9Kf7FATiGpMzHhbn9xGC8QFtfboN9R3mYR0oa7iovasvdG9RbQFNXpscaHtUnmpxTIVP5FFpWIoR1Jjvmz7teSNPNkWoONwx4jnxsdy6z3bBpIjUnY5sZ-8rTTt1nmjBuSzS87UtZH3qrIKm4Oc3yff3RxsjZKTiVm0cAbCJq_Guk2LfiCEPla6Ft095Z74IlRQwSxT7qk1t7A-whjVf6_OHAx8tbmKsyuPZCjpuAttKa2HZWXLcZjq1Llsal9rQvb5dSNlSCXOK_4qDlW1gdSBfqI6BZrT-268nD75zeVVmYHak_gpbhoCboFw9RUERtK7XVeWU-yyFZFRPRr-LhlEi0QEES6TVPRqbxukcJR7tujw3sixdA33XWg1YVDlrS795c_qSdihRRbGTBcPtnqtCQVMELj-pm4roAtCBe93ZjpbXL6unV6tnZEhWA8xR5HEy6fcLN7k31iU5iHh6GP8ljASJZszIu2loOlno3rKJnE-9FTx2BIJp-n6XqBb9cke3YOlx9NOPTYzVIck-ZfTLPY=w702-h935-no"
 	},
 	"geometry": {
@@ -683,6 +727,7 @@
 		"name": "Dino @ Sculpture Walk 2015",
 		"loc": "<b>Sioux Falls, SD</b>",
 		"date": "June 2015",
+		"dtstr": "2015-06-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/dagyZtp260GfZW0E3GUkwVhs6QkFfFiPbPKNEHPgRcqo_m-d_llcVyC0wnARkzis_00nVDHA11TrvCBQIanAG8-RLG5o_2mlZrhzm3sQgyfCtOVzdpqXxGQ_q2RjcEKiDVmYWvMDDrUAj8Sf8k2WW5823K9sHYK_bVSP5eKA_73I9VV5249Lis37CLLXzQdpXKTlGqNWbJeLT29QX5m_icMFmaGs2Dz98wxCz-UJAvA6E531bk-yAE4_2ZQjxvSlQxCVs6H8gS-LF5C6zxtDzEezkm65s6LCPsNjRJu9ylMe1tlJoZVTk5IzZLpaorC9OR8Yo1AKvo-_Pk9PiQ2xYpZByOdm4KFsv6wE2FMr_aAC5iT3OdElp_tcoE_NBkrKgz1MPqE7s6RusfC8aMK5jDrHArVNjHhmcQ9BC0GvHoLZuIbmLIIGhsfxYB-wHeQGF0QWyTthX3pfkdkmHWWAj7i6PFeqpTj1HBVkqNGv6oOOz7i3oGL8HqBfxqgnsB97aCKuRQVgqnX0pWFBhdFqz0SjzThaS9i8XvBsL0fSe8qJ2I3-vGA9cW0tIaiuoioBKssZ0ztgle3T2K-3PUfIMMhqjBGE3Xs=w529-h935-no"
 	},
 	"geometry": {
@@ -698,6 +743,7 @@
 		"name": "Government Canyon outlook",
 		"loc": "<b>Helotes, TX</b>",
 		"date": "August 2016",
+		"dtstr": "2016-08-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/1dwWRVM-d5H2ORlQ7ERNOag99bV2MhK5ulYR8htK5y3VC099Veci3AeHGu24q5dEi9eP-4XsVmDnGA35Nv9m53Q6yKFSur5OiloIVjRFm8psjzdfD6KXonOdAqjz8DJVOQZDCwrr51A4L1uBihCLc0pFQ1Ll9g8DNFIxutkUOtkQJvw_1CuYQB1TvtZYS-_-wru5nU9wGQM4hqlC0Hacn9MACPDzsmTYrQ1IPikSogjA5kdEUsf5ONG4fdpfSbw-0avZsaWFNEfFJ-6rYd8_QXxq-J3X8a0GTBhuB2eOSZt8UPkNCEVlEGikd1M9AJIodJMNFFB6BrlZDZBaNkLlfgNZ2gvnjW2_iX_utT3fOWCW7XJs-qWo6A1cazGlGqCkIe85M_LGvf3bybPU1C0IjXD3rYL8kahHPk5Suh_S4g2_iq_YmoHaFEwr_eakFlZ43jDeczgKocaP65pfTNMNyTv4RdDv4lUoP_UxI1uTa2uoqVUswYs7VkZra64U2iIEePTpKtCOAwSpgwK9iaP8geOos9mAWl6n5I2vlXyYqHFZlSBLQ5V7d_XavUV5_evaHZuGb-3u0Td6phqEilhWLujVaK9yDSs=w1175-h881-no"
 	},
 	"geometry": {
@@ -713,6 +759,7 @@
 		"name": "Sioux Falls at night, from the air",
 		"loc": "<b>Sioux Falls, SD</b>",
 		"date": "February 2016",
+		"dtstr": "2016-02-01 00:00:00+00",
 		"url": "https://lh3.googleusercontent.com/6A196fgaQkNziTlnJy75zLASgs6cmruH23nzeBF6t_IMZpn-dgfaLnojaiTyHcJvrXQyBFGS1BMfnJi2KFGz_CzAfxsUQARCWfYkOaHZYcfQ4KxFhqrsy9flFd9rwgPdbsffAgSRA2WCjg7H_5OaMpmtp_oc3HnSk4braOyHLjZW-CFU59u-0JfqpM4MO-WLfQ_1DR6muQbE7AhG7KoJ-fOCnr9FsyicGa2wmOwT_00dXUzWuh4Rsx5U58LSnB-6yAoOtcqJ_PgCRdexfBxaMAScRIMLYTwMdq9atvedxCOcMtmGBQbs-Sx4vu4j19QRgOVrYGSMSeF_a_0QaoerAHUw4HOOVomqFlrEwQi-vkqBJ1dluGFzLXIZIBQ8C0LEO2criZ58e6SPuAxv39EpUNT_1YCZe30T-pQc4r3jyhJxVcQzfHYlw1ea4PdcAhAjoJGOtvVc5uJJLUOsrnFHghRSIi78f8wO-wENmYX2sXuy272Ce3N69Hsu3WUPRHLe7qNsY-NTRMWGXIAu1eOsGLtqKGm8NerWJjzaTFgfTBisqeFkBYFVZeBFBTRU_pzik0edsfQj_tX-NMkIzZpAMRRKX90K5E8=w1176-h882-no"
 	},
 	"geometry": {
@@ -720,6 +767,102 @@
 		"coordinates": [-96.540200, 43.531034]
 	},
 	"id": 47
+	},
+
+{
+		"type": "Feature",
+		"properties": {
+		"name": "Yogi Bear and NE Sioux Falls, from the air",
+		"loc": "<b>Sioux Falls, SD</b>",
+		"date": "August 2016",
+		"dtstr": "2016-08-01 00:00:00+00",
+		"url": "https://lh3.googleusercontent.com/6A196fgaQkNziTlnJy75zLASgs6cmruH23nzeBF6t_IMZpn-dgfaLnojaiTyHcJvrXQyBFGS1BMfnJi2KFGz_CzAfxsUQARCWfYkOaHZYcfQ4KxFhqrsy9flFd9rwgPdbsffAgSRA2WCjg7H_5OaMpmtp_oc3HnSk4braOyHLjZW-CFU59u-0JfqpM4MO-WLfQ_1DR6muQbE7AhG7KoJ-fOCnr9FsyicGa2wmOwT_00dXUzWuh4Rsx5U58LSnB-6yAoOtcqJ_PgCRdexfBxaMAScRIMLYTwMdq9atvedxCOcMtmGBQbs-Sx4vu4j19QRgOVrYGSMSeF_a_0QaoerAHUw4HOOVomqFlrEwQi-vkqBJ1dluGFzLXIZIBQ8C0LEO2criZ58e6SPuAxv39EpUNT_1YCZe30T-pQc4r3jyhJxVcQzfHYlw1ea4PdcAhAjoJGOtvVc5uJJLUOsrnFHghRSIi78f8wO-wENmYX2sXuy272Ce3N69Hsu3WUPRHLe7qNsY-NTRMWGXIAu1eOsGLtqKGm8NerWJjzaTFgfTBisqeFkBYFVZeBFBTRU_pzik0edsfQj_tX-NMkIzZpAMRRKX90K5E8=w1176-h882-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-96.649434, 43.649434]
+	},
+	"id": 48
+	},
+
+{
+		"type": "Feature",
+		"properties": {
+		"name": "Badlands National Park",
+		"loc": "<b>Wall, SD</b>",
+		"date": "August 2016",
+		"dtstr": "2016-08-28 00:00:00+00",
+		"url": "https://lh3.googleusercontent.com/_VZtOgw2D2W8SXmx1HBTfo2O_Gd0AQI2c6IZIipsNjxaj5SwRkjNas0i4u1rGaQAOADtkMADfoiJl3xYr5a03ob_OR47ynD6t24x3y8VPRRsLiZZZJCNakDcWS6q0hVzhEJDWbrU6KFOMFGt4PJrA_rL6O0K06Bj9FBEwpmXFCCU7KiAvh_TKBRzp9Ko7NLJXmjAscFo4G4y73DIHzNkeFDBPAR_i0fRdESuTKV-E1lVq5ldrDrj__avtpzdTEKGP5HMXD6IpUWgwiqH_iUg6ZHocdG5sutXwjCqdNIVM5COR7glscCY08-aa0zyD7pIY901ZV6m25giUwXrtZHdiu9QbsqXLcMns9QO8bE8QFgKABEa2PDyA3jaDUWOZ15hxHgi54IrJTovfDsWxARahCe_ZFSTF4u2r2IRu3Q8fqIN8uO1nAilIaqu7GlsfrQIaJyfj2Si3zrULQGVk7Y9GQ4TPPppM8ZN7LJfltPJ_U3do6loz_bi_Dom4jsxNwpTcM2O7Fi0j-crupv9tY5tw7kc-tzj7OIrAybhfgJ_rAGdNCRGvSZlYUvB6BXdW59MPWE0NpU=s1560-w1560-h311-no"
+},
+	"geometry": {
+	"type": "Point",
+	"coordinates": [-102.256, 43.876]
+	},
+	"id": 49
+	},
+
+{
+		"type": "Feature",
+		"properties": {
+		"name": "Cabin near Terry Peak",
+		"loc": "<b>Lead, SD</b>",
+		"date": "August 2016",
+		"dtstr": "2016-08-28 00:00:00+00",
+		"url": "https://lh3.googleusercontent.com/TQ2BiwTIyNj36sta6h6K25zFQUpM4PDWVZ4pmQ0iagjRMT6Zq6ladjT386_KkOottQr7GaSMd8yXMHHwYrJ_O3aMJsNXQsgKOlmw9DA-ozTwo6F9Nx3Fvvk9-_2TBYt6O_Jpq8gK2stP7BEZLC7BabKJFdj_QGdR2FOPTnaztdl99aw7-YVAWGGwpLVZxLoRyFVi32U7_nOmfKpYj0TowNvXTWEvBb1UxDSaWQDpX0cvKuYtQpyaCDTp-2Qj3QFb4e5Rp0jovP3cv_83e1MVmUibIfvpLVHt3S50qdsAoPdueu9Cefh3lAoqdV9M3p0SXC466W3M8qFtk5mzibkh4NughdiRrdIyq0mhpzCzOJLOwwAmRrjpUUaqtM_8oD7WW2zYrTEGGyJUBUobEySyjmhwObnhwUlm88TyLJXCin4z9kHaN_PrjZl1ZMp0EbcAxbJfcMFuGx0s44WjB9vQPwIJ-ny4cE6k-Lq3gWxkK5Bs1xhwKs-N7TRLVDYvlQNdm_Qwwfu6ZcCdrzabmLxr_GU7m-lvggQ6u42Ti-C4Z08XbbDolPg-84dUOS5KdaPbVgyvs2GjCWOR25D9TPQQeOlL0f6JgnbuMM6YIn6AOqGLCVFI=w1560-h286-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-103.859, 44.331]
+	},
+	"id": 50
+	},
+
+{
+		"type": "Feature",
+		"properties": {
+		"name": "View of Terry Peak",
+		"loc": "<b>Lead, SD</b>",
+		"date": "August 2016",
+		"dtstr": "2016-08-27 00:00:00+00",
+		"url": "https://lh3.googleusercontent.com/h5hHkTiptqP8uw7_OMcU08G-tuJ5Zhn4kArMjG4GrCTPKP0NvT9XlrCu9Q_jMAvKEG_-CJIAhxCyQzlTC_bOYfRtf4fGdPJUeVwgmh5AYce47uHJ-f0Nz-hdBGWiWKh_2YTiJxfCjJO_26k4zSvyK7CyqCUy2mXZFhEwapuV1TxsnrKVvWAAbjUsw6JlNFvCKK1XiqsdWU_zEpGFu3Ckvi_0uDYzazZikYcNp9FsY79yAuW20qsZR3m6TabZ5LZZfDOjKJwwwYMQ92HTooiKx2qUsu0C6v0d7AwcsgW43Lr0hSiA147Od1VK56u4YsWdUkJRNCMjjte5fAeTawkCmLZdK-g_jT_0x2HPmocqBe1BAOqUm5XYUR-yNAAyYZwgwLxKlPev39-UpEso6fs2bPYv3_X-MfRFz0vv3rwF15AA3tn3RTBnJVAYIs8P34fm_Qr7uwqrXB6pvitlXzaoeesJn3C8-LQHXwJ30Dqh5i4aFPpS7WQMltToEBV4BVxrxszJ4qrbk_Ok8dFnQJJs5S5NA8I6TGf1mfciHSl6GPECekIH8-jgxXIxptwxDwIprZVxCmSuz5Ju0r_2VLizVMWAIYnj00ZsTwxcBFSOhMLGVy09=w599-h132-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-103.839, 44.339]
+	},
+	"id": 51
+	},
+
+{
+		"type": "Feature",
+		"properties": {
+		"name": "Hike to Devil's Bathtub",
+		"loc": "<b>Maurice, SD</b>",
+		"date": "August 2016",
+		"dtstr": "2016-08-27 00:00:00+00",
+		"url": "https://lh3.googleusercontent.com/tuEqqhNMFyPY6xUEpgIHMFE9IjSHcoaxxds7t0hoXj1ERdFDwA3qChe7WUjjMd3OE5_KpexOEHAKei_shOKagI1tPJ95vrYl4hE2Nq4ufOKWeELZ93LM0_x-igDVfcqu24OjquhD6GnvZrvrTagqT5_m7s6L-TWJqQbTzV_zVsQlKFOWe9UVJzUjsx-AmG64A7B2hdt-xDQdz4EsR0VZqEp3IhhTIjkzFYq7OZ3on4O3sTApet5fJJcWn_h08WuBj9xEasKx2NMvEO3P0853EeRsWjXhpST1IpwOEbtsYzNc-JkWcBtRrx2gSFWuPwHc01RYl3YdpSYIM9X1xW14IGvHCXfTqBRCtvhMTjAnmeqOu02_6wP_sPDBmB1aF-H9FWgmbZZWgsaJdOuXgMbKx4vzU_O77HFU5q-NCd0arm6kyx7ZZ5tLxwyP-QH6hkmmBAAreSBqr-9qi-he88jWUWmQT8Cc6x83DicRn2DQGhtrq4apeN_fmF46k2iA3-RFl_7kQVO2M_UbuwaT_5NZvNxxDc-6DcB6x0-yIa3Y3XNae-wjdVFLXEFB2bM1n8_aae5hVHVG0FGRLvJ4w3ISUvQxzZl1lxXu-Ej7Rt2fp0VfkA3g=w598-h449-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-103.893, 44.400]
+	},
+	"id": 52
+	},
+
+{
+		"type": "Feature",
+		"properties": {
+		"name": "Roughlock Falls",
+		"loc": "<b>Lead, SD</b>",
+		"date": "August 2016",
+		"dtstr": "2016-08-27 00:00:00+00",
+		"url": "https://lh3.googleusercontent.com/_ZLhpbG4DJDuw7DwFoVegGpaDs6p9FmZh3Mco-Rvs4aE0_8Y3u0vQC4G5WG--ca7hBrpvqS-GmkTcMh9HnL1kub2N5rn6b_3PNMfgGbpsZBtbkCn4or-70zQnG8KG9DC8iZbfu4JOtqX-JEGjIyXvqe97q1MYUr7YHyUzPFvKSkfpswKg-CxSAVsHBGG3GKN9k9uZ0492kfQL1GwNf2a97n0O1p8AZrs43SJ7hT7OkNjk9Q6puMjZWoLkXezCkVmwcRRkhfOUyXY5WLHnqrr1qWodMyjL2J_n5VQfRS2SYQDrGAXnSEiaGfL4pgFdpFaZpWcYyN7GIzVOE9DFsX34uG1XXciiXsI0pC78OMqgmlF8tD7ziAARUF35uJIc9IkeVwtE0c3NIbCN5X2Ku6cVy_T3BBcJHfdft5YtZ4gaPvI8XAG-4TsMI_wiWKdoBeyXdR32VrAsmZw4_tbPo1or1sieW0avW2Ss2UdusagoGKnAxNPOMvhzPNF_LD2YImAYf5eDcjifk7AM-qqsKEZvmaj-0XcvwHS2p7II0LEG7BbwIH5-ItX_2sJCce55LUiHnktSmDl74_Vm4DQvYOZWSk-oAjSeiF3UMRYnxRGLIehj8Dg=w598-h449-no"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-103.936, 44.349]
+	},
+	"id": 53
 	}
 
 	]
