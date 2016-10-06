@@ -39,6 +39,7 @@ p {
 	font-size: 2.5em;
 	font-weight: 700;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	margin-top: 10px;
 	margin-bottom: -6px;
 }
 
@@ -353,3 +354,9 @@ section:last-child {
 	-moz-animation-delay: 0, 2.5s;
 	animation-delay: 0, 2.5s;
 }
+
+li {
+	list-style: none;
+}
+
+	
