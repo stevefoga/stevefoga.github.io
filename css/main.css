@@ -3,7 +3,7 @@ html {
 }
 
 body {
-		margin-top: 300px;
+		margin-top: 30px;
     min-height: 100%;
 }
 
@@ -12,10 +12,14 @@ body {
 }
 
 .img-profile {
-    float: left;
-		margin-top: 100px;
+		margin-top: 10px;
 		width: 200px;
     opacity: 0.9;
+}
+
+content {
+		float: left;
+		margin-top: 50px;
 }
 
 ul {
