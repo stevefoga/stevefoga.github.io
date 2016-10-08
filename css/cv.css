@@ -78,11 +78,11 @@ p {
 #contactDetails ul {
 	list-style-type: none;
 	font-size: 0.9em;
-	margin-top: 2px;
+	margin-top: 15px;
 }
 
 #contactDetails ul li {
-	margin-bottom: 3px;
+	margin-bottom: 15px;
 	color: #444;
 }
 
