@@ -77,6 +77,11 @@
 			attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
+		// custom zoom control placement
+		L.control.zoom({
+			position:'bottomleft'
+		}).addTo(map);
+
 		// function to load points from geoJson file
 		function addDataToMap(data, map) {
 			var dataLayer = L.geoJson(data, {
