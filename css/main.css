@@ -13,6 +13,7 @@ body {
 
 .img-profile {
     float: left;
+		margin-top: 100px;
 		width: 200px;
     opacity: 0.9;
 }
