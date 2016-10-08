@@ -3,7 +3,8 @@ html {
 }
 
 body {
-    margin-top: 300px;
+    float: left;
+		margin-top: 300px;
     min-height: 100%;
 }
 
