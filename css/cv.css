@@ -26,8 +26,8 @@ p {
 	width: 90%;
 	max-width: 800px;
 	background: #f3f3f3;
-	margin: 30px;
-	margin-top: 15px;
+	margin: 30px auto;
+	margin-top: 5px;
 }
 
 .mainDetails {
