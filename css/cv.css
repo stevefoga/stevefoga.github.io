@@ -26,12 +26,12 @@ p {
 	width: 90%;
 	max-width: 800px;
 	background: #f3f3f3;
-	margin: 30px auto;
+	margin: 10px auto;
 	margin-top: 5px;
 }
 
 .mainDetails {
-	padding: 25px 35px;
+	padding: 20px 30px;
 	border-bottom: 2px solid #cf8a05;
 	background: #ededed;
 }
@@ -40,7 +40,7 @@ p {
 	font-size: 2.5em;
 	font-weight: 700;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-	margin-bottom: 6px;
+	margin-bottom: 3px;
 }
 
 #name h2 {
@@ -50,7 +50,7 @@ p {
 }
 
 #mainArea {
-	padding: 0 40px;
+	padding: 0 30px;
 }
 
 #headshot {
@@ -78,11 +78,11 @@ p {
 #contactDetails ul {
 	list-style-type: none;
 	font-size: 0.9em;
-	margin-top: 15px;
+	margin-top: 10px;
 }
 
 #contactDetails ul li {
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 	color: #444;
 }
 
@@ -103,7 +103,7 @@ p {
 
 section {
 	border-top: 1px solid #dedede;
-	padding: 20px 0 0;
+	padding: 15px 0 0;
 }
 
 section:first-child {
