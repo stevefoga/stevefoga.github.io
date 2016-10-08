@@ -26,8 +26,8 @@ p {
 	width: 90%;
 	max-width: 800px;
 	background: #f3f3f3;
-	margin: 30px auto;
-	margin-top: 65px;
+	margin: 30px;
+	margin-top: 65px auto;
 }
 
 .mainDetails {
@@ -57,7 +57,7 @@ p {
 	width: 12.5%;
 	float: left;
 	margin-right: 30px;
-	margin-top: 20px;
+	margin-top: 15px;
 }
 
 #headshot img {
