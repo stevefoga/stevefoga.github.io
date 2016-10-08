@@ -69,7 +69,10 @@
 		var sliderControl = null;
 
 		// start the map with a defined point and zoom level
-		var map = L.map('map').setView([53.0444, -58.5429], 3);	
+		var map = L.map("map"{
+			setView: ([53.0444, -58.5429], 3),
+			zoomControl: false
+		});	
 
 		// load OSM basemap
 		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
