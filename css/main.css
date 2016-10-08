@@ -3,7 +3,6 @@ html {
 }
 
 body {
-    float: left;
 		margin-top: 300px;
     min-height: 100%;
 }
@@ -13,7 +12,8 @@ body {
 }
 
 .img-profile {
-    width: 200px;
+    float: left;
+		width: 200px;
     opacity: 0.9;
 }
 
