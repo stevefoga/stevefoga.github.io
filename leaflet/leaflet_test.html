@@ -3,8 +3,7 @@
 	<head>
 		<title>Photos by Location</title>
 		<meta name="viewport" content="width=device-width"/>
-    	<meta name="description" content="Photos by Steve Foga."/>
-    	<meta charset="utf-8">
+    <meta charset="utf-8">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,54 +13,46 @@
     <link href="../css/bootstrap.min.css" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet">
 
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+		<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+	
+		<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"></script>
+		<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>	
+
+		<script src="./SliderControl.js"></script>
+
+		<style>
+			body {
+				padding: 0;
+				margin: 0;
+			}
+			html, body, #map {
+				height: 100%;
+				width: 100%;
+			}
+		</style>
+
   </head>
-    <body>
-      <div class="navbar navbar-default navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <a href="../index.html" class="navbar-brand">Steve Foga</a>
-          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-        </div>
-        <div class="navbar-collapse collapse" id="navbar-main">
-          <ul class="nav navbar-nav">
-            <li><a href="../cv/cv.html">CV</a></li>
-            <li><a href="./leaflet_test.html">Photos</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div>
+  <body>
+  	<div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+    	<div class="navbar-header">
+        <a href="../index.html" class="navbar-brand">Steve Foga</a>
+        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">            <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <div class="navbar-collapse collapse" id="navbar-main">
+        <ul class="nav navbar-nav">
+          <li><a href="../cv/cv.html">CV</a></li>
+          <li><a href="./leaflet_test.html">Photos</a></li>
+        </ul>
       </div>
     </div>
-    </body>
+  </div>
 
-<head>	
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
-	<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
-	
-	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-	<script src="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"></script>
-	<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>	
-
-	<script src="./SliderControl.js"></script>
-
-	<style>
-		body {
-			padding: 0;
-			margin: 0;
-		}
-		html, body, #map {
-			height: 100%;
-			width: 100%;
-		}
-	</style>
-
-</head>
-
-<body>
 	<div id="map"</div>
 
 	<script type="text/javascript">
@@ -133,5 +124,4 @@
 
 
 	</script>
-</body>
 </html>
