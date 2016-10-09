@@ -27,6 +27,7 @@ p {
 	max-width: 800px;
 	background: #f3f3f3;
 	margin: 10px auto;
+	float: center;
 	margin-top: 35px;
 }
 
@@ -39,9 +40,8 @@ p {
 #name h1 {
 	font-size: 2.5em;
 	font-weight: 700;
-	float: center;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-	margin-bottom: -40px;
+	margin-bottom: -10px;
 }
 
 #name h2 {
