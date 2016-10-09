@@ -27,7 +27,7 @@ p {
 	max-width: 800px;
 	background: #f3f3f3;
 	margin: 10px auto;
-	float: center;
+	display: inline-block;
 	margin-top: 45px;
 }
 
