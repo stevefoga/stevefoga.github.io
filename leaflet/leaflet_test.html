@@ -4,7 +4,7 @@
 		<title>Photos by Location</title>
 		<meta name="viewport" content="width=device-width"/>
     <meta charset="utf-8">
-
+		<!--
     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
     <script src="../bower_components/bootstrap.min.js"></script>
     <script> 
@@ -20,7 +20,7 @@
 		<script src="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"></script>
 		<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>	
 
-		<script src="./SliderControl.js"></script>
+		<script src="./SliderControl.js"></script>-->
 
 		<style>
 			body {
@@ -31,7 +31,7 @@
 				height: 100%;
 				width: 100%;
 			}
-		</style>
+		</style> 
 
   </head>
   <body>
@@ -91,7 +91,7 @@
 
 		}
 
-		$.getJSON("./leaflet_json.geojson", function(data) { 
+		$.getJSON("http://www.stevefoga.com/leaflet/leaflet_json.geojson", function(data) { 
 			addDataToMap(data, map); 
 			//map.addControl(sliderControl);
 
