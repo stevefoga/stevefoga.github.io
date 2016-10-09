@@ -1,67 +1,40 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Photos by Location</title>
-		<meta name="viewport" content="width=device-width"/>
-    <meta charset="utf-8">
-		<!--
-    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
-    <script src="../bower_components/bootstrap.min.js"></script>
-    <script> 
-      $(function(){
-      $("#header").load("../header.html");  
-      });
-    </script>
-		-->
-		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
-		<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+<head>
 	
-		<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-		<script src="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"></script>
-		<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>	
+	<title>Photos by Location</title>
+	<meta charset="utf-8" />
 
-		<script src="./SliderControl.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+	<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 
-		<style>
-			body {
-				padding: 0;
-				margin: 0;
-			}
-			html, body, #map {
-				height: 100%;
-				width: 100%;
-			}
-		</style> 
+	<style>
+		body {
+			padding: 0;
+			margin: 0;
+		}
+		html, body, #map {
+			height: 100%;
+			width: 100%;
+		}
+	</style>
 
-  </head>
-  <body>
-  <!--	
-	<div id="header">
-		</div>	
-	-->
-	<div id="map">
+</head>
+
+<body>
+	<div id="map"</div>
 
 	<script type="text/javascript">
-		var sliderControl = null;
-
-		// start the map
-		var map = L.map("map", {
-			zoomControl: false
-		});
-
-		// set default map view at start
-		map.setView([53.0444, -58.5429], 3)	
+		// start the map with a defined point and zoom level
+		var map = L.map('map').setView([53.0444, -58.5429], 3);	
 
 		// load OSM basemap
 		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     	maxZoom: 18,
 			attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
-
-		// custom zoom control placement
-		L.control.zoom({
-			position:'bottomleft'
-		}).addTo(map);
 
 		// function to load points from geoJson file
 		function addDataToMap(data, map) {
@@ -72,43 +45,20 @@
 						"<br/>Date: " + feature.properties.date +
 						"<br/><a href='" + feature.properties.url + "'><img src='" + feature.properties.url + "' width='300px'/></a>";
 					layer.bindPopup(popupText); }
-				
-				//sliderControl = L.control.sliderControl({
-				//	position: "topright",
-				//	layer: dataLayer,
-				//	timeAttribute: "dtstr",
-				//	range: true
-				//});
-
 			});
-			
-			// load slider
-			//sliderControl = L.control.sliderControl({
-			//	position: "topright", 
-			//	layer: dataLayer, 
-			//	timeAttribute: "dtstr",
-			//	range: true
-			//});
-
+			dataLayer.addTo(map);
 		}
 
-		$.getJSON("http://www.stevefoga.com/leaflet/leaflet_json.geojson", function(data) { 
-			addDataToMap(data, map); 
-			//map.addControl(sliderControl);
-
-			//sliderControl.startSlider();				
-			dataLayer.addTo(map);
-
-		});
-		
-				
-		//$('#slider-timestamp').html(options.markers[ui.value].feature.properties.dtstr.substr(0, 19));
-
+		$.getJSON("./leaflet_json.geojson", function(data) { addDataToMap(data, map); });
 		//$.getJSON($('link[rel="point"]').attr("href"), function(data){
 		//	var geojson = L.geoJson(data);
 		//	addDataToMap(geojson); })
 
 
 	</script>
-	</div>
+</body>
 </html>
+
+
+
+
