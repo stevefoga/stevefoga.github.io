@@ -16,8 +16,13 @@
 	<title>Photos by Location</title>
 	
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+	<link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
+    <link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
+
+
 	<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
 	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script type='text/javascript' src='http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js'></script>
 
 	<style>
 		body {
@@ -57,6 +62,8 @@
     }).addTo(map);
 
 		// function to load points from geoJson file
+		var markerClusters = L.markerClusterGroup();
+
 		function addDataToMap(data, map) {
 			map.setView([53.0444, -58.5429], 3);
 			var dataLayer = L.geoJson(data, {
@@ -65,16 +72,16 @@
 						"<br/>Location: " + feature.properties.loc +
 						"<br/>Date: " + feature.properties.date +
 						"<br/><a href='" + feature.properties.url + "'><img src='" + feature.properties.url + "' width='300px'/></a>";
-					layer.bindPopup(popupText); }
+					layer.bindPopup(popupText); 
+				}
 			});
-			dataLayer.addTo(map);
+
+			markerClusters.addLayer(dataLayer);
 		}
 
-		$.getJSON("./leaflet_json.geojson", function(data) { addDataToMap(data, map); });
-		//$.getJSON($('link[rel="point"]').attr("href"), function(data){
-		//	var geojson = L.geoJson(data);
-		//	addDataToMap(geojson); })
+		map.addLayer(markerClusters);
 
+		$.getJSON("./leaflet_json.geojson", function(data) { addDataToMap(data, map); });
 
 	</script>
 </body>
