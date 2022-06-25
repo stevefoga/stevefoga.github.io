@@ -1,8 +1,0 @@
-wavelength_um,rsr_watts,sensor,band
-0.427,7.3E-05,l8_oli,ca
-0.428,0.000609,l8_oli,ca
-0.52,0.000785,l8_oli,blue
-0.521,0.000516,l8_oli,blue
-13.95,0.000797690042893399,l8_tirs,tirs1
-14,0.00078545055181393,l8_tirs,tirs1
-9,0.00147111376370753,l8_tirs,tirs2
