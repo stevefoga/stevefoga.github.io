@@ -722,8 +722,552 @@
 		"coordinates": [-78.31513572250961, 38.55312298419059]
 	},
 	"id": 64
-	}
+	},
 
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Angel Rocks Trail",
+		"loc": "<b>Fairbanks North Star, AK</b>",
+		"date": "August 2019",
+		"dtstr": "2019-08-30 00:00:00+00",
+		"url": "./assets/ak_angel_rocks_2019aug30.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-146.198675, 65.024581]
+	},
+	"id": 65
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "C17 Globemaster, Phoenix Airfield",
+		"loc": "<b>McMurdo Station, AQ</b>",
+		"date": "November 2019",
+		"dtstr": "2019-11-23 00:00:00+00",
+		"url": "./assets/aq_c17_2019nov23.jpg.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [166.4931763, -77.9537169]
+	},
+	"id": 66
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Frozen Wall, CRREL Permafrost Research Tunnel",
+		"loc": "<b>Fairbanks, AK</b>",
+		"date": "August 2019",
+		"dtstr": "2019-08-27 00:00:00+00",
+		"url": "./assets/ak_fairbanks_2019aug27.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-147.6233597, 64.9512693]
+	},
+	"id": 67
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Ivan The Terrabus (fg) & Mount Erebus (bg), Phoenix Airfield",
+		"loc": "<b>McMurdo Station, AQ</b>",
+		"date": "November 2019",
+		"dtstr": "2019-11-23 00:00:00+00",
+		"url": "./assets/aq_ivan_erebus_2019nov23.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [166.5222943, -77.9471519]
+	},
+	"id": 68
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Welcome to McMurdo",
+		"loc": "<b>McMurdo Station, AQ</b>",
+		"date": "October 2019",
+		"dtstr": "2019-10-25 00:00:00+00",
+		"url": "./assets/aq_mcm_2019oct25.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [166.659856, -77.846444]
+	},
+	"id": 69
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "McMurdo at Night(ish)",
+		"loc": "<b>McMurdo Station, AQ</b>",
+		"date": "November 2019",
+		"dtstr": "2019-11-03 00:00:00+00",
+		"url": "./assets/aq_mcm_nightish_2019nov03.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [166.6585973, -77.8485698]
+	},
+	"id": 70
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "View of Observation Hill",
+		"loc": "<b>McMurdo Station, AQ</b>",
+		"date": "November 2019",
+		"dtstr": "2019-11-03 00:00:00+00",
+		"url": "./assets/aq_obhill_2019nov03.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [166.665494, -77.8390958]
+	},
+	"id": 71
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Pegasus Crash Site",
+		"loc": "<b>McMurdo Station, AQ</b>",
+		"date": "January 2019",
+		"dtstr": "2019-01-09 00:00:00+00",
+		"url": "./assets/aq_pegasus_2019jan09.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [166.4275957, -77.9664814]
+	},
+	"id": 72
+	},
+	
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Weather station (before disassembly), Phoenix Airfield",
+		"loc": "<b>McMurdo Station, AQ</b>",
+		"date": "November 2019",
+		"dtstr": "2019-11-20 00:00:00+00",
+		"url": "./assets/aq_phoenix_weather_2019nov20.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [166.5605743, -77.9483129]
+	},
+	"id": 73
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Preserved dog biscuits, Scott's Hut",
+		"loc": "<b>McMurdo Station, AQ</b>",
+		"date": "November 2019",
+		"dtstr": "2019-11-19 00:00:00+00",
+		"url": "./assets/aq_scott_biscuits_2019nov19.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [166.6401335, -77.8458638]
+	},
+	"id": 74
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Paul & Babe",
+		"loc": "<b>Bemidji, MN</b>",
+		"date": "July 2020",
+		"dtstr": "2020-07-04 00:00:00+00",
+		"url": "./assets/mn_bemidji_2020jul04.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-94.8811637, 47.4705194]
+	},
+	"id": 75
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "U.S.-Canada Border, Grand Portage State Park",
+		"loc": "<b>Grand Portage, MN</b>",
+		"date": "July 2019",
+		"dtstr": "2019-07-20 00:00:00+00",
+		"url": "./assets/mn_grand_portage_sp_2019jul20.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-89.5969059, 48.0042772]
+	},
+	"id": 76
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Mississippi River, John A. Latsch State Park",
+		"loc": "<b>Winona County, MN</b>",
+		"date": "June 2019",
+		"dtstr": "2019-06-29 00:00:00+00",
+		"url": "./assets/mn_latsch_2019jun29.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-91.8378853, 44.170413]
+	},
+	"id": 77
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "On the loose",
+		"loc": "<b>West Cook, MN</b>",
+		"date": "July 2019",
+		"dtstr": "2019-07-20 00:00:00+00",
+		"url": "./assets/mn_moose_2019jul20.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-90.7239211, 47.7594961]
+	},
+	"id": 78
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "The namesake",
+		"loc": "<b>Pelican Rapids, MN</b>",
+		"date": "May 2021",
+		"dtstr": "2021-05-01 00:00:00+00",
+		"url": "./assets/mn_pelican_rapids_2021may01.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-96.0826611, 46.5699806]
+	},
+	"id": 79
+	},
+	
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Voyageurs N.P.",
+		"loc": "<b>Kabetogama Lake, MN</b>",
+		"date": "July 2020",
+		"dtstr": "2020-07-03 00:00:00+00",
+		"url": "./assets/mn_voyageursnp_2020jul03.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-92.8511306, 48.4363306]
+	},
+	"id": 80
+	},
+	
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Stony Brook University Health Sciences Tower",
+		"loc": "<b>Stony Brook, NY</b>",
+		"date": "September 2019",
+		"dtstr": "2019-09-17 00:00:00+00",
+		"url": "./assets/ny_stonybrook_2019sep17.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-73.1167611, 40.9099111]
+	},
+	"id": 81
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Arthur's Pass N.P.",
+		"loc": "<b>Canterbury, NZ</b>",
+		"date": "December 2019",
+		"dtstr": "2019-12-05 00:00:00+00",
+		"url": "./assets/nz_ap_2019dec05.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [171.5952583, -43.0183944]
+	},
+	"id": 82
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Devil's Punchbowl, Arthur's Pass N.P.",
+		"loc": "<b>Canterbury, NZ</b>",
+		"date": "December 2019",
+		"dtstr": "2019-12-05 00:00:00+00",
+		"url": "./assets/nz_ap_devils_punchbowl_2019dec05.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [171.5649972, -42.9335444]
+	},
+	"id": 83
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Thoughtful sentiment",
+		"loc": "<b>Christchurch, NZ</b>",
+		"date": "November 2019",
+		"dtstr": "2019-11-24 00:00:00+00",
+		"url": "./assets/nz_chc_2019nov24.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [172.6394889, -43.5359139]
+	},
+	"id": 84
+	},
+	
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Franz Josef Glacier & Retreat Marker",
+		"loc": "<b>Westland District, West Coast, NZ</b>",
+		"date": "December 2019",
+		"dtstr": "2019-12-02 00:00:00+00",
+		"url": "./assets/nz_franz_josef_2019dec02.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [170.1680361, -43.4281417]
+	},
+	"id": 85
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Karekare Beach",
+		"loc": "<b>Karekare, NZ</b>",
+		"date": "January 2019",
+		"dtstr": "2019-01-27 00:00:00+00",
+		"url": "./assets/nz_karekare_2019jan27.JPG"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [174.4692002, -36.9939957]
+	},
+	"id": 86
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Milford Sound",
+		"loc": "<b>Milford Sound, NZ</b>",
+		"date": "December 2019",
+		"dtstr": "2019-12-01 00:00:00+00",
+		"url": "./assets/nz_milford_2019dec01.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [167.920617, -44.663644]
+	},
+	"id": 87
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Pancake Rocks",
+		"loc": "<b>Punakaiki, NZ</b>",
+		"date": "December 2019",
+		"dtstr": "2019-12-04 00:00:00+00",
+		"url": "./assets/nz_pancake_rocks_2019dec04.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [171.3262389, -42.1141111]
+	},
+	"id": 88
+	},
+	
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Lake Rotorua",
+		"loc": "<b>Rotorua, NZ</b>",
+		"date": "January 2019",
+		"dtstr": "2019-01-29 00:00:00+00",
+		"url": "./assets/nz_rotorua_2019jan29.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [176.2091253, -38.1142287]
+	},
+	"id": 89
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Southern Alps",
+		"loc": "<b>Southland, NZ</b>",
+		"date": "November 2019",
+		"dtstr": "2019-11-30 00:00:00+00",
+		"url": "./assets/nz_southland_2019nov30.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [168.021531, -44.800986]
+	},
+	"id": 90
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Sugarloaf Scenic Reserve, Overlooking Lyttelton Harbour",
+		"loc": "<b>Christchurch, NZ</b>",
+		"date": "October 2019",
+		"dtstr": "2022-10-21 00:00:00+00",
+		"url": "./assets/nz_sugarloaf_2019oct21.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [172.654653, -43.602967]
+	},
+	"id": 91
+	},
+
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Lake Tekapo",
+		"loc": "<b>Lake Tekapo, NZ</b>",
+		"date": "November 2019",
+		"dtstr": "2019-11-28 00:00:00+00",
+		"url": "./assets/nz_tekapo_2019nov28.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [170.477619, -44.002528]
+	},
+	"id": 92
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Sisters Peaks and Bend, from Pilot Butte",
+		"loc": "<b>Bend, OR</b>",
+		"date": "June 2019",
+		"dtstr": "2019-06-04 00:00:00+00",
+		"url": "./assets/or_bend_2019jun04.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-121.283539, 44.060744]
+	},
+	"id": 93
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Newberry National Volcanic Monument - Lava field",
+		"loc": "<b>Bend, OR</b>",
+		"date": "June 2019",
+		"dtstr": "2019-06-05 00:00:00+00",
+		"url": "./assets/or_lava_2019jun05.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-121.359972, 43.9118111]
+	},
+	"id": 94
+	},
+	
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Lady Bird Lake",
+		"loc": "<b>Austin, TX</b>",
+		"date": "May 2019",
+		"dtstr": "2019-05-25 00:00:00+00",
+		"url": "./assets/tx_austin_2019may25.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-97.8528262, 30.3108213]
+	},
+	"id": 95
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Hitchcock Nature Center",
+		"loc": "<b>Honey Creek, IA</b>",
+		"date": "April 2018",
+		"dtstr": "2018-04-23 00:00:00+00",
+		"url": "./assets/ia_hitchcock_2018apr23.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-95.8689426, 41.4111765]
+	},
+	"id": 96
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Bishop's Castle",
+		"loc": "<b>Rye, CO</b>",
+		"date": "July 2011",
+		"dtstr": "2011-07-31 00:00:00+00",
+		"url": "./assets/co_bishop_2011jul31.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-105.0983787, 38.0613651]
+	},
+	"id": 97
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+		"name": "Sunrise",
+		"loc": "<b>New Orlenas, LA</b>",
+		"date": "December 2017",
+		"dtstr": "2017-12-13 00:00:00+00",
+		"url": "./assets/la_nola_sunrise_2017dec13.jpg"},		
+
+    "geometry": {
+		"type": "Point",
+		"coordinates": [-90.054590, 29.961588]
+	},
+	"id": 98
+	}
 
 	]
 }
