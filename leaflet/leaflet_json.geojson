@@ -747,7 +747,7 @@
 		"loc": "<b>McMurdo Station, AQ</b>",
 		"date": "November 2019",
 		"dtstr": "2019-11-23 00:00:00+00",
-		"url": "./assets/aq_c17_2019nov23.jpg.jpg"},		
+		"url": "./assets/aq_c17_2019nov23.jpg"},		
 
     "geometry": {
 		"type": "Point",
