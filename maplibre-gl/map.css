@@ -1,0 +1,596 @@
+body { margin: 0; padding: 0; }
+html, body, #map { height: 100%; }
+.maplibregl-popup {
+    max-width: 300px;
+}
+.maplibregl-popup-content {
+    padding: 15px;
+}
+.popup-image {
+    max-width: 100%;
+    margin-top: 10px;
+}
+.maplibregl-popup-close-button {
+    font-size: 24px;
+    width: 30px;
+    height: 30px;
+    line-height: 28px;
+    padding: 0;
+}
+.maplibregl-ctrl button svg {
+    display: block;
+}
+#time-slider-container {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+    width: 450px;
+}
+#slider-tab {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    padding: 6px 16px;
+    border-radius: 8px 8px 0 0;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    display: inline-block;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#slider-tab:hover {
+    background: rgba(255, 255, 255, 1);
+}
+#tab-content {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+}
+#calendar-icon {
+    font-size: 16px;
+}
+#toggle-slider-btn {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    color: #666;
+    padding: 0;
+    line-height: 1;
+    transition: color 0.2s;
+}
+#slider-tab:hover #toggle-slider-btn {
+    color: #11b4da;
+}
+#slider-content-wrapper {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    padding: 15px 20px 20px 20px;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+    position: relative;
+    max-height: 500px;
+    overflow: hidden;
+    transition: max-height 0.3s ease, opacity 0.3s ease;
+    opacity: 1;
+    width: 100%;
+    box-sizing: border-box;
+}
+#time-slider-container.collapsed #slider-content-wrapper {
+    max-height: 0;
+    opacity: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+#play-pause-btn {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background: #11b4da;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 4px;
+    line-height: 1;
+    transition: background 0.2s;
+    font-family: Arial, sans-serif;
+    z-index: 10;
+}
+#play-pause-btn:hover {
+    background: #0d98bf;
+}
+#play-pause-btn:active {
+    background: #0a7a9e;
+}
+#reset-time-btn {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background: #11b4da;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 4px;
+    line-height: 1;
+    transition: background 0.2s;
+    font-family: Arial, sans-serif;
+    z-index: 10;
+}
+#reset-time-btn:hover {
+    background: #0d98bf;
+}
+#reset-time-btn:active {
+    background: #0a7a9e;
+}
+.slider-content {
+    margin-top: 20px;
+}
+.slider-wrapper {
+    position: relative;
+    height: 30px;
+    margin: 20px 0 10px 0;
+    display: flex;
+    align-items: center;
+}
+.time-slider {
+    width: 100%;
+    position: absolute;
+    pointer-events: none;
+    -webkit-appearance: none;
+    appearance: none;
+    height: 6px;
+    background: transparent;
+    outline: none;
+    margin: 0;
+    z-index: 3;
+}
+.time-slider::-webkit-slider-runnable-track {
+    height: 6px;
+    background: transparent;
+}
+.time-slider::-webkit-slider-thumb {
+    pointer-events: all;
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #11b4da;
+    cursor: grab;
+    border: 3px solid white;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    margin-top: -7px;
+}
+.time-slider::-webkit-slider-thumb:active {
+    cursor: grabbing;
+}
+.time-slider::-moz-range-track {
+    height: 6px;
+    background: transparent;
+}
+.time-slider::-moz-range-thumb {
+    pointer-events: all;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #11b4da;
+    cursor: grab;
+    border: 3px solid white;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+.time-slider::-moz-range-thumb:active {
+    cursor: grabbing;
+}
+#slider-track {
+    height: 6px;
+    background: #ddd;
+    border-radius: 3px;
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+}
+#slider-range {
+    height: 100%;
+    background: #11b4da;
+    border-radius: 3px;
+    position: absolute;
+    z-index: 2;
+    cursor: grab;
+    transition: background 0.2s;
+}
+#slider-range:hover {
+    background: #0d98bf;
+}
+#slider-range:active {
+    cursor: grabbing;
+    background: #0a7a9e;
+}
+#time-display {
+    text-align: center;
+    font-family: 'Open Sans', 'Arial', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 0;
+}
+#time-range {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Open Sans', 'Arial', sans-serif;
+    font-size: 11px;
+    color: #7f8c8d;
+    margin-top: 8px;
+    margin-bottom: 0;
+}
+.slider-label {
+    font-size: 11px;
+    color: #999;
+    margin-bottom: 3px;
+}
+/* Country Filter Drawer */
+#country-filter-container {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+    display: flex;
+    align-items: center;
+}
+#filter-content-wrapper {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    box-shadow: 2px 0 10px rgba(0,0,0,0.2);
+    max-width: 280px;
+    max-height: 80vh;
+    overflow-y: auto;
+    transition: max-width 0.3s ease, opacity 0.3s ease, padding 0.3s ease;
+    opacity: 1;
+    border-radius: 8px 0 0 8px;
+}
+#country-filter-container.collapsed #filter-content-wrapper {
+    max-width: 0;
+    opacity: 0;
+    padding-left: 0;
+    padding-right: 0;
+    overflow: hidden;
+}
+#filter-tab {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    padding: 12px 8px;
+    border-radius: 0 8px 8px 0;
+    box-shadow: 2px 0 10px rgba(0,0,0,0.2);
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.2s;
+}
+#filter-tab:hover {
+    background: rgba(255, 255, 255, 1);
+}
+#filter-checkbox-icon {
+    font-size: 18px;
+    display: block;
+}
+#toggle-filter-btn {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    color: #666;
+    padding: 4px 0;
+    line-height: 1;
+    transition: color 0.2s;
+}
+#filter-tab:hover #toggle-filter-btn {
+    color: #11b4da;
+}
+#filter-content-wrapper h3 {
+    margin: 0 0 15px 0;
+    font-family: 'Open Sans', 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #2c3e50;
+}
+.filter-controls {
+    margin-bottom: 15px;
+    display: flex;
+    gap: 8px;
+}
+.filter-control-btn {
+    background: #11b4da;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    color: white;
+    padding: 6px 10px;
+    border-radius: 4px;
+    transition: background 0.2s;
+    font-family: 'Open Sans', 'Arial', sans-serif;
+    flex: 1;
+}
+.filter-control-btn:hover {
+    background: #0d98bf;
+}
+.filter-control-btn:active {
+    background: #0a7a9e;
+}
+.country-checkbox-item {
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    font-family: 'Open Sans', 'Arial', sans-serif;
+    font-size: 14px;
+}
+.country-checkbox-item input[type="checkbox"] {
+    margin-right: 8px;
+    cursor: pointer;
+}
+.country-checkbox-item label {
+    cursor: pointer;
+    user-select: none;
+    color: #2c3e50;
+}
+.country-count {
+    color: #7f8c8d;
+    font-size: 12px;
+    margin-left: 4px;
+}
+
+/* Mobile Responsive Styles */
+@media only screen and (max-width: 768px) {
+    /* Make time slider full-width on mobile */
+    #time-slider-container {
+        width: calc(100% - 20px);
+        left: 10px;
+        transform: none;
+        bottom: 25px; /* Lift above attribution notice */
+    }
+
+    /* Larger touch targets for slider controls */
+    #play-pause-btn,
+    #reset-time-btn {
+        font-size: 18px;
+        padding: 10px 16px;
+        min-width: 44px;
+        min-height: 44px;
+    }
+
+    /* Increase slider thumb size for touch */
+    .time-slider::-webkit-slider-thumb {
+        width: 28px;
+        height: 28px;
+        border: 4px solid white;
+    }
+
+    .time-slider::-moz-range-thumb {
+        width: 28px;
+        height: 28px;
+        border: 4px solid white;
+    }
+
+    /* Make time slider track thicker */
+    #slider-track,
+    #slider-range {
+        height: 8px;
+    }
+
+    .time-slider {
+        height: 8px;
+    }
+
+    .time-slider::-webkit-slider-runnable-track {
+        height: 8px;
+    }
+
+    .time-slider::-moz-range-track {
+        height: 8px;
+    }
+
+    /* Increase font sizes for readability */
+    #time-display {
+        font-size: 15px;
+    }
+
+    #time-range {
+        font-size: 12px;
+    }
+
+    /* Adjust slider content padding */
+    #slider-content-wrapper {
+        padding: 15px 15px 18px 15px;
+    }
+
+    /* Add top margin to time display to avoid button overlap */
+    #time-display {
+        margin-top: 50px;
+    }
+
+    .slider-content {
+        margin-top: 10px;
+    }
+
+    /* Stack filter control buttons vertically on very small screens */
+    @media only screen and (max-width: 480px) {
+        .filter-controls {
+            flex-direction: column;
+        }
+
+        .filter-control-btn {
+            width: 100%;
+            min-height: 44px;
+            font-size: 14px;
+        }
+    }
+
+    /* Increase spacing for touch-friendly checkboxes */
+    .country-checkbox-item {
+        margin-bottom: 12px;
+        min-height: 44px;
+        align-items: center;
+    }
+
+    .country-checkbox-item input[type="checkbox"] {
+        width: 20px;
+        height: 20px;
+        margin-right: 12px;
+    }
+
+    .country-checkbox-item label {
+        font-size: 15px;
+        line-height: 1.4;
+    }
+
+    /* Adjust filter drawer max width */
+    #filter-content-wrapper {
+        max-width: 240px;
+        padding: 15px;
+    }
+
+    #filter-content-wrapper h3 {
+        font-size: 15px;
+    }
+
+    /* Make select/deselect buttons larger */
+    .filter-control-btn {
+        font-size: 13px;
+        padding: 10px 12px;
+        min-height: 44px;
+    }
+
+    /* Ensure popup images are responsive */
+    .maplibregl-popup {
+        max-width: calc(100vw - 40px);
+    }
+
+    .popup-image {
+        max-width: 100%;
+        height: auto;
+    }
+
+    /* Make popup close button larger for touch */
+    .maplibregl-popup-close-button {
+        font-size: 28px;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+    }
+
+    /* Adjust tab icons for better touch */
+    #filter-tab {
+        padding: 16px 10px;
+        min-width: 44px;
+    }
+
+    #filter-checkbox-icon {
+        font-size: 20px;
+    }
+
+    #toggle-filter-btn {
+        font-size: 16px;
+        padding: 8px 0;
+        min-height: 32px;
+    }
+
+    #slider-tab {
+        padding: 10px 20px;
+        min-height: 44px;
+    }
+
+    #calendar-icon {
+        font-size: 18px;
+    }
+
+    #toggle-slider-btn {
+        font-size: 16px;
+    }
+
+    /* Adjust navigation controls size */
+    .maplibregl-ctrl-group > button {
+        width: 44px;
+        height: 44px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .maplibregl-ctrl-group > button svg {
+        margin: auto;
+    }
+}
+
+/* Extra small screens - very compact layout */
+@media only screen and (max-width: 480px) {
+    #time-slider-container {
+        width: calc(100% - 10px);
+        left: 5px;
+    }
+
+    #slider-content-wrapper {
+        padding: 12px 10px 15px 10px;
+    }
+
+    #play-pause-btn {
+        left: 8px;
+        top: 10px;
+    }
+
+    #reset-time-btn {
+        right: 8px;
+        top: 10px;
+    }
+
+    #filter-content-wrapper {
+        max-width: 200px;
+        padding: 12px;
+    }
+
+    /* Reduce font sizes slightly to fit content */
+    #time-display {
+        font-size: 13px;
+        margin-top: 48px;
+    }
+
+    #time-range {
+        font-size: 11px;
+    }
+
+    .country-checkbox-item label {
+        font-size: 14px;
+    }
+}
+
+/* Landscape mobile optimization */
+@media only screen and (max-height: 500px) and (orientation: landscape) {
+    /* Make drawers smaller in landscape mode */
+    #filter-content-wrapper {
+        max-height: 70vh;
+        max-width: 220px;
+    }
+
+    #slider-content-wrapper {
+        padding: 10px 15px 12px 15px;
+    }
+
+    #time-display {
+        font-size: 12px;
+    }
+
+    .country-checkbox-item {
+        margin-bottom: 8px;
+        min-height: 36px;
+    }
+}
