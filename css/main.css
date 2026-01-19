@@ -43,3 +43,8 @@ ul li a i {
 ul li a i:hover {
 	opacity: .4;
 }
+
+img.rounded-circle {
+  border-radius: 50% !important;
+  object-fit: cover !important;
+}

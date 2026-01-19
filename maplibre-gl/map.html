@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Clustered Points from Local GeoJSON</title>
+    <meta property="og:description" content="Using MapLibre GL JS to visualize points as clusters from a local GeoJSON file." />
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes">
+    <link rel='stylesheet' href='https://unpkg.com/maplibre-gl@5.5.0/dist/maplibre-gl.css' />
+    <link rel='stylesheet' href='map.css' />
+    <script src='https://unpkg.com/maplibre-gl@5.5.0/dist/maplibre-gl.js'></script>
+</head>
+<body>
+<div id="map"></div>
+
+<!-- Country Filter Drawer -->
+<div id="country-filter-container">
+    <div id="filter-content-wrapper">
+        <h3>Filter by Location</h3>
+        <div class="filter-controls">
+            <button class="filter-control-btn" id="select-all-btn">All</button>
+            <button class="filter-control-btn" id="deselect-all-btn">None</button>
+        </div>
+        <div id="country-checkboxes"></div>
+    </div>
+    <div id="filter-tab">
+        <span id="filter-checkbox-icon">☑️</span>
+        <button id="toggle-filter-btn">◀</button>
+    </div>
+</div>
+
+<div id="time-slider-container">
+    <div id="slider-tab">
+        <div id="tab-content">
+            <span id="calendar-icon">📅</span>
+            <span id="toggle-slider-btn" title="Toggle time slider">▼</span>
+        </div>
+    </div>
+    <div id="slider-content-wrapper">
+        <button id="play-pause-btn" title="Play time animation">▶</button>
+        <button id="reset-time-btn" title="Reset to all dates">↻</button>
+        <div id="time-display">All dates</div>
+        <div class="slider-content">
+            <div id="time-range">
+                <span id="start-date"></span>
+                <span id="end-date"></span>
+            </div>
+            <div class="slider-wrapper">
+                <div id="slider-track">
+                    <div id="slider-range"></div>
+                </div>
+                <input type="range" class="time-slider" id="slider-start" min="0" max="100" value="0" step="1">
+                <input type="range" class="time-slider" id="slider-end" min="0" max="100" value="100" step="1">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src='map.js'></script>
+</body>
+</html>
