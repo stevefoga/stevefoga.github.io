@@ -6,21 +6,222 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js"></script>
 	<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
 	<script>$(function(){$("#header").load("header.html")})</script>
-	<link href="./css/main.css" rel="stylesheet">     
-	</head>		
-	<body>	
-		<div id="header">
+	<link href="./css/main.css" rel="stylesheet">
+	<style>
+		/* Alternative Layout 2: Side-by-Side Split */
+		#content {
+			margin-top: 0;
+			padding: 0;
+		}
+
+		.split-container {
+			display: flex;
+			min-height: calc(100vh - 70px);
+		}
+
+		.left-panel {
+			flex: 0 0 40%;
+			background: linear-gradient(135deg, var(--primary-dark) 0%, #3d6368 100%);
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			padding: 3rem;
+			color: var(--text-light);
+		}
+
+		.right-panel {
+			flex: 1;
+			padding: 4rem;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+		}
+
+		.left-panel img {
+			border: 5px solid var(--accent-mustard);
+		}
+
+		.left-panel h1 {
+			color: var(--text-light);
+			margin-top: 2rem;
+		}
+
+		.left-panel .tagline {
+			color: var(--accent-mustard);
+			font-size: 1rem;
+			margin-top: 1rem;
+			text-align: center;
+			line-height: 1.6;
+			font-weight: 300;
+		}
+
+		.skill-tags {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 0.5rem;
+			justify-content: center;
+			margin-top: 2rem;
+			padding: 0 1rem;
+		}
+
+		.skill-tag {
+			background: rgba(212, 165, 116, 0.2);
+			color: var(--text-light);
+			padding: 0.4rem 0.8rem;
+			border-radius: 20px;
+			font-size: 0.85rem;
+			border: 1px solid rgba(212, 165, 116, 0.4);
+			font-weight: 500;
+		}
+
+		.bio-section h2 {
+			color: var(--primary-dark);
+			font-size: 2.5rem;
+			margin-bottom: 1.5rem;
+		}
+
+		.bio-section p {
+			color: var(--text-dark);
+			font-size: 1.1rem;
+			line-height: 1.8;
+			margin-bottom: 1.5rem;
+		}
+
+		.quick-links {
+			display: flex;
+			gap: 1rem;
+			margin-top: 2rem;
+			flex-wrap: wrap;
+		}
+
+		.quick-link {
+			background: var(--primary-dark);
+			color: var(--text-light);
+			padding: 0.75rem 1.5rem;
+			border-radius: 8px;
+			text-decoration: none;
+			transition: all 0.3s ease;
+			font-weight: 500;
+		}
+
+		.quick-link:hover {
+			background: var(--accent-mustard);
+			color: var(--text-dark);
+			transform: translateY(-2px);
+			box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+		}
+
+		.key-areas {
+			margin-top: 2rem;
+			padding-top: 2rem;
+			border-top: 2px solid rgba(44, 79, 84, 0.1);
+		}
+
+		.key-areas h3 {
+			color: var(--primary-dark);
+			font-size: 1.5rem;
+			margin-bottom: 1.5rem;
+		}
+
+		.area-list {
+			display: grid;
+			grid-template-columns: repeat(2, 1fr);
+			gap: 1rem;
+		}
+
+		.area-item {
+			display: flex;
+			align-items: flex-start;
+			gap: 0.75rem;
+		}
+
+		.area-item i {
+			color: var(--accent-mustard);
+			font-size: 1.2rem;
+			margin-top: 0.2rem;
+		}
+
+		.area-item span {
+			color: var(--text-dark);
+			font-weight: 500;
+		}
+
+		@media (max-width: 992px) {
+			.split-container {
+				flex-direction: column;
+			}
+
+			.left-panel {
+				flex: 1;
+				padding: 2rem;
+			}
+
+			.right-panel {
+				padding: 2rem;
+			}
+
+			.area-list {
+				grid-template-columns: 1fr;
+			}
+		}
+	</style>
+	</head>
+	<body>
+		<div id="header"></div>
+		<div id="content">
+			<div class="split-container">
+				<div class="left-panel">
+					<img src="./assets/me.png" class="img-fluid rounded-circle" width="280" height="280">
+					<h1>Steve Foga</h1>
+					<p class="tagline">Data Science | Full-Stack Development | Technical Leadership</p>
+					<ul>
+						<li><a href="https://www.linkedin.com/in/stevefoga"><i class="fa-2x fa-fw fa-brands fa-linkedin-in"></i></a></li>
+						<li><a href="https://github.com/stevefoga"><i class="fa-2x fa-fw fa-brands fa-github"></i></a></li>
+						<li><a href="https://orcid.org/0000-0003-1835-1987"><i class="fa-2x fa-fw fa-brands fa-orcid"></i></a></li>
+						<li><a href="https://scholar.google.com/citations?user=9ldN1iQAAAAJ"><i class="fa-2x fa-fw fa-solid fa-graduation-cap"></i></a></li>
+					</ul>
+
+				</div>
+
+				<div class="right-panel">
+					<div class="bio-section">
+						<h2>About</h2>
+						<p>I work at the intersection of data science, software engineering, and technical leadership. With a foundational background in geospatial and earth sciences, my focus is on building reliable software solutions, leading cross-functional teams through agile development practices, and creating environments where collaboration and technical growth are encouraged.</p>
+						<p>With experience in containerization, DevOps, and full-stack development, I enjoy combining engineering best practices with data-driven approaches to solve complex problems.</p>
+
+						<div class="key-areas">
+							<h3>Key Areas of Expertise</h3>
+							<div class="area-list">
+								<div class="area-item">
+									<i class="fas fa-database"></i>
+									<span>Data Analysis & Management</span>
+								</div>
+								<div class="area-item">
+									<i class="fas fa-globe-americas"></i>
+									<span>Geospatial & Earth Sciences</span>
+								</div>
+								<div class="area-item">
+									<i class="fas fa-code"></i>
+									<span>Full-Stack Development</span>
+								</div>
+								<div class="area-item">
+									<i class="fas fa-code-branch"></i>
+									<span>DevOps & CI/CD</span>
+								</div>
+								<div class="area-item">
+									<i class="fas fa-users"></i>
+									<span>Team Leadership</span>
+								</div>
+								<div class="area-item">
+									<i class="fas fa-project-diagram"></i>
+									<span>Agile Development</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
-		<div id="content" class="col-sm-12 col-md-12 text-center">
-			<img src="./assets/me.png" class="img-fluid rounded-circle mx-auto d-block" width="300" height="300">
-			<h1>Steve Foga</h1>
-			<hr style="height:-5px; visibility: hidden;" />
-			<ul>
-				<li><a href="https://www.linkedin.com/in/stevefoga"><i class="fa-2x fa-fw fa-brands fa-linkedin-in" style="color:black"></i></a></li>
-				<li><a href="https://github.com/stevefoga"><i class="fa-2x fa-fw fa-brands fa-github" style="color:black"></i></a></li>
-				<li><a href="https://orcid.org/0000-0003-1835-1987"><i class="fa-2x fa-fw fa-brands fa-orcid" style="color:black"></i></a></li>
-				<li><a href="https://scholar.google.com/citations?user=9ldN1iQAAAAJ"><i class="fa-2x fa-fw fa-solid fa-graduation-cap" style="color:black"></i></a></li>
-			</ul>
-		</div>
-  	</body> 
+  	</body>
   </html>
