@@ -4,260 +4,57 @@
     <title>Clustered Points from Local GeoJSON</title>
     <meta property="og:description" content="Using MapLibre GL JS to visualize points as clusters from a local GeoJSON file." />
     <meta charset='utf-8'>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes">
     <link rel='stylesheet' href='https://unpkg.com/maplibre-gl@5.5.0/dist/maplibre-gl.css' />
+    <link rel='stylesheet' href='map.css' />
     <script src='https://unpkg.com/maplibre-gl@5.5.0/dist/maplibre-gl.js'></script>
-    <style>
-        body { margin: 0; padding: 0; }
-        html, body, #map { height: 100%; }
-        .maplibregl-popup {
-            max-width: 300px;
-        }
-        .maplibregl-popup-content {
-            padding: 15px;
-        }
-        .popup-image {
-            max-width: 100%;
-            margin-top: 10px;
-        }
-    </style>
 </head>
 <body>
 <div id="map"></div>
 
-<script>
-    const map = new maplibregl.Map({
-        container: 'map',
-        style: 'https://api.maptiler.com/maps/streets/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL',
-        center: [0, 0], // Will adjust to data extent
-        zoom: 2
-    });
+<!-- Country Filter Drawer -->
+<div id="country-filter-container">
+    <div id="filter-content-wrapper">
+        <h3>Filter by Location</h3>
+        <div class="filter-controls">
+            <button class="filter-control-btn" id="select-all-btn">All</button>
+            <button class="filter-control-btn" id="deselect-all-btn">None</button>
+        </div>
+        <div id="country-checkboxes"></div>
+    </div>
+    <div id="filter-tab">
+        <span id="filter-checkbox-icon">☑️</span>
+        <button id="toggle-filter-btn">◀</button>
+    </div>
+</div>
 
-    map.on('load', async () => {
-        try {
-            // Fetch the local GeoJSON file
-            const response = await fetch('./points.geojson');
-            if (!response.ok) {
-                throw new Error(`Failed to load GeoJSON: ${response.status} ${response.statusText}`);
-            }
-            const geojsonData = await response.json();
-            
-            // Calculate bounds from all points to center the map
-            if (geojsonData.features && geojsonData.features.length > 0) {
-                const bounds = new maplibregl.LngLatBounds();
-                geojsonData.features.forEach(feature => {
-                    if (feature.geometry && feature.geometry.coordinates) {
-                        bounds.extend(feature.geometry.coordinates);
-                    }
-                });
-                map.fitBounds(bounds, { padding: 50 });
-            }
+<div id="time-slider-container">
+    <div id="slider-tab">
+        <div id="tab-content">
+            <span id="calendar-icon">📅</span>
+            <span id="toggle-slider-btn" title="Toggle time slider">▼</span>
+        </div>
+    </div>
+    <div id="slider-content-wrapper">
+        <button id="play-pause-btn" title="Play time animation">▶</button>
+        <button id="reset-time-btn" title="Reset to all dates">↻</button>
+        <div id="time-display">All dates</div>
+        <div class="slider-content">
+            <div id="time-range">
+                <span id="start-date"></span>
+                <span id="end-date"></span>
+            </div>
+            <div class="slider-wrapper">
+                <div id="slider-track">
+                    <div id="slider-range"></div>
+                </div>
+                <input type="range" class="time-slider" id="slider-start" min="0" max="100" value="0" step="1">
+                <input type="range" class="time-slider" id="slider-end" min="0" max="100" value="100" step="1">
+            </div>
+        </div>
+    </div>
+</div>
 
-            // Add source with clustering enabled - modify clustering parameters here
-            map.addSource('points', {
-                type: 'geojson',
-                data: geojsonData,
-                cluster: true,
-                clusterMaxZoom: 14,     // Max zoom to cluster points on
-                clusterRadius: 40,      // Reduced radius for smaller clusters
-                clusterProperties: {     // Optional: store additional properties in clusters
-                    sum_points: ['+', ['get', 'point_count']]
-                }
-            });
-
-            // Add cluster circles layer
-            map.addLayer({
-                id: 'clusters',
-                type: 'circle',
-                source: 'points',
-                filter: ['has', 'point_count'],
-                paint: {
-                    'circle-color': [
-                        'step',
-                        ['get', 'point_count'],
-                        '#51bbd6',  // Blue for smaller clusters
-                        10,
-                        '#f1f075',  // Yellow for medium clusters
-                        30,
-                        '#f28cb1'   // Pink for large clusters
-                    ],
-                    'circle-radius': [
-                        'step',
-                        ['get', 'point_count'],
-                        20,  // 20px radius for count < 10
-                        10,
-                        30,  // 30px radius for count >= 10 and < 30
-                        30,
-                        40   // 40px radius for count >= 30
-                    ]
-                }
-            });
-
-            // Add cluster count labels
-            map.addLayer({
-                id: 'cluster-count',
-                type: 'symbol',
-                source: 'points',
-                filter: ['has', 'point_count'],
-                layout: {
-                    'text-field': '{point_count_abbreviated}',
-                    'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
-                    'text-size': 12
-                }
-            });
-
-            // Add unclustered point circles
-            map.addLayer({
-                id: 'unclustered-point',
-                type: 'circle',
-                source: 'points',
-                filter: ['!', ['has', 'point_count']],
-                paint: {
-                    'circle-color': '#11b4da',
-                    'circle-radius': 6,
-                    'circle-stroke-width': 1,
-                    'circle-stroke-color': '#fff'
-                }
-            });
-
-            // IMPROVED: Handle cluster click to expand clusters more aggressively
-            map.on('click', 'clusters', async (e) => {
-                const features = map.queryRenderedFeatures(e.point, {
-                    layers: ['clusters']
-                });
-                const clusterId = features[0].properties.cluster_id;
-                const pointCount = features[0].properties.point_count;
-                
-                // Get current zoom level
-                const currentZoom = map.getZoom();
-                
-                try {
-                    // Get children of this cluster
-                    const children = await map.getSource('points')
-                        .getClusterChildren(clusterId);
-                    
-                    // If there are many points, or if we're zoomed in far enough, 
-                    // skip directly to leaves (individual points)
-                    if (pointCount > 30 || currentZoom > 10) {
-                        const leaves = await map.getSource('points')
-                            .getClusterLeaves(clusterId, Math.min(pointCount, 50), 0);
-                            
-                        // Create a bounds object to fit all the points
-                        const bounds = new maplibregl.LngLatBounds();
-                        leaves.forEach(leaf => {
-                            bounds.extend(leaf.geometry.coordinates);
-                        });
-                        
-                        // Fit the map to show all these points
-                        map.fitBounds(bounds, {
-                            padding: 50,
-                            maxZoom: 15
-                        });
-                    } 
-                    // If it's a smaller cluster, just get the expansion zoom and go one level deeper
-                    else if (children.length <= 4) {
-                        // Get expansion zoom plus 1 to break them apart faster
-                        const zoom = await map.getSource('points')
-                            .getClusterExpansionZoom(clusterId);
-                        
-                        map.easeTo({
-                            center: features[0].geometry.coordinates,
-                            zoom: Math.min(zoom + 1.5, 16)  // Zoom a bit more aggressively, with a max limit
-                        });
-                    }
-                    // For medium clusters, expand and show their bounds
-                    else {
-                        const bounds = new maplibregl.LngLatBounds();
-                        children.forEach(child => {
-                            bounds.extend(child.geometry.coordinates);
-                        });
-                        
-                        map.fitBounds(bounds, {
-                            padding: 50,
-                            maxZoom: 15
-                        });
-                    }
-                } catch (err) {
-                    console.error("Error expanding cluster:", err);
-                    
-                    // Fallback to the default expansion method
-                    const zoom = await map.getSource('points')
-                        .getClusterExpansionZoom(clusterId);
-                    
-                    map.easeTo({
-                        center: features[0].geometry.coordinates,
-                        zoom: zoom + 0.5  // Add a bit more zoom to break apart faster
-                    });
-                }
-            });
-
-            // Show popup for individual points
-            map.on('click', 'unclustered-point', (e) => {
-                const coordinates = e.features[0].geometry.coordinates.slice();
-                const props = e.features[0].properties;
-                
-                // Ensure that if the map is zoomed out such that
-                // multiple copies of the feature are visible, the
-                // popup appears over the copy being pointed to.
-                while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-                    coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-                }
-
-                // Create HTML content for popup
-                let popupContent = '';
-                
-                if (props.name) {
-                    popupContent += `<h3>${props.name}</h3>`;
-                }
-                
-                if (props.loc) {
-                    popupContent += `<div>${props.loc}</div>`;
-                }
-                
-                if (props.date) {
-                    popupContent += `<div>Date: ${props.date}</div>`;
-                }
-                
-                if (props.url) {
-                    popupContent += `<img src="${props.url}" class="popup-image" alt="${props.name || 'Image'}">`;
-                }
-
-                new maplibregl.Popup()
-                    .setLngLat(coordinates)
-                    .setHTML(popupContent)
-                    .addTo(map);
-            });
-
-            // Change cursor when hovering over clusters and points
-            map.on('mouseenter', 'clusters', () => {
-                map.getCanvas().style.cursor = 'pointer';
-            });
-            
-            map.on('mouseleave', 'clusters', () => {
-                map.getCanvas().style.cursor = '';
-            });
-            
-            map.on('mouseenter', 'unclustered-point', () => {
-                map.getCanvas().style.cursor = 'pointer';
-            });
-            
-            map.on('mouseleave', 'unclustered-point', () => {
-                map.getCanvas().style.cursor = '';
-            });
-
-            // Add zoom and rotation controls to the map.
-            map.addControl(new maplibregl.NavigationControl({
-                visualizePitch: true,
-                visualizeRoll: true,
-                showZoom: true,
-                showCompass: true
-            }));
-            
-        } catch (error) {
-            console.error("Error loading GeoJSON:", error);
-            alert("Failed to load map data. See console for details.");
-        }
-    });
-</script>
+<script src='map.js'></script>
 </body>
 </html>
