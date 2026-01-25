@@ -147,22 +147,22 @@ h1 {
 }
 
 /* Social Icons */
-ul {
+.left-panel ul {
     padding: 0;
     margin-top: 2rem;
 }
 
-ul li {
+.left-panel ul li {
     display: inline-block;
     margin: 0 0.75rem;
 }
 
-ul li a {
+.left-panel ul li a {
     display: inline-block;
     transition: all 0.3s ease;
 }
 
-ul li a i {
+.left-panel ul li a i {
     color: var(--primary-dark);
     width: 60px;
     height: 60px;
@@ -175,7 +175,7 @@ ul li a i {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
-ul li a i:hover {
+.left-panel ul li a i:hover {
     background: var(--primary-dark);
     color: var(--text-light);
     transform: translateY(-5px);
@@ -183,25 +183,25 @@ ul li a i:hover {
 }
 
 /* LinkedIn */
-ul li:nth-child(1) a i:hover {
+.left-panel ul li:nth-child(1) a i:hover {
     background: #0077B5;
     border-color: #0077B5;
 }
 
 /* GitHub */
-ul li:nth-child(2) a i:hover {
+.left-panel ul li:nth-child(2) a i:hover {
     background: #333;
     border-color: #333;
 }
 
 /* ORCID */
-ul li:nth-child(3) a i:hover {
+.left-panel ul li:nth-child(3) a i:hover {
     background: #A6CE39;
     border-color: #A6CE39;
 }
 
 /* Google Scholar */
-ul li:nth-child(4) a i:hover {
+.left-panel ul li:nth-child(4) a i:hover {
     background: var(--accent-maroon);
     border-color: var(--accent-maroon);
 }
