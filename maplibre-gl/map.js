@@ -1,3 +1,5 @@
+import * as maplibregl from 'https://unpkg.com/maplibre-gl@6.15.0/dist/maplibre-gl.mjs';
+
 const map = new maplibregl.Map({
     container: 'map',
     // Grayscale map styles - uncomment the one you prefer:
@@ -347,6 +349,11 @@ map.on('load', async () => {
             .map(d => new Date(d))
             .sort((a, b) => a - b);
 
+        // Declared out here, not inside the block below, so the country filter
+        // handlers can reach it: this file is an ES module and therefore strict
+        // mode, where a function declared inside a block is scoped to that block.
+        let updateMapByDateRange = () => {};
+
         if (dates.length > 0) {
             const minDate = dates[0];
             const maxDate = dates[dates.length - 1];
@@ -380,7 +387,7 @@ map.on('load', async () => {
                 sliderRange.style.width = (endPercent - startPercent) + '%';
             }
 
-            function updateMapByDateRange() {
+            updateMapByDateRange = function () {
                 let startPercent = parseInt(sliderStart.value);
                 let endPercent = parseInt(sliderEnd.value);
 
@@ -427,7 +434,7 @@ map.on('load', async () => {
                         features: filteredFeatures
                     });
                 }
-            }
+            };
 
             // Drag the range bar to slide the time window
             let isDraggingRange = false;
